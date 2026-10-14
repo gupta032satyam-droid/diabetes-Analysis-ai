@@ -1,0 +1,24 @@
+DIABETES RANDOM FOREST — CLASSIFICATION REPORT
+============================================================
+
+Overall  Accuracy  : 97.6580%
+Balanced Accuracy  : 96.8287%
+OOB Score          : 97.6225%
+
+                        precision    recall  f1-score   support
+
+Child/Pediatric Type 1     1.0000    0.9937    0.9968       158
+Child/Pediatric Type 2     1.0000    0.9574    0.9783        47
+  Gestational Diabetes     0.9320    0.9580    0.9448       286
+           No Diabetes     0.9745    0.9945    0.9844      8428
+          Pre-Diabetes     1.0000    1.0000    1.0000       473
+       Type 1 Diabetes     1.0000    1.0000    1.0000       300
+       Type 2 Diabetes     0.9820    0.8743    0.9250      1623
+
+              accuracy                         0.9766     11315
+             macro avg     0.9841    0.9683    0.9756     11315
+          weighted avg     0.9767    0.9766    0.9761     11315
+
+5-Fold CV Scores:
+  Folds : [np.float64(97.71), np.float64(97.54), np.float64(97.69), np.float64(97.73), np.float64(97.56)]
+  Mean  : 97.6472% ± 0.0789%

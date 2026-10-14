@@ -1,0 +1,1001 @@
+patient_id,age_years,gender,bmi,bmi_percentile,diabetes_subtype,fasting_glucose_mg_dl,hba1c_pct,c_peptide_ng_ml,autoantibodies,insulin_therapy_type,school_level,hypoglycemia_events_per_month,dka_at_diagnosis,cgm_use,comorbid_thyroid_disease,comorbid_celiac_disease,family_history_diabetes,duration_since_diagnosis_months,diagnosis
+CHILD_0001,4,Male,17.9,46.5,Type 1,209.3,10.9,0.1,Positive,MDI,Preschool,3,Yes,Yes,No,No,No,79,Child/Pediatric Diabetes
+CHILD_0002,10,Female,18.2,50.0,Type 1,225.0,10.0,0.05,Positive,Pump,Primary,1,Yes,Yes,No,No,Yes,146,Child/Pediatric Diabetes
+CHILD_0003,9,Female,19.8,53.8,Type 1,269.9,8.1,0.12,Positive,Pump,Primary,3,No,Yes,No,No,No,125,Child/Pediatric Diabetes
+CHILD_0004,9,Male,21.0,93.2,MODY,127.0,7.1,2.04,Negative,Basal Only,Primary,2,Yes,No,Yes,No,No,152,Child/Pediatric Diabetes
+CHILD_0005,3,Male,19.8,69.0,Type 1,176.5,6.1,0.16,Positive,None,Preschool,1,Yes,Yes,No,Yes,No,133,Child/Pediatric Diabetes
+CHILD_0006,3,Male,19.1,45.9,Type 1,220.6,9.3,0.06,Positive,Pump,Preschool,1,No,Yes,No,No,Yes,54,Child/Pediatric Diabetes
+CHILD_0007,10,Male,18.4,71.1,Type 1,196.3,9.2,0.21,Positive,MDI,Primary,1,No,No,No,No,Yes,37,Child/Pediatric Diabetes
+CHILD_0008,17,Female,22.7,64.4,Type 1,306.6,6.6,0.2,Positive,Basal Only,High School,4,No,Yes,No,No,Yes,171,Child/Pediatric Diabetes
+CHILD_0009,11,Female,23.0,66.4,Type 1,321.3,7.1,0.07,Positive,MDI,Primary,0,No,No,No,No,No,177,Child/Pediatric Diabetes
+CHILD_0010,3,Female,18.1,22.0,Type 1,211.7,9.3,0.16,Positive,MDI,Preschool,3,No,Yes,No,Yes,No,162,Child/Pediatric Diabetes
+CHILD_0011,15,Female,27.5,62.7,Type 1,198.0,7.3,0.22,Positive,MDI,High School,3,Yes,Yes,No,No,Yes,174,Child/Pediatric Diabetes
+CHILD_0012,10,Male,12.0,88.5,Type 1,247.1,8.9,0.24,Positive,MDI,Primary,1,No,No,No,No,No,53,Child/Pediatric Diabetes
+CHILD_0013,13,Male,21.3,76.9,Type 1,263.3,9.5,0.19,Negative,Pump,Middle School,1,No,Yes,No,No,No,82,Child/Pediatric Diabetes
+CHILD_0014,14,Male,13.5,55.2,Type 1,225.0,11.0,0.16,Positive,Pump,Middle School,1,No,Yes,Yes,No,Yes,49,Child/Pediatric Diabetes
+CHILD_0015,2,Female,23.1,99.0,Type 1,170.9,11.3,0.1,Positive,MDI,Preschool,2,No,No,Yes,No,No,77,Child/Pediatric Diabetes
+CHILD_0016,1,Male,25.8,60.8,Type 1,190.6,9.9,0.17,Positive,Basal Only,Preschool,2,No,No,No,No,No,58,Child/Pediatric Diabetes
+CHILD_0017,4,Male,21.6,74.2,Type 1,200.5,7.8,0.05,Positive,MDI,Preschool,1,No,Yes,No,No,No,112,Child/Pediatric Diabetes
+CHILD_0018,12,Female,26.1,57.9,Type 1,199.1,7.9,0.21,Positive,Basal Only,Middle School,3,Yes,Yes,No,No,Yes,66,Child/Pediatric Diabetes
+CHILD_0019,2,Female,20.4,38.3,Type 1,133.3,10.0,0.26,Positive,Pump,Preschool,1,No,No,No,No,Yes,58,Child/Pediatric Diabetes
+CHILD_0020,13,Male,25.4,79.7,Type 2,184.9,10.7,2.98,Negative,None,Middle School,3,No,No,No,No,No,171,Child/Pediatric Diabetes
+CHILD_0021,1,Female,17.5,92.3,Type 2,161.2,7.0,1.91,Negative,Basal Only,Preschool,1,Yes,No,No,No,Yes,4,Child/Pediatric Diabetes
+CHILD_0022,4,Male,17.5,63.5,Type 1,225.1,10.9,0.11,Positive,MDI,Preschool,2,Yes,No,No,No,No,84,Child/Pediatric Diabetes
+CHILD_0023,12,Male,19.9,43.8,Type 1,249.4,6.1,0.18,Positive,Basal Only,Middle School,3,No,No,No,No,Yes,49,Child/Pediatric Diabetes
+CHILD_0024,9,Male,27.2,70.6,Type 1,220.0,9.7,0.13,Positive,Pump,Primary,2,No,Yes,No,No,No,68,Child/Pediatric Diabetes
+CHILD_0025,10,Female,22.7,56.8,Type 1,175.2,8.0,0.17,Negative,MDI,Primary,2,No,Yes,No,No,No,99,Child/Pediatric Diabetes
+CHILD_0026,12,Male,12.7,75.6,Type 1,208.9,8.2,0.12,Positive,MDI,Middle School,0,No,No,No,No,No,145,Child/Pediatric Diabetes
+CHILD_0027,3,Female,23.3,51.0,Type 1,149.6,6.7,0.23,Positive,MDI,Preschool,3,Yes,Yes,Yes,No,Yes,54,Child/Pediatric Diabetes
+CHILD_0028,4,Male,23.8,61.6,Type 1,257.8,8.9,0.17,Positive,MDI,Preschool,4,No,No,Yes,Yes,No,150,Child/Pediatric Diabetes
+CHILD_0029,15,Female,16.1,91.1,Type 1,306.4,6.7,0.07,Positive,MDI,High School,3,No,Yes,No,No,Yes,43,Child/Pediatric Diabetes
+CHILD_0030,4,Female,21.6,61.3,Type 1,151.4,7.9,0.02,Positive,MDI,Preschool,1,No,No,No,Yes,Yes,54,Child/Pediatric Diabetes
+CHILD_0031,13,Female,20.7,71.5,MODY,164.0,7.1,3.14,Negative,MDI,Middle School,3,Yes,No,No,No,No,124,Child/Pediatric Diabetes
+CHILD_0032,15,Female,18.0,70.4,Type 1,299.7,7.5,0.15,Positive,MDI,High School,3,Yes,Yes,No,No,Yes,13,Child/Pediatric Diabetes
+CHILD_0033,7,Female,18.3,99.0,Type 1,210.0,7.3,0.18,Negative,Basal Only,Primary,4,Yes,No,No,No,No,17,Child/Pediatric Diabetes
+CHILD_0034,4,Female,13.0,79.7,Type 1,286.3,6.2,0.2,Positive,MDI,Preschool,4,No,Yes,No,No,No,151,Child/Pediatric Diabetes
+CHILD_0035,11,Female,17.9,57.4,Type 1,285.5,7.5,0.11,Positive,None,Primary,1,No,No,No,No,No,132,Child/Pediatric Diabetes
+CHILD_0036,7,Male,18.6,71.1,Type 1,184.8,6.5,0.18,Positive,MDI,Primary,4,Yes,No,No,No,Yes,90,Child/Pediatric Diabetes
+CHILD_0037,12,Male,18.6,53.7,Type 1,117.2,7.2,0.12,Positive,MDI,Middle School,4,No,Yes,No,No,No,126,Child/Pediatric Diabetes
+CHILD_0038,17,Female,18.9,99.0,Type 1,229.9,9.4,0.13,Positive,MDI,High School,3,No,Yes,No,No,Yes,141,Child/Pediatric Diabetes
+CHILD_0039,4,Male,26.3,45.5,Type 1,232.1,7.3,0.24,Positive,None,Preschool,3,No,No,No,No,No,84,Child/Pediatric Diabetes
+CHILD_0040,6,Female,20.8,58.8,Type 2,228.4,10.1,1.93,Negative,Pump,Primary,2,No,Yes,No,No,No,29,Child/Pediatric Diabetes
+CHILD_0041,15,Female,22.7,68.5,Type 1,293.3,9.9,0.05,Positive,None,High School,0,No,Yes,No,No,Yes,129,Child/Pediatric Diabetes
+CHILD_0042,16,Male,21.9,44.4,Type 2,198.5,7.1,2.71,Negative,Pump,High School,2,No,Yes,No,Yes,No,9,Child/Pediatric Diabetes
+CHILD_0043,7,Male,19.7,79.3,Type 1,320.3,7.7,0.18,Positive,MDI,Primary,3,No,No,No,No,Yes,122,Child/Pediatric Diabetes
+CHILD_0044,9,Female,25.4,52.9,Type 2,212.7,8.4,2.17,Negative,Pump,Primary,1,Yes,No,No,No,No,100,Child/Pediatric Diabetes
+CHILD_0045,14,Female,25.3,51.6,Type 1,198.6,5.4,0.11,Positive,Basal Only,Middle School,4,No,No,No,No,No,157,Child/Pediatric Diabetes
+CHILD_0046,7,Female,22.8,89.2,Type 2,207.1,8.9,3.27,Negative,Pump,Primary,3,No,Yes,Yes,No,Yes,5,Child/Pediatric Diabetes
+CHILD_0047,17,Male,20.4,54.7,Type 1,271.5,9.6,0.12,Positive,MDI,High School,1,No,Yes,No,No,No,77,Child/Pediatric Diabetes
+CHILD_0048,12,Male,19.5,71.6,MODY,176.6,7.1,2.36,Negative,Basal Only,Middle School,4,No,No,No,No,Yes,152,Child/Pediatric Diabetes
+CHILD_0049,7,Female,21.4,73.2,Type 1,242.8,8.0,0.09,Positive,MDI,Primary,2,No,Yes,Yes,No,No,5,Child/Pediatric Diabetes
+CHILD_0050,6,Female,13.7,84.8,Type 1,168.5,9.4,0.17,Positive,Pump,Primary,2,No,No,Yes,No,No,149,Child/Pediatric Diabetes
+CHILD_0051,9,Female,19.9,84.1,Type 2,223.5,8.4,0.3,Negative,Basal Only,Primary,0,Yes,No,No,No,No,37,Child/Pediatric Diabetes
+CHILD_0052,9,Female,23.4,23.0,Type 2,164.0,6.9,1.16,Negative,MDI,Primary,8,No,Yes,No,No,Yes,60,Child/Pediatric Diabetes
+CHILD_0053,14,Female,14.7,53.9,Type 1,262.0,10.2,0.09,Positive,MDI,Middle School,0,No,No,No,No,Yes,125,Child/Pediatric Diabetes
+CHILD_0054,11,Male,14.4,62.9,Type 1,154.8,10.6,0.19,Positive,MDI,Primary,5,Yes,Yes,Yes,No,Yes,113,Child/Pediatric Diabetes
+CHILD_0055,3,Female,17.4,92.1,Type 1,293.2,8.2,0.2,Positive,MDI,Preschool,0,No,Yes,Yes,No,Yes,68,Child/Pediatric Diabetes
+CHILD_0056,5,Male,16.8,46.4,Type 1,213.5,9.3,0.02,Positive,MDI,Preschool,3,No,Yes,No,Yes,Yes,19,Child/Pediatric Diabetes
+CHILD_0057,6,Female,22.1,59.0,Type 1,199.5,6.9,0.14,Negative,MDI,Primary,2,No,Yes,No,No,No,101,Child/Pediatric Diabetes
+CHILD_0058,2,Male,21.0,68.4,Type 1,218.6,5.0,0.07,Positive,MDI,Preschool,2,No,Yes,No,No,Yes,17,Child/Pediatric Diabetes
+CHILD_0059,14,Female,24.8,60.8,Type 1,165.5,9.5,0.11,Positive,MDI,Middle School,2,Yes,No,No,No,No,113,Child/Pediatric Diabetes
+CHILD_0060,8,Female,15.5,83.3,Type 1,166.5,6.4,0.12,Positive,None,Primary,1,No,Yes,No,No,No,106,Child/Pediatric Diabetes
+CHILD_0061,2,Male,19.9,59.2,Type 1,136.7,9.9,0.15,Positive,MDI,Preschool,1,Yes,No,No,No,Yes,49,Child/Pediatric Diabetes
+CHILD_0062,16,Female,25.6,50.5,Type 1,225.2,7.5,0.12,Positive,None,High School,5,No,No,No,No,No,15,Child/Pediatric Diabetes
+CHILD_0063,15,Female,25.1,64.5,Type 2,216.2,5.8,1.29,Negative,MDI,High School,3,No,Yes,No,No,No,142,Child/Pediatric Diabetes
+CHILD_0064,17,Female,14.0,99.0,Type 2,103.4,8.7,1.72,Negative,Pump,High School,3,Yes,No,No,No,Yes,94,Child/Pediatric Diabetes
+CHILD_0065,14,Male,13.0,68.8,Type 1,231.8,8.0,0.05,Positive,MDI,Middle School,2,Yes,No,No,No,No,44,Child/Pediatric Diabetes
+CHILD_0066,14,Female,21.8,99.0,Type 1,160.0,6.7,0.11,Positive,MDI,Middle School,3,No,No,No,No,Yes,69,Child/Pediatric Diabetes
+CHILD_0067,16,Male,15.7,77.1,Type 1,216.6,8.6,0.11,Positive,Pump,High School,2,No,No,No,No,No,20,Child/Pediatric Diabetes
+CHILD_0068,1,Female,17.4,65.2,Type 1,203.4,10.4,0.08,Positive,MDI,Preschool,3,Yes,No,No,No,No,142,Child/Pediatric Diabetes
+CHILD_0069,4,Female,21.9,91.5,Type 2,266.4,8.1,1.05,Negative,Basal Only,Preschool,1,No,No,No,No,No,87,Child/Pediatric Diabetes
+CHILD_0070,6,Female,19.9,84.8,Type 1,139.6,7.1,0.14,Positive,Basal Only,Primary,2,Yes,Yes,No,No,Yes,15,Child/Pediatric Diabetes
+CHILD_0071,3,Male,24.0,75.7,Type 1,191.0,11.0,0.07,Positive,MDI,Preschool,3,No,No,No,No,Yes,57,Child/Pediatric Diabetes
+CHILD_0072,4,Male,15.4,74.6,Type 1,217.8,10.0,0.06,Positive,MDI,Preschool,3,No,No,No,No,Yes,144,Child/Pediatric Diabetes
+CHILD_0073,9,Male,20.2,81.3,Type 2,129.2,7.0,2.84,Negative,MDI,Primary,1,No,Yes,No,No,Yes,101,Child/Pediatric Diabetes
+CHILD_0074,9,Male,18.2,68.0,Type 1,249.9,7.9,0.08,Positive,None,Primary,1,No,Yes,No,No,No,61,Child/Pediatric Diabetes
+CHILD_0075,1,Female,21.6,89.0,Type 1,231.9,5.8,0.08,Positive,Pump,Preschool,2,No,No,No,No,Yes,130,Child/Pediatric Diabetes
+CHILD_0076,5,Female,20.8,53.2,Type 1,80.0,6.7,0.19,Positive,MDI,Preschool,2,Yes,Yes,No,No,No,94,Child/Pediatric Diabetes
+CHILD_0077,12,Female,21.0,60.9,Type 1,148.5,11.4,0.07,Positive,MDI,Middle School,5,No,No,No,No,Yes,22,Child/Pediatric Diabetes
+CHILD_0078,7,Male,24.2,47.9,Type 2,80.0,7.4,1.67,Negative,Pump,Primary,3,No,Yes,No,No,Yes,8,Child/Pediatric Diabetes
+CHILD_0079,1,Male,22.5,99.0,Type 1,321.0,7.2,0.05,Positive,MDI,Preschool,1,No,Yes,No,No,Yes,106,Child/Pediatric Diabetes
+CHILD_0080,8,Female,24.9,24.9,MODY,155.0,5.9,1.86,Negative,None,Primary,2,Yes,No,No,No,No,140,Child/Pediatric Diabetes
+CHILD_0081,10,Female,19.1,64.1,Type 1,80.0,5.9,0.11,Positive,MDI,Primary,3,Yes,No,No,No,Yes,78,Child/Pediatric Diabetes
+CHILD_0082,13,Male,22.7,52.4,Type 1,169.7,8.5,0.13,Positive,MDI,Middle School,5,No,Yes,Yes,No,No,123,Child/Pediatric Diabetes
+CHILD_0083,6,Male,17.9,59.5,Type 1,230.4,11.3,0.11,Positive,Pump,Primary,5,Yes,Yes,No,No,No,22,Child/Pediatric Diabetes
+CHILD_0084,13,Female,17.8,25.8,Type 1,139.4,8.0,0.03,Positive,None,Middle School,2,Yes,No,No,No,Yes,34,Child/Pediatric Diabetes
+CHILD_0085,10,Male,15.9,52.4,Type 1,247.9,8.8,0.09,Positive,MDI,Primary,1,No,Yes,No,No,Yes,33,Child/Pediatric Diabetes
+CHILD_0086,5,Female,27.9,78.3,Type 1,214.3,7.8,0.15,Negative,MDI,Preschool,5,No,No,No,No,No,105,Child/Pediatric Diabetes
+CHILD_0087,12,Male,16.5,44.2,Type 1,281.3,6.8,0.15,Negative,Pump,Middle School,3,Yes,Yes,No,No,Yes,17,Child/Pediatric Diabetes
+CHILD_0088,13,Female,23.4,98.4,Type 1,162.8,8.0,0.04,Positive,None,Middle School,1,No,No,No,No,No,80,Child/Pediatric Diabetes
+CHILD_0089,1,Male,21.9,49.9,Type 1,242.6,9.3,0.14,Positive,MDI,Preschool,4,No,Yes,No,No,Yes,94,Child/Pediatric Diabetes
+CHILD_0090,5,Male,21.0,32.1,Type 1,241.6,9.7,0.2,Positive,None,Preschool,3,No,Yes,Yes,No,Yes,126,Child/Pediatric Diabetes
+CHILD_0091,8,Female,20.7,99.0,Type 1,309.7,10.1,0.13,Positive,Pump,Primary,1,No,Yes,No,No,Yes,167,Child/Pediatric Diabetes
+CHILD_0092,7,Male,19.8,79.2,Type 1,262.4,10.6,0.12,Negative,Basal Only,Primary,0,No,Yes,No,No,No,25,Child/Pediatric Diabetes
+CHILD_0093,10,Female,18.0,82.0,Type 1,216.5,6.1,0.11,Positive,MDI,Primary,4,No,No,No,No,No,13,Child/Pediatric Diabetes
+CHILD_0094,8,Female,25.3,99.0,Type 1,135.6,10.4,0.21,Positive,Pump,Primary,1,No,Yes,Yes,No,No,47,Child/Pediatric Diabetes
+CHILD_0095,7,Female,16.3,34.8,Type 1,170.3,10.3,0.1,Positive,MDI,Primary,1,Yes,Yes,No,No,Yes,35,Child/Pediatric Diabetes
+CHILD_0096,17,Female,20.5,95.8,Type 1,238.5,6.9,0.2,Positive,Pump,High School,1,No,No,No,No,Yes,102,Child/Pediatric Diabetes
+CHILD_0097,4,Male,20.4,26.2,MODY,236.4,7.5,1.56,Negative,MDI,Preschool,1,Yes,Yes,No,No,No,65,Child/Pediatric Diabetes
+CHILD_0098,8,Female,21.9,39.9,Type 2,137.2,6.0,2.17,Negative,Basal Only,Primary,2,No,Yes,No,No,No,11,Child/Pediatric Diabetes
+CHILD_0099,17,Female,23.3,89.1,Type 2,157.9,6.5,1.78,Negative,MDI,High School,2,No,No,No,No,Yes,158,Child/Pediatric Diabetes
+CHILD_0100,9,Female,18.5,72.4,Type 1,191.8,7.3,0.09,Positive,MDI,Primary,2,No,Yes,No,No,No,18,Child/Pediatric Diabetes
+CHILD_0101,11,Male,19.7,14.1,Type 1,281.2,8.7,0.14,Positive,Basal Only,Primary,4,No,Yes,Yes,No,No,139,Child/Pediatric Diabetes
+CHILD_0102,9,Male,17.0,52.5,Type 1,224.8,8.1,0.21,Positive,MDI,Primary,3,Yes,Yes,No,Yes,No,124,Child/Pediatric Diabetes
+CHILD_0103,6,Male,22.5,45.4,MODY,161.9,8.3,2.74,Negative,Basal Only,Primary,1,No,Yes,No,No,No,50,Child/Pediatric Diabetes
+CHILD_0104,3,Female,23.1,81.3,Type 1,110.8,7.1,0.07,Positive,MDI,Preschool,6,Yes,No,Yes,No,Yes,46,Child/Pediatric Diabetes
+CHILD_0105,8,Female,18.0,74.1,Type 1,182.2,7.0,0.08,Positive,Pump,Primary,3,No,No,No,No,Yes,102,Child/Pediatric Diabetes
+CHILD_0106,15,Male,21.7,77.3,Type 1,172.6,8.5,0.21,Positive,Pump,High School,2,Yes,Yes,No,No,Yes,56,Child/Pediatric Diabetes
+CHILD_0107,15,Male,20.6,42.6,Type 2,251.5,7.8,1.37,Negative,Pump,High School,5,No,Yes,No,No,No,82,Child/Pediatric Diabetes
+CHILD_0108,9,Female,19.5,54.9,Type 1,277.0,6.9,0.17,Positive,Pump,Primary,0,No,Yes,No,No,No,32,Child/Pediatric Diabetes
+CHILD_0109,1,Male,23.8,76.5,Type 2,176.2,7.0,3.1,Negative,Pump,Preschool,3,No,No,No,No,No,103,Child/Pediatric Diabetes
+CHILD_0110,12,Female,26.9,70.6,Type 1,216.5,8.0,0.11,Positive,Pump,Middle School,2,No,Yes,No,No,No,60,Child/Pediatric Diabetes
+CHILD_0111,14,Male,15.1,88.9,Type 1,226.5,8.1,0.1,Positive,Pump,Middle School,5,No,No,No,No,No,70,Child/Pediatric Diabetes
+CHILD_0112,7,Female,20.6,43.2,Type 1,224.5,5.6,0.09,Positive,Basal Only,Primary,0,Yes,Yes,No,No,Yes,87,Child/Pediatric Diabetes
+CHILD_0113,2,Female,15.3,37.7,Type 1,217.9,10.1,0.08,Positive,MDI,Preschool,1,No,No,No,No,Yes,137,Child/Pediatric Diabetes
+CHILD_0114,17,Female,15.7,72.2,Type 1,246.2,8.7,0.14,Positive,Basal Only,High School,3,No,No,No,No,Yes,139,Child/Pediatric Diabetes
+CHILD_0115,4,Female,18.7,99.0,Type 1,206.4,11.3,0.06,Positive,MDI,Preschool,3,Yes,No,Yes,No,No,89,Child/Pediatric Diabetes
+CHILD_0116,5,Male,17.5,30.5,Type 1,133.6,10.0,0.19,Positive,Pump,Preschool,2,No,No,No,No,No,84,Child/Pediatric Diabetes
+CHILD_0117,12,Female,13.8,42.4,Type 1,170.3,8.4,0.2,Positive,MDI,Middle School,1,Yes,Yes,No,No,Yes,18,Child/Pediatric Diabetes
+CHILD_0118,2,Male,24.3,55.3,Neonatal,128.7,8.0,2.96,Negative,Pump,Preschool,0,No,Yes,No,No,No,53,Child/Pediatric Diabetes
+CHILD_0119,6,Female,19.7,64.1,Type 1,296.3,8.0,0.05,Positive,Pump,Primary,1,Yes,Yes,No,No,Yes,100,Child/Pediatric Diabetes
+CHILD_0120,13,Female,18.9,87.7,Type 1,276.8,8.2,0.11,Positive,Basal Only,Middle School,2,No,Yes,Yes,No,No,165,Child/Pediatric Diabetes
+CHILD_0121,11,Female,19.4,42.5,Type 1,121.6,12.2,0.1,Negative,MDI,Primary,1,No,No,No,No,No,75,Child/Pediatric Diabetes
+CHILD_0122,3,Female,22.8,60.0,MODY,275.6,8.2,1.19,Negative,MDI,Preschool,5,Yes,Yes,No,No,Yes,175,Child/Pediatric Diabetes
+CHILD_0123,11,Female,17.3,51.2,Type 1,166.6,8.2,0.14,Positive,Pump,Primary,2,No,No,Yes,No,No,82,Child/Pediatric Diabetes
+CHILD_0124,1,Female,18.8,80.3,Type 1,232.2,6.8,0.06,Positive,MDI,Preschool,1,No,No,No,No,Yes,128,Child/Pediatric Diabetes
+CHILD_0125,10,Male,12.5,74.4,Type 1,217.8,5.9,0.22,Positive,None,Primary,4,Yes,No,No,No,No,130,Child/Pediatric Diabetes
+CHILD_0126,15,Male,19.2,89.9,Type 1,198.9,9.1,0.16,Negative,None,High School,1,No,No,Yes,No,Yes,4,Child/Pediatric Diabetes
+CHILD_0127,5,Female,13.3,82.2,Neonatal,152.1,8.8,1.88,Negative,Basal Only,Preschool,1,No,Yes,Yes,No,Yes,29,Child/Pediatric Diabetes
+CHILD_0128,7,Female,21.7,90.9,Type 1,225.6,8.7,0.19,Positive,Basal Only,Primary,3,No,No,Yes,No,Yes,177,Child/Pediatric Diabetes
+CHILD_0129,17,Female,17.1,57.8,Type 1,193.6,11.5,0.18,Positive,Pump,High School,2,No,Yes,No,No,Yes,169,Child/Pediatric Diabetes
+CHILD_0130,15,Male,18.9,99.0,Type 1,238.6,6.8,0.14,Positive,Basal Only,High School,0,Yes,Yes,No,No,Yes,130,Child/Pediatric Diabetes
+CHILD_0131,5,Male,15.6,30.1,Type 1,278.4,13.0,0.13,Positive,MDI,Preschool,1,Yes,Yes,No,No,No,91,Child/Pediatric Diabetes
+CHILD_0132,6,Male,18.9,97.8,Type 1,288.3,7.3,0.14,Positive,Pump,Primary,0,No,Yes,Yes,No,No,139,Child/Pediatric Diabetes
+CHILD_0133,11,Male,24.6,46.8,Type 2,183.6,5.7,1.79,Negative,MDI,Primary,1,No,No,No,No,No,11,Child/Pediatric Diabetes
+CHILD_0134,17,Male,18.2,92.6,Type 1,291.8,8.3,0.16,Positive,MDI,High School,3,No,Yes,No,No,No,75,Child/Pediatric Diabetes
+CHILD_0135,15,Male,16.9,89.8,Type 1,283.2,9.8,0.04,Positive,None,High School,3,No,Yes,No,No,No,68,Child/Pediatric Diabetes
+CHILD_0136,2,Male,16.9,57.0,Type 1,175.7,8.2,0.01,Positive,None,Preschool,1,Yes,No,No,No,No,65,Child/Pediatric Diabetes
+CHILD_0137,7,Male,20.6,59.6,Type 1,265.0,8.3,0.17,Negative,None,Primary,2,No,Yes,No,No,No,91,Child/Pediatric Diabetes
+CHILD_0138,6,Female,25.8,41.5,Type 1,210.1,10.0,0.13,Negative,Pump,Primary,2,Yes,No,No,No,Yes,172,Child/Pediatric Diabetes
+CHILD_0139,7,Male,17.5,44.7,Type 2,168.6,9.0,1.35,Negative,MDI,Primary,5,No,Yes,No,No,Yes,178,Child/Pediatric Diabetes
+CHILD_0140,17,Female,19.1,72.7,Type 1,210.7,10.5,0.19,Positive,MDI,High School,6,No,Yes,No,No,No,0,Child/Pediatric Diabetes
+CHILD_0141,17,Female,12.0,33.9,Type 1,277.6,12.7,0.07,Positive,MDI,High School,3,No,No,Yes,No,No,107,Child/Pediatric Diabetes
+CHILD_0142,4,Male,16.7,98.5,Type 1,234.0,9.7,0.15,Positive,MDI,Preschool,3,No,No,Yes,No,Yes,100,Child/Pediatric Diabetes
+CHILD_0143,1,Male,19.4,77.8,Type 1,195.1,11.0,0.15,Positive,MDI,Preschool,0,No,Yes,No,No,No,78,Child/Pediatric Diabetes
+CHILD_0144,9,Female,21.2,69.3,Type 1,170.1,7.3,0.07,Negative,Pump,Primary,3,No,No,No,No,Yes,138,Child/Pediatric Diabetes
+CHILD_0145,7,Male,14.5,56.5,Type 1,167.9,8.2,0.23,Positive,MDI,Primary,2,Yes,No,Yes,No,No,36,Child/Pediatric Diabetes
+CHILD_0146,6,Male,24.8,98.1,Type 2,198.8,6.8,3.0,Negative,MDI,Primary,4,No,Yes,No,No,No,151,Child/Pediatric Diabetes
+CHILD_0147,4,Male,17.1,81.1,Type 1,195.3,7.8,0.1,Positive,None,Preschool,5,No,Yes,No,Yes,No,150,Child/Pediatric Diabetes
+CHILD_0148,13,Female,23.1,51.7,Type 2,191.8,8.5,1.59,Negative,MDI,Middle School,4,No,No,No,No,Yes,158,Child/Pediatric Diabetes
+CHILD_0149,14,Female,12.0,59.6,Type 1,206.3,7.8,0.13,Positive,Pump,Middle School,4,Yes,No,No,No,Yes,178,Child/Pediatric Diabetes
+CHILD_0150,16,Female,14.7,87.6,Type 1,286.4,10.5,0.05,Positive,MDI,High School,1,Yes,Yes,No,No,Yes,86,Child/Pediatric Diabetes
+CHILD_0151,13,Male,26.4,71.6,Type 1,226.4,9.5,0.18,Negative,Basal Only,Middle School,1,No,No,No,Yes,Yes,170,Child/Pediatric Diabetes
+CHILD_0152,10,Male,15.9,54.8,Type 1,237.7,7.7,0.12,Positive,MDI,Primary,0,No,Yes,No,No,Yes,143,Child/Pediatric Diabetes
+CHILD_0153,16,Male,17.8,82.8,Type 1,205.9,12.6,0.08,Positive,MDI,High School,4,No,Yes,No,No,No,176,Child/Pediatric Diabetes
+CHILD_0154,1,Female,24.1,80.1,Type 1,291.2,6.2,0.01,Positive,None,Preschool,1,No,No,No,No,No,130,Child/Pediatric Diabetes
+CHILD_0155,15,Female,17.4,70.6,Type 1,176.9,8.2,0.13,Positive,MDI,High School,4,Yes,Yes,No,No,Yes,14,Child/Pediatric Diabetes
+CHILD_0156,14,Male,20.1,35.6,Type 1,93.4,10.3,0.18,Positive,MDI,Middle School,2,No,No,No,No,Yes,9,Child/Pediatric Diabetes
+CHILD_0157,16,Male,17.3,45.8,Type 1,174.6,7.7,0.06,Negative,MDI,High School,2,No,No,No,No,Yes,136,Child/Pediatric Diabetes
+CHILD_0158,8,Female,17.6,73.2,Type 1,209.2,6.3,0.13,Positive,MDI,Primary,0,Yes,No,No,No,Yes,50,Child/Pediatric Diabetes
+CHILD_0159,17,Male,13.4,28.6,MODY,168.2,7.8,1.69,Negative,Pump,High School,3,No,No,No,No,Yes,122,Child/Pediatric Diabetes
+CHILD_0160,12,Female,18.9,54.9,Type 1,180.3,9.8,0.01,Positive,MDI,Middle School,4,No,Yes,Yes,No,No,37,Child/Pediatric Diabetes
+CHILD_0161,15,Female,23.2,62.8,MODY,129.8,5.0,1.61,Negative,MDI,High School,1,Yes,Yes,Yes,No,Yes,76,Child/Pediatric Diabetes
+CHILD_0162,7,Female,22.0,71.1,Type 1,203.1,9.2,0.19,Positive,MDI,Primary,3,Yes,Yes,No,No,Yes,80,Child/Pediatric Diabetes
+CHILD_0163,12,Female,22.8,56.3,Type 2,223.0,6.0,2.13,Negative,Pump,Middle School,2,No,Yes,No,No,No,134,Child/Pediatric Diabetes
+CHILD_0164,8,Male,18.7,61.4,Type 1,178.0,10.0,0.15,Positive,None,Primary,5,No,Yes,No,No,Yes,90,Child/Pediatric Diabetes
+CHILD_0165,15,Male,23.0,38.1,Type 1,240.4,5.9,0.13,Positive,Basal Only,High School,1,Yes,Yes,No,No,Yes,101,Child/Pediatric Diabetes
+CHILD_0166,8,Female,20.3,64.5,Type 1,250.6,12.1,0.05,Positive,Basal Only,Primary,5,Yes,No,No,No,Yes,178,Child/Pediatric Diabetes
+CHILD_0167,10,Male,12.2,74.6,Type 2,101.7,8.8,2.37,Negative,MDI,Primary,0,No,Yes,No,No,Yes,75,Child/Pediatric Diabetes
+CHILD_0168,13,Female,17.9,51.6,Type 1,233.6,8.3,0.06,Positive,MDI,Middle School,4,No,Yes,No,No,Yes,159,Child/Pediatric Diabetes
+CHILD_0169,1,Male,12.0,59.3,Type 1,214.8,10.2,0.07,Positive,Basal Only,Preschool,1,No,Yes,No,No,Yes,109,Child/Pediatric Diabetes
+CHILD_0170,5,Female,22.0,78.1,MODY,208.7,6.3,1.81,Negative,Pump,Preschool,1,No,Yes,No,No,No,118,Child/Pediatric Diabetes
+CHILD_0171,5,Male,17.1,75.6,Type 1,178.7,8.7,0.02,Positive,MDI,Preschool,3,No,No,No,No,No,32,Child/Pediatric Diabetes
+CHILD_0172,14,Male,18.4,50.0,Type 1,143.0,6.3,0.03,Positive,Basal Only,Middle School,0,No,No,No,No,Yes,77,Child/Pediatric Diabetes
+CHILD_0173,14,Female,27.2,79.1,Type 1,224.1,6.7,0.14,Positive,MDI,Middle School,0,No,No,No,No,No,53,Child/Pediatric Diabetes
+CHILD_0174,12,Female,17.9,62.8,Type 1,299.0,6.2,0.11,Positive,MDI,Middle School,0,No,No,Yes,Yes,No,121,Child/Pediatric Diabetes
+CHILD_0175,3,Female,20.8,78.2,Type 1,188.8,9.0,0.05,Positive,Basal Only,Preschool,3,Yes,No,No,No,No,43,Child/Pediatric Diabetes
+CHILD_0176,9,Female,20.5,21.2,Type 1,194.6,9.3,0.22,Positive,None,Primary,1,No,Yes,No,No,No,47,Child/Pediatric Diabetes
+CHILD_0177,16,Male,18.1,80.3,Type 1,315.3,9.2,0.07,Negative,MDI,High School,3,Yes,No,No,No,No,9,Child/Pediatric Diabetes
+CHILD_0178,5,Male,15.5,77.7,Type 1,225.8,8.8,0.15,Positive,None,Preschool,0,No,Yes,No,No,No,95,Child/Pediatric Diabetes
+CHILD_0179,5,Female,25.0,73.0,Type 1,136.4,9.8,0.13,Positive,None,Preschool,6,No,Yes,Yes,No,No,75,Child/Pediatric Diabetes
+CHILD_0180,1,Female,24.0,60.0,Type 2,197.5,8.7,2.95,Negative,MDI,Preschool,2,Yes,No,No,No,No,108,Child/Pediatric Diabetes
+CHILD_0181,15,Male,19.7,79.2,Type 1,213.5,5.0,0.1,Positive,Pump,High School,3,No,No,No,Yes,No,16,Child/Pediatric Diabetes
+CHILD_0182,7,Female,23.3,75.5,Type 1,193.0,11.2,0.22,Positive,MDI,Primary,2,No,Yes,No,No,No,92,Child/Pediatric Diabetes
+CHILD_0183,13,Female,12.1,57.1,Type 2,185.7,7.1,1.99,Negative,MDI,Middle School,2,No,Yes,No,No,No,129,Child/Pediatric Diabetes
+CHILD_0184,2,Female,21.9,75.8,Type 1,218.7,10.7,0.14,Positive,MDI,Preschool,3,No,Yes,No,No,No,34,Child/Pediatric Diabetes
+CHILD_0185,15,Female,20.1,53.4,Type 1,242.1,6.4,0.17,Positive,Basal Only,High School,1,No,Yes,No,No,No,48,Child/Pediatric Diabetes
+CHILD_0186,3,Male,25.7,30.1,Type 1,259.4,8.2,0.01,Positive,None,Preschool,3,No,Yes,No,No,Yes,162,Child/Pediatric Diabetes
+CHILD_0187,15,Male,16.6,56.0,Type 1,210.1,8.3,0.16,Positive,MDI,High School,2,Yes,Yes,No,No,No,12,Child/Pediatric Diabetes
+CHILD_0188,11,Male,17.3,78.5,Type 2,180.4,6.4,2.15,Negative,MDI,Primary,0,No,Yes,No,No,Yes,16,Child/Pediatric Diabetes
+CHILD_0189,16,Male,17.6,65.9,Type 1,219.0,9.1,0.15,Positive,Pump,High School,4,Yes,No,Yes,Yes,No,26,Child/Pediatric Diabetes
+CHILD_0190,11,Male,19.9,70.9,Type 1,209.2,6.1,0.09,Positive,MDI,Primary,0,No,Yes,No,No,Yes,121,Child/Pediatric Diabetes
+CHILD_0191,6,Female,19.1,35.4,Type 1,80.0,9.0,0.04,Positive,Pump,Primary,2,Yes,Yes,No,No,No,112,Child/Pediatric Diabetes
+CHILD_0192,14,Male,20.7,67.0,Type 1,214.8,5.7,0.08,Negative,Pump,Middle School,3,Yes,Yes,No,No,No,135,Child/Pediatric Diabetes
+CHILD_0193,16,Male,15.8,69.5,MODY,135.3,6.7,2.36,Negative,Basal Only,High School,0,No,No,Yes,No,Yes,170,Child/Pediatric Diabetes
+CHILD_0194,4,Female,16.9,83.2,Type 1,168.5,8.2,0.11,Positive,Pump,Preschool,2,No,Yes,No,Yes,No,145,Child/Pediatric Diabetes
+CHILD_0195,6,Male,21.6,91.2,MODY,165.4,7.5,3.76,Negative,Pump,Primary,3,No,No,No,No,Yes,64,Child/Pediatric Diabetes
+CHILD_0196,17,Male,23.9,71.7,Neonatal,134.7,7.9,1.61,Negative,Pump,High School,2,No,Yes,No,No,Yes,36,Child/Pediatric Diabetes
+CHILD_0197,2,Female,22.5,80.3,Type 1,150.7,5.0,0.05,Negative,MDI,Preschool,0,Yes,No,No,No,No,86,Child/Pediatric Diabetes
+CHILD_0198,11,Male,12.8,35.0,Type 1,198.6,6.5,0.08,Positive,None,Primary,1,No,No,No,No,Yes,137,Child/Pediatric Diabetes
+CHILD_0199,16,Female,19.6,78.2,Type 1,254.2,10.7,0.15,Positive,Pump,High School,5,No,No,No,No,Yes,89,Child/Pediatric Diabetes
+CHILD_0200,9,Female,22.1,72.6,Type 1,178.1,10.4,0.13,Positive,Basal Only,Primary,2,No,Yes,Yes,No,No,15,Child/Pediatric Diabetes
+CHILD_0201,7,Male,15.1,81.9,Type 1,142.0,10.8,0.15,Positive,MDI,Primary,2,Yes,Yes,No,No,Yes,7,Child/Pediatric Diabetes
+CHILD_0202,17,Male,20.7,54.0,MODY,143.2,5.2,2.22,Negative,Pump,High School,3,No,No,No,No,Yes,159,Child/Pediatric Diabetes
+CHILD_0203,8,Female,14.4,73.2,Type 1,183.9,5.6,0.07,Positive,MDI,Primary,0,No,Yes,No,No,Yes,111,Child/Pediatric Diabetes
+CHILD_0204,10,Male,19.2,39.8,Type 1,223.7,5.8,0.05,Positive,MDI,Primary,3,No,No,No,No,Yes,0,Child/Pediatric Diabetes
+CHILD_0205,13,Female,25.9,54.0,MODY,151.1,7.7,1.96,Negative,MDI,Middle School,4,No,No,No,No,Yes,149,Child/Pediatric Diabetes
+CHILD_0206,1,Female,17.4,47.2,Type 2,119.2,9.3,3.09,Negative,None,Preschool,0,No,No,No,No,Yes,142,Child/Pediatric Diabetes
+CHILD_0207,10,Male,22.1,24.6,Type 1,154.8,10.7,0.17,Positive,Pump,Primary,2,No,Yes,No,No,No,92,Child/Pediatric Diabetes
+CHILD_0208,13,Female,19.0,75.6,Type 1,236.8,8.0,0.16,Positive,Pump,Middle School,7,No,Yes,No,No,Yes,120,Child/Pediatric Diabetes
+CHILD_0209,12,Male,22.8,58.7,Type 1,183.9,6.1,0.09,Positive,None,Middle School,1,Yes,Yes,No,No,No,37,Child/Pediatric Diabetes
+CHILD_0210,7,Male,26.3,78.3,Type 1,210.0,11.8,0.12,Positive,None,Primary,2,No,No,Yes,No,Yes,67,Child/Pediatric Diabetes
+CHILD_0211,11,Male,12.7,59.3,Type 1,251.2,8.3,0.11,Positive,Pump,Primary,3,No,Yes,No,No,No,59,Child/Pediatric Diabetes
+CHILD_0212,12,Female,16.6,53.3,Type 1,151.3,8.3,0.06,Positive,MDI,Middle School,1,Yes,Yes,No,No,Yes,26,Child/Pediatric Diabetes
+CHILD_0213,6,Female,18.8,56.7,Type 1,158.3,9.8,0.17,Positive,MDI,Primary,0,No,Yes,No,No,Yes,82,Child/Pediatric Diabetes
+CHILD_0214,17,Male,22.7,79.8,Type 1,189.1,8.3,0.15,Positive,Pump,High School,0,No,No,No,No,Yes,5,Child/Pediatric Diabetes
+CHILD_0215,15,Male,18.6,86.0,Type 1,223.0,9.7,0.16,Positive,MDI,High School,6,Yes,Yes,No,No,No,84,Child/Pediatric Diabetes
+CHILD_0216,7,Female,28.9,49.1,Type 1,190.6,7.8,0.18,Positive,MDI,Primary,4,No,Yes,No,No,Yes,152,Child/Pediatric Diabetes
+CHILD_0217,6,Female,14.8,72.8,Type 1,170.2,9.8,0.14,Positive,Pump,Primary,2,Yes,Yes,No,No,No,121,Child/Pediatric Diabetes
+CHILD_0218,6,Male,21.2,98.6,Type 1,274.8,8.0,0.19,Positive,Basal Only,Primary,3,Yes,No,No,Yes,Yes,97,Child/Pediatric Diabetes
+CHILD_0219,12,Male,19.4,72.6,MODY,108.3,6.2,4.25,Negative,Pump,Middle School,2,No,No,No,No,No,100,Child/Pediatric Diabetes
+CHILD_0220,8,Female,20.0,63.1,Type 1,190.2,10.6,0.19,Positive,None,Primary,2,No,Yes,No,No,No,95,Child/Pediatric Diabetes
+CHILD_0221,17,Female,21.0,83.5,Type 2,229.4,5.7,1.96,Negative,Basal Only,High School,2,No,No,No,No,Yes,162,Child/Pediatric Diabetes
+CHILD_0222,17,Male,22.9,70.9,Type 1,301.6,9.9,0.14,Positive,Pump,High School,5,No,Yes,No,No,No,17,Child/Pediatric Diabetes
+CHILD_0223,3,Female,16.3,58.2,Type 1,182.1,10.2,0.14,Positive,MDI,Preschool,2,Yes,Yes,No,Yes,Yes,110,Child/Pediatric Diabetes
+CHILD_0224,2,Male,14.4,59.9,Type 1,250.3,7.8,0.15,Positive,Pump,Preschool,3,No,Yes,No,No,Yes,123,Child/Pediatric Diabetes
+CHILD_0225,6,Male,12.0,53.7,MODY,98.0,8.5,2.69,Negative,MDI,Primary,0,No,No,No,No,No,76,Child/Pediatric Diabetes
+CHILD_0226,7,Male,16.8,55.3,Type 1,104.7,7.7,0.11,Positive,Basal Only,Primary,0,No,Yes,No,No,Yes,4,Child/Pediatric Diabetes
+CHILD_0227,16,Female,26.2,79.4,Type 1,247.2,7.3,0.2,Positive,MDI,High School,2,No,No,Yes,No,Yes,96,Child/Pediatric Diabetes
+CHILD_0228,9,Female,15.5,92.4,Type 1,231.3,9.5,0.12,Positive,Pump,Primary,1,No,No,No,No,No,82,Child/Pediatric Diabetes
+CHILD_0229,16,Male,18.2,66.5,Type 2,205.9,8.2,3.18,Negative,MDI,High School,1,No,No,No,No,No,10,Child/Pediatric Diabetes
+CHILD_0230,1,Male,23.1,86.5,Type 1,188.5,12.2,0.09,Positive,MDI,Preschool,2,Yes,No,No,No,No,124,Child/Pediatric Diabetes
+CHILD_0231,16,Male,14.4,78.5,Type 1,184.2,8.1,0.18,Positive,Pump,High School,3,No,No,No,No,No,86,Child/Pediatric Diabetes
+CHILD_0232,2,Male,18.6,62.0,Type 1,246.7,9.9,0.13,Positive,Pump,Preschool,4,No,Yes,No,No,Yes,4,Child/Pediatric Diabetes
+CHILD_0233,7,Male,18.9,44.4,Type 1,169.2,8.9,0.21,Positive,Pump,Primary,1,No,Yes,No,No,No,88,Child/Pediatric Diabetes
+CHILD_0234,9,Male,15.4,76.7,Type 2,156.4,6.6,0.75,Negative,MDI,Primary,4,No,Yes,No,No,Yes,22,Child/Pediatric Diabetes
+CHILD_0235,7,Male,17.7,83.7,Type 1,192.0,8.9,0.24,Positive,None,Primary,1,No,Yes,No,No,Yes,39,Child/Pediatric Diabetes
+CHILD_0236,11,Female,26.1,32.0,Type 1,163.5,9.2,0.15,Positive,Basal Only,Primary,3,No,No,No,No,Yes,148,Child/Pediatric Diabetes
+CHILD_0237,1,Female,22.8,56.5,Type 1,223.6,7.5,0.02,Negative,Basal Only,Preschool,1,No,No,No,No,No,153,Child/Pediatric Diabetes
+CHILD_0238,13,Female,22.1,68.5,Type 1,244.1,7.2,0.09,Positive,MDI,Middle School,3,No,Yes,No,No,Yes,69,Child/Pediatric Diabetes
+CHILD_0239,4,Male,13.3,84.4,Type 1,236.7,8.4,0.16,Positive,None,Preschool,2,No,Yes,No,No,Yes,1,Child/Pediatric Diabetes
+CHILD_0240,6,Female,21.0,90.5,Type 1,216.2,6.9,0.02,Positive,MDI,Primary,0,Yes,No,No,No,No,94,Child/Pediatric Diabetes
+CHILD_0241,11,Female,24.9,62.1,Type 2,177.0,8.9,1.85,Negative,MDI,Primary,2,No,No,No,No,No,161,Child/Pediatric Diabetes
+CHILD_0242,8,Male,17.8,37.6,Neonatal,138.3,8.2,1.17,Negative,Basal Only,Primary,2,Yes,No,No,No,No,37,Child/Pediatric Diabetes
+CHILD_0243,13,Female,18.5,28.0,Type 1,122.0,9.6,0.14,Positive,MDI,Middle School,2,No,Yes,Yes,No,No,107,Child/Pediatric Diabetes
+CHILD_0244,1,Female,12.0,99.0,Type 1,122.1,8.1,0.15,Positive,None,Preschool,1,No,No,No,No,Yes,90,Child/Pediatric Diabetes
+CHILD_0245,8,Male,25.2,71.0,Type 2,178.2,7.2,1.2,Negative,MDI,Primary,4,Yes,Yes,No,No,No,119,Child/Pediatric Diabetes
+CHILD_0246,1,Female,23.9,66.1,Type 2,158.1,7.0,1.57,Negative,MDI,Preschool,0,No,No,No,No,No,97,Child/Pediatric Diabetes
+CHILD_0247,11,Female,18.9,50.3,Type 2,80.0,5.0,2.37,Negative,MDI,Primary,1,Yes,Yes,Yes,Yes,No,13,Child/Pediatric Diabetes
+CHILD_0248,12,Male,20.1,89.3,Type 1,247.8,11.7,0.12,Negative,MDI,Middle School,1,No,Yes,No,No,Yes,17,Child/Pediatric Diabetes
+CHILD_0249,15,Female,20.5,49.0,Type 1,163.8,10.8,0.06,Positive,MDI,High School,4,Yes,Yes,Yes,No,No,115,Child/Pediatric Diabetes
+CHILD_0250,7,Male,21.7,91.0,Type 1,204.7,9.7,0.11,Positive,Basal Only,Primary,4,Yes,No,No,No,No,63,Child/Pediatric Diabetes
+CHILD_0251,15,Female,19.6,91.6,Type 1,309.3,11.1,0.14,Positive,MDI,High School,4,No,No,No,No,Yes,45,Child/Pediatric Diabetes
+CHILD_0252,5,Male,20.2,72.3,Type 1,257.7,8.7,0.04,Negative,None,Preschool,2,No,No,No,No,Yes,88,Child/Pediatric Diabetes
+CHILD_0253,13,Female,15.4,81.1,Type 1,202.8,6.3,0.18,Positive,MDI,Middle School,3,Yes,No,No,No,Yes,136,Child/Pediatric Diabetes
+CHILD_0254,3,Female,21.2,49.1,Type 2,80.0,7.8,3.5,Negative,None,Preschool,1,Yes,Yes,No,No,Yes,45,Child/Pediatric Diabetes
+CHILD_0255,14,Female,24.2,68.1,Type 1,253.6,7.3,0.09,Positive,MDI,Middle School,1,No,Yes,No,No,Yes,161,Child/Pediatric Diabetes
+CHILD_0256,13,Male,17.9,37.5,Type 2,174.7,8.0,0.3,Negative,Basal Only,Middle School,2,Yes,No,Yes,No,No,8,Child/Pediatric Diabetes
+CHILD_0257,7,Male,20.5,56.0,MODY,235.8,9.1,2.06,Negative,MDI,Primary,1,No,Yes,Yes,No,No,84,Child/Pediatric Diabetes
+CHILD_0258,12,Male,19.0,29.5,Type 1,248.8,9.5,0.13,Positive,Pump,Middle School,2,No,No,No,No,No,170,Child/Pediatric Diabetes
+CHILD_0259,8,Female,16.7,24.2,Type 1,251.5,6.2,0.02,Positive,MDI,Primary,2,No,No,No,No,Yes,145,Child/Pediatric Diabetes
+CHILD_0260,12,Female,22.0,50.1,Type 1,109.6,6.8,0.14,Positive,MDI,Middle School,2,No,No,No,No,No,109,Child/Pediatric Diabetes
+CHILD_0261,13,Female,19.3,42.8,Type 1,226.9,8.7,0.17,Positive,Pump,Middle School,3,No,Yes,Yes,No,Yes,89,Child/Pediatric Diabetes
+CHILD_0262,13,Male,19.8,68.3,Type 1,190.4,9.1,0.23,Positive,None,Middle School,2,No,No,Yes,Yes,No,158,Child/Pediatric Diabetes
+CHILD_0263,6,Female,27.5,76.1,Type 1,188.1,5.2,0.04,Positive,Pump,Primary,0,Yes,No,Yes,No,No,68,Child/Pediatric Diabetes
+CHILD_0264,3,Male,23.0,77.1,Type 1,212.1,10.5,0.11,Positive,None,Preschool,0,Yes,No,No,No,No,0,Child/Pediatric Diabetes
+CHILD_0265,17,Female,14.4,60.9,MODY,90.8,6.3,3.15,Negative,MDI,High School,4,No,Yes,No,No,No,142,Child/Pediatric Diabetes
+CHILD_0266,12,Male,17.0,95.0,Type 1,207.5,10.2,0.16,Positive,Pump,Middle School,0,No,No,Yes,Yes,No,156,Child/Pediatric Diabetes
+CHILD_0267,5,Female,17.7,76.5,Type 1,192.9,8.3,0.23,Positive,MDI,Preschool,1,Yes,Yes,No,No,No,24,Child/Pediatric Diabetes
+CHILD_0268,9,Male,17.1,65.4,Type 1,158.1,9.9,0.17,Positive,None,Primary,2,No,Yes,No,No,No,101,Child/Pediatric Diabetes
+CHILD_0269,13,Female,17.8,89.1,Type 2,97.1,8.0,1.23,Negative,Basal Only,Middle School,3,Yes,No,No,No,No,44,Child/Pediatric Diabetes
+CHILD_0270,13,Female,22.9,71.7,Type 1,120.6,6.6,0.15,Positive,Pump,Middle School,4,No,No,No,No,No,30,Child/Pediatric Diabetes
+CHILD_0271,17,Male,23.3,74.8,Type 1,262.1,9.1,0.12,Positive,None,High School,1,No,Yes,No,No,No,152,Child/Pediatric Diabetes
+CHILD_0272,10,Female,25.9,31.4,Type 1,206.2,5.4,0.2,Positive,Basal Only,Primary,3,No,Yes,Yes,No,Yes,3,Child/Pediatric Diabetes
+CHILD_0273,11,Male,21.6,53.3,Type 2,225.5,7.8,2.54,Negative,MDI,Primary,1,No,Yes,No,No,Yes,137,Child/Pediatric Diabetes
+CHILD_0274,17,Male,23.6,74.4,Type 1,238.9,7.5,0.12,Negative,Pump,High School,1,No,Yes,No,No,Yes,150,Child/Pediatric Diabetes
+CHILD_0275,16,Male,23.3,64.7,Type 1,180.2,9.0,0.1,Positive,Pump,High School,0,No,No,Yes,No,Yes,58,Child/Pediatric Diabetes
+CHILD_0276,5,Male,18.3,89.9,Type 2,173.9,7.1,2.17,Negative,Pump,Preschool,2,No,Yes,No,No,No,102,Child/Pediatric Diabetes
+CHILD_0277,17,Male,17.0,80.9,Type 1,139.6,5.3,0.17,Positive,Basal Only,High School,4,No,No,No,No,Yes,37,Child/Pediatric Diabetes
+CHILD_0278,6,Male,26.7,80.8,Type 1,139.4,11.1,0.07,Positive,MDI,Primary,1,No,Yes,No,No,Yes,128,Child/Pediatric Diabetes
+CHILD_0279,13,Male,24.0,45.8,Type 1,80.0,9.8,0.12,Positive,Basal Only,Middle School,0,No,Yes,No,No,No,152,Child/Pediatric Diabetes
+CHILD_0280,14,Male,13.8,99.0,MODY,183.1,7.0,2.8,Negative,MDI,Middle School,1,No,No,Yes,No,No,142,Child/Pediatric Diabetes
+CHILD_0281,14,Female,18.7,97.6,Type 1,260.1,7.7,0.01,Positive,MDI,Middle School,2,No,No,Yes,No,Yes,67,Child/Pediatric Diabetes
+CHILD_0282,10,Male,25.5,73.9,Type 1,223.0,8.5,0.09,Positive,MDI,Primary,6,No,Yes,Yes,No,Yes,109,Child/Pediatric Diabetes
+CHILD_0283,10,Male,23.8,49.6,Type 2,184.3,7.9,2.43,Positive,MDI,Primary,2,No,No,No,No,No,69,Child/Pediatric Diabetes
+CHILD_0284,8,Male,17.9,35.8,Type 1,246.0,11.1,0.19,Positive,MDI,Primary,2,Yes,Yes,Yes,No,No,159,Child/Pediatric Diabetes
+CHILD_0285,4,Male,21.2,54.8,Type 2,244.6,8.6,1.66,Negative,None,Preschool,1,No,Yes,No,No,Yes,109,Child/Pediatric Diabetes
+CHILD_0286,14,Male,17.1,56.1,Type 1,203.0,9.6,0.06,Positive,Pump,Middle School,1,No,Yes,No,No,No,38,Child/Pediatric Diabetes
+CHILD_0287,17,Male,17.0,85.9,Type 1,266.7,8.1,0.07,Positive,MDI,High School,6,No,No,No,No,Yes,173,Child/Pediatric Diabetes
+CHILD_0288,10,Female,24.2,93.7,Type 1,175.2,7.1,0.12,Positive,MDI,Primary,3,Yes,Yes,Yes,No,No,91,Child/Pediatric Diabetes
+CHILD_0289,14,Male,18.2,43.8,Type 1,237.2,7.1,0.07,Positive,MDI,Middle School,1,Yes,No,No,No,No,49,Child/Pediatric Diabetes
+CHILD_0290,11,Female,22.0,56.9,MODY,198.9,10.8,3.66,Negative,Pump,Primary,1,No,No,No,No,Yes,149,Child/Pediatric Diabetes
+CHILD_0291,6,Male,25.1,75.0,Type 1,180.8,11.0,0.1,Positive,MDI,Primary,3,No,Yes,No,No,Yes,32,Child/Pediatric Diabetes
+CHILD_0292,3,Male,21.1,65.9,Type 1,231.3,7.6,0.18,Positive,Basal Only,Preschool,0,Yes,No,No,No,No,76,Child/Pediatric Diabetes
+CHILD_0293,10,Male,18.8,91.5,MODY,220.9,9.1,3.6,Negative,MDI,Primary,3,No,No,No,No,Yes,129,Child/Pediatric Diabetes
+CHILD_0294,5,Male,28.8,43.1,MODY,136.9,9.1,2.43,Negative,Pump,Preschool,1,No,No,No,No,No,42,Child/Pediatric Diabetes
+CHILD_0295,5,Male,21.9,91.4,Type 1,254.7,6.0,0.17,Positive,Pump,Preschool,5,No,Yes,No,No,Yes,69,Child/Pediatric Diabetes
+CHILD_0296,16,Male,15.3,55.4,Type 1,190.2,6.6,0.2,Negative,Pump,High School,1,No,Yes,No,No,No,47,Child/Pediatric Diabetes
+CHILD_0297,16,Male,20.9,99.0,Type 2,229.7,8.2,1.16,Negative,None,High School,2,Yes,Yes,No,No,No,22,Child/Pediatric Diabetes
+CHILD_0298,2,Female,24.9,86.4,Type 1,153.2,8.5,0.22,Positive,MDI,Preschool,1,Yes,No,Yes,No,Yes,133,Child/Pediatric Diabetes
+CHILD_0299,2,Male,20.8,86.1,Type 1,176.6,9.3,0.09,Positive,MDI,Preschool,0,Yes,No,Yes,No,No,21,Child/Pediatric Diabetes
+CHILD_0300,10,Male,23.8,38.9,Type 2,203.2,7.3,1.46,Negative,MDI,Primary,0,No,Yes,No,No,No,140,Child/Pediatric Diabetes
+CHILD_0301,10,Female,19.8,29.3,Type 1,179.2,10.1,0.01,Positive,MDI,Primary,1,No,No,No,No,No,140,Child/Pediatric Diabetes
+CHILD_0302,17,Male,19.7,50.5,Type 1,165.3,6.6,0.08,Positive,Basal Only,High School,1,No,No,No,Yes,Yes,177,Child/Pediatric Diabetes
+CHILD_0303,7,Male,18.1,49.9,Neonatal,128.9,10.5,3.96,Negative,MDI,Primary,2,No,Yes,No,Yes,Yes,36,Child/Pediatric Diabetes
+CHILD_0304,15,Male,13.5,61.0,Type 1,212.8,9.9,0.11,Negative,Pump,High School,1,No,No,No,No,Yes,50,Child/Pediatric Diabetes
+CHILD_0305,13,Female,19.4,41.8,Type 1,194.7,7.4,0.13,Positive,MDI,Middle School,2,No,Yes,No,No,No,163,Child/Pediatric Diabetes
+CHILD_0306,12,Female,22.7,88.8,Type 1,221.9,7.1,0.14,Negative,MDI,Middle School,1,No,Yes,No,No,No,72,Child/Pediatric Diabetes
+CHILD_0307,6,Male,18.8,72.8,Type 1,227.2,9.5,0.18,Positive,MDI,Primary,1,Yes,No,No,No,No,68,Child/Pediatric Diabetes
+CHILD_0308,13,Male,16.5,20.7,Type 1,139.0,6.4,0.13,Positive,None,Middle School,2,Yes,No,No,Yes,No,67,Child/Pediatric Diabetes
+CHILD_0309,14,Female,24.7,57.4,MODY,215.8,6.4,1.09,Negative,None,Middle School,1,No,No,No,No,No,9,Child/Pediatric Diabetes
+CHILD_0310,5,Female,14.3,76.5,Type 2,220.3,6.9,2.89,Negative,Pump,Preschool,1,Yes,Yes,No,No,Yes,158,Child/Pediatric Diabetes
+CHILD_0311,2,Male,18.2,58.2,Type 1,172.6,7.2,0.16,Positive,MDI,Preschool,2,Yes,No,No,No,Yes,7,Child/Pediatric Diabetes
+CHILD_0312,4,Male,14.7,42.5,Type 2,120.4,7.7,1.76,Negative,None,Preschool,1,No,No,No,No,Yes,138,Child/Pediatric Diabetes
+CHILD_0313,5,Male,19.0,44.3,Type 1,185.0,11.4,0.1,Positive,MDI,Preschool,3,No,Yes,No,No,Yes,160,Child/Pediatric Diabetes
+CHILD_0314,5,Male,19.5,69.4,Type 1,253.1,8.0,0.15,Positive,MDI,Preschool,3,No,Yes,No,No,Yes,90,Child/Pediatric Diabetes
+CHILD_0315,7,Female,20.9,37.3,Type 2,269.8,9.6,1.91,Positive,None,Primary,4,No,No,No,No,No,44,Child/Pediatric Diabetes
+CHILD_0316,13,Male,27.8,64.6,Type 1,271.1,8.7,0.08,Positive,Basal Only,Middle School,3,Yes,Yes,No,No,No,141,Child/Pediatric Diabetes
+CHILD_0317,17,Female,14.8,54.0,Type 2,192.8,6.5,2.21,Negative,Pump,High School,3,No,Yes,Yes,No,No,87,Child/Pediatric Diabetes
+CHILD_0318,9,Male,15.3,77.1,Type 1,207.6,9.5,0.07,Positive,None,Primary,3,Yes,Yes,Yes,No,No,33,Child/Pediatric Diabetes
+CHILD_0319,2,Male,16.3,76.9,Type 1,269.5,7.2,0.13,Positive,MDI,Preschool,0,No,No,No,No,Yes,154,Child/Pediatric Diabetes
+CHILD_0320,13,Female,23.6,99.0,Type 1,195.9,9.5,0.19,Positive,MDI,Middle School,2,No,No,No,No,No,141,Child/Pediatric Diabetes
+CHILD_0321,1,Female,17.2,60.2,Type 1,194.9,9.0,0.09,Negative,MDI,Preschool,2,No,No,No,No,No,71,Child/Pediatric Diabetes
+CHILD_0322,7,Male,12.0,91.0,Type 1,286.2,10.9,0.08,Positive,None,Primary,1,No,No,No,No,No,35,Child/Pediatric Diabetes
+CHILD_0323,8,Male,18.6,81.4,Type 1,187.6,7.8,0.21,Positive,MDI,Primary,0,No,Yes,No,No,No,167,Child/Pediatric Diabetes
+CHILD_0324,6,Male,16.9,44.5,Type 1,271.7,8.2,0.11,Positive,None,Primary,2,Yes,Yes,Yes,No,No,84,Child/Pediatric Diabetes
+CHILD_0325,16,Male,16.5,99.0,Type 1,164.0,9.1,0.08,Positive,Pump,High School,2,No,No,No,No,Yes,156,Child/Pediatric Diabetes
+CHILD_0326,4,Male,20.0,71.0,Type 1,221.9,7.6,0.08,Positive,Basal Only,Preschool,2,No,Yes,No,No,No,85,Child/Pediatric Diabetes
+CHILD_0327,8,Male,23.0,99.0,Type 1,119.1,7.2,0.01,Positive,Basal Only,Primary,2,No,Yes,No,No,No,103,Child/Pediatric Diabetes
+CHILD_0328,10,Female,24.2,43.2,Type 1,215.4,6.3,0.25,Negative,MDI,Primary,3,No,No,No,No,Yes,76,Child/Pediatric Diabetes
+CHILD_0329,12,Male,13.0,89.1,Type 1,284.3,7.3,0.15,Positive,Pump,Middle School,1,No,Yes,No,No,Yes,58,Child/Pediatric Diabetes
+CHILD_0330,4,Female,23.6,29.7,Type 1,206.1,8.0,0.07,Positive,None,Preschool,3,No,Yes,No,No,No,23,Child/Pediatric Diabetes
+CHILD_0331,1,Male,22.8,13.8,Type 1,254.6,9.0,0.17,Positive,Basal Only,Preschool,4,No,Yes,No,No,No,84,Child/Pediatric Diabetes
+CHILD_0332,3,Male,18.4,99.0,Type 1,178.2,8.5,0.13,Positive,Pump,Preschool,3,No,Yes,No,Yes,Yes,125,Child/Pediatric Diabetes
+CHILD_0333,6,Female,21.5,89.0,Type 1,226.4,11.3,0.11,Positive,MDI,Primary,1,No,No,No,No,No,108,Child/Pediatric Diabetes
+CHILD_0334,3,Female,17.2,98.4,Type 1,224.2,10.2,0.15,Positive,None,Preschool,0,No,Yes,No,No,No,9,Child/Pediatric Diabetes
+CHILD_0335,3,Male,12.0,61.5,Type 1,185.3,9.5,0.18,Positive,MDI,Preschool,1,Yes,No,No,No,Yes,8,Child/Pediatric Diabetes
+CHILD_0336,14,Female,18.8,53.9,Type 1,217.5,10.7,0.1,Positive,Basal Only,Middle School,2,No,Yes,No,No,Yes,37,Child/Pediatric Diabetes
+CHILD_0337,8,Female,19.0,82.4,Type 1,253.0,10.9,0.24,Negative,Pump,Primary,3,No,Yes,No,No,Yes,161,Child/Pediatric Diabetes
+CHILD_0338,9,Female,13.1,43.8,Neonatal,262.9,8.5,1.95,Negative,None,Primary,1,No,Yes,Yes,No,No,64,Child/Pediatric Diabetes
+CHILD_0339,17,Male,21.1,43.8,Type 1,166.2,11.1,0.14,Positive,Basal Only,High School,0,No,No,No,No,Yes,69,Child/Pediatric Diabetes
+CHILD_0340,17,Male,25.7,55.0,Type 1,164.5,10.3,0.15,Positive,MDI,High School,3,No,Yes,No,No,Yes,177,Child/Pediatric Diabetes
+CHILD_0341,5,Male,21.5,88.6,Type 1,222.3,6.2,0.11,Negative,Basal Only,Preschool,3,No,Yes,Yes,No,No,122,Child/Pediatric Diabetes
+CHILD_0342,11,Female,20.1,44.4,Type 1,212.1,5.4,0.22,Negative,MDI,Primary,0,No,No,No,No,Yes,96,Child/Pediatric Diabetes
+CHILD_0343,3,Male,24.0,90.1,Type 2,155.1,9.1,2.1,Negative,MDI,Preschool,1,Yes,Yes,Yes,No,No,72,Child/Pediatric Diabetes
+CHILD_0344,9,Female,25.7,77.6,Type 1,244.5,8.1,0.21,Positive,Pump,Primary,0,No,Yes,No,No,No,136,Child/Pediatric Diabetes
+CHILD_0345,7,Male,14.3,78.1,Type 1,228.5,7.1,0.12,Positive,Pump,Primary,0,No,Yes,Yes,No,No,76,Child/Pediatric Diabetes
+CHILD_0346,16,Male,15.8,31.8,Type 1,150.0,12.1,0.14,Positive,MDI,High School,1,Yes,No,No,No,No,137,Child/Pediatric Diabetes
+CHILD_0347,15,Male,18.4,53.4,Type 1,207.4,8.9,0.21,Positive,None,High School,2,No,Yes,No,No,Yes,38,Child/Pediatric Diabetes
+CHILD_0348,4,Male,19.6,63.1,Type 1,149.2,8.5,0.07,Positive,Pump,Preschool,4,No,Yes,Yes,Yes,No,84,Child/Pediatric Diabetes
+CHILD_0349,7,Female,13.1,75.3,Type 1,287.1,6.6,0.17,Positive,MDI,Primary,2,Yes,Yes,No,No,No,122,Child/Pediatric Diabetes
+CHILD_0350,9,Female,22.4,53.9,Type 1,187.5,8.8,0.22,Positive,Pump,Primary,3,No,No,Yes,No,Yes,93,Child/Pediatric Diabetes
+CHILD_0351,2,Male,17.8,99.0,Type 1,177.4,7.6,0.06,Positive,Pump,Preschool,2,No,Yes,No,No,No,150,Child/Pediatric Diabetes
+CHILD_0352,17,Male,20.8,61.9,Type 1,199.9,8.8,0.01,Positive,MDI,High School,2,No,Yes,Yes,No,Yes,121,Child/Pediatric Diabetes
+CHILD_0353,16,Female,18.1,75.6,Type 1,230.6,6.5,0.07,Positive,MDI,High School,1,No,Yes,No,Yes,Yes,153,Child/Pediatric Diabetes
+CHILD_0354,4,Female,25.5,69.0,Type 1,91.8,10.0,0.07,Positive,Pump,Preschool,1,Yes,Yes,No,No,No,37,Child/Pediatric Diabetes
+CHILD_0355,16,Male,17.5,83.6,Type 2,80.0,8.5,1.97,Negative,MDI,High School,4,No,No,No,No,No,14,Child/Pediatric Diabetes
+CHILD_0356,10,Female,19.2,68.1,Type 1,301.6,7.8,0.15,Negative,Pump,Primary,2,Yes,No,No,No,No,152,Child/Pediatric Diabetes
+CHILD_0357,9,Female,21.4,40.4,Type 2,114.1,6.7,3.35,Negative,MDI,Primary,1,No,No,No,No,No,168,Child/Pediatric Diabetes
+CHILD_0358,1,Female,18.8,59.8,Type 1,225.5,9.0,0.14,Positive,None,Preschool,1,Yes,No,No,No,Yes,126,Child/Pediatric Diabetes
+CHILD_0359,2,Female,17.9,48.0,Type 2,187.3,8.9,1.84,Negative,MDI,Preschool,1,No,No,Yes,No,No,66,Child/Pediatric Diabetes
+CHILD_0360,13,Female,24.2,21.6,Type 1,145.7,9.0,0.28,Positive,MDI,Middle School,2,Yes,No,Yes,No,Yes,170,Child/Pediatric Diabetes
+CHILD_0361,13,Male,18.6,93.5,Type 1,338.9,9.4,0.15,Positive,Pump,Middle School,2,No,Yes,Yes,No,No,132,Child/Pediatric Diabetes
+CHILD_0362,6,Male,18.5,99.0,Type 1,249.5,11.2,0.14,Positive,Pump,Primary,0,Yes,Yes,No,No,No,16,Child/Pediatric Diabetes
+CHILD_0363,5,Female,19.5,62.7,Type 1,187.8,6.6,0.1,Positive,Pump,Preschool,1,No,Yes,No,No,No,97,Child/Pediatric Diabetes
+CHILD_0364,4,Female,20.4,63.6,Type 1,248.7,9.8,0.02,Positive,MDI,Preschool,6,No,Yes,No,No,No,70,Child/Pediatric Diabetes
+CHILD_0365,13,Female,20.0,52.5,Type 1,263.2,8.0,0.09,Positive,Basal Only,Middle School,2,Yes,Yes,No,No,No,15,Child/Pediatric Diabetes
+CHILD_0366,9,Male,13.4,68.7,MODY,208.1,9.1,2.16,Negative,MDI,Primary,2,No,No,No,No,No,13,Child/Pediatric Diabetes
+CHILD_0367,6,Female,23.5,99.0,Type 1,335.9,10.6,0.02,Positive,None,Primary,1,No,Yes,No,No,Yes,71,Child/Pediatric Diabetes
+CHILD_0368,15,Female,17.8,99.0,Type 2,160.1,6.7,0.54,Negative,Pump,High School,4,No,Yes,No,No,No,67,Child/Pediatric Diabetes
+CHILD_0369,8,Female,23.6,70.8,Type 1,180.6,7.3,0.1,Negative,Pump,Primary,7,Yes,No,No,No,No,108,Child/Pediatric Diabetes
+CHILD_0370,15,Female,20.7,30.9,Type 1,273.9,5.0,0.07,Positive,Pump,High School,3,No,No,No,No,Yes,47,Child/Pediatric Diabetes
+CHILD_0371,7,Female,20.4,91.5,Type 1,169.4,7.8,0.14,Positive,Pump,Primary,3,Yes,Yes,No,No,No,25,Child/Pediatric Diabetes
+CHILD_0372,12,Female,14.0,52.7,Type 1,123.8,9.5,0.15,Positive,MDI,Middle School,3,No,Yes,Yes,No,No,9,Child/Pediatric Diabetes
+CHILD_0373,14,Female,16.4,58.6,Type 1,142.8,8.8,0.15,Positive,MDI,Middle School,1,No,Yes,No,No,Yes,62,Child/Pediatric Diabetes
+CHILD_0374,14,Male,16.5,77.5,Type 1,119.1,9.0,0.13,Positive,Pump,Middle School,2,No,Yes,No,No,No,115,Child/Pediatric Diabetes
+CHILD_0375,7,Male,18.2,52.7,MODY,148.8,7.1,2.17,Negative,None,Primary,3,Yes,No,No,No,No,145,Child/Pediatric Diabetes
+CHILD_0376,7,Male,15.3,77.4,Type 1,240.7,8.7,0.03,Positive,MDI,Primary,6,No,No,No,No,No,151,Child/Pediatric Diabetes
+CHILD_0377,14,Male,19.8,63.7,Type 1,224.4,8.2,0.09,Positive,MDI,Middle School,1,No,No,Yes,No,No,91,Child/Pediatric Diabetes
+CHILD_0378,7,Male,26.2,52.0,Type 1,194.6,12.0,0.19,Positive,Basal Only,Primary,4,Yes,Yes,No,No,No,38,Child/Pediatric Diabetes
+CHILD_0379,11,Male,16.1,75.4,Type 1,169.4,10.0,0.09,Negative,None,Primary,1,No,Yes,No,Yes,No,133,Child/Pediatric Diabetes
+CHILD_0380,5,Female,24.7,54.3,Type 1,200.1,8.9,0.12,Positive,None,Preschool,0,No,No,No,No,No,72,Child/Pediatric Diabetes
+CHILD_0381,1,Male,16.5,67.4,Neonatal,143.4,5.6,1.84,Negative,None,Preschool,3,No,No,No,No,Yes,165,Child/Pediatric Diabetes
+CHILD_0382,6,Female,12.8,38.4,Type 1,210.6,7.5,0.11,Positive,Pump,Primary,1,Yes,No,No,No,Yes,78,Child/Pediatric Diabetes
+CHILD_0383,1,Male,14.5,97.9,Type 1,121.9,7.4,0.12,Positive,None,Preschool,2,No,No,No,No,No,132,Child/Pediatric Diabetes
+CHILD_0384,6,Female,17.0,35.2,MODY,86.1,6.8,1.57,Negative,MDI,Primary,1,No,Yes,Yes,No,Yes,143,Child/Pediatric Diabetes
+CHILD_0385,11,Male,15.4,64.9,Type 1,145.1,9.0,0.02,Negative,Basal Only,Primary,3,No,No,No,No,Yes,52,Child/Pediatric Diabetes
+CHILD_0386,14,Female,20.6,84.3,Type 1,159.2,9.9,0.02,Positive,MDI,Middle School,0,No,Yes,No,No,No,149,Child/Pediatric Diabetes
+CHILD_0387,10,Female,17.3,92.5,Type 1,212.2,7.2,0.17,Positive,Pump,Primary,2,No,Yes,No,No,No,3,Child/Pediatric Diabetes
+CHILD_0388,6,Male,24.9,66.6,Type 1,274.5,9.2,0.05,Positive,MDI,Primary,0,Yes,Yes,No,No,No,135,Child/Pediatric Diabetes
+CHILD_0389,12,Male,23.9,56.8,Type 1,259.5,9.7,0.11,Positive,Pump,Middle School,2,Yes,No,No,No,No,53,Child/Pediatric Diabetes
+CHILD_0390,7,Female,19.8,71.3,Type 2,173.9,8.3,2.92,Negative,MDI,Primary,2,No,Yes,Yes,No,Yes,68,Child/Pediatric Diabetes
+CHILD_0391,4,Female,20.4,35.0,Type 1,127.7,10.1,0.08,Positive,MDI,Preschool,1,Yes,Yes,No,No,No,121,Child/Pediatric Diabetes
+CHILD_0392,1,Male,15.7,17.7,Type 1,255.1,7.3,0.14,Positive,Basal Only,Preschool,1,No,Yes,Yes,No,No,147,Child/Pediatric Diabetes
+CHILD_0393,13,Male,19.2,68.2,Type 1,179.5,7.2,0.18,Positive,MDI,Middle School,2,Yes,Yes,No,No,Yes,39,Child/Pediatric Diabetes
+CHILD_0394,12,Female,18.0,73.4,Neonatal,106.4,5.0,1.88,Negative,Pump,Middle School,0,Yes,Yes,No,No,Yes,44,Child/Pediatric Diabetes
+CHILD_0395,15,Female,21.1,69.5,Type 1,221.5,8.2,0.18,Positive,MDI,High School,2,No,Yes,Yes,No,No,67,Child/Pediatric Diabetes
+CHILD_0396,17,Male,22.0,73.0,Type 1,156.0,11.0,0.17,Positive,Pump,High School,3,No,Yes,No,No,No,4,Child/Pediatric Diabetes
+CHILD_0397,13,Male,18.1,99.0,Type 1,206.7,8.3,0.11,Negative,MDI,Middle School,2,No,Yes,No,No,No,102,Child/Pediatric Diabetes
+CHILD_0398,14,Female,24.4,68.7,Type 1,252.7,11.8,0.2,Positive,None,Middle School,2,Yes,No,Yes,No,No,149,Child/Pediatric Diabetes
+CHILD_0399,14,Male,23.8,77.9,Type 1,215.8,8.2,0.21,Negative,Basal Only,Middle School,2,Yes,Yes,Yes,No,Yes,123,Child/Pediatric Diabetes
+CHILD_0400,4,Female,19.2,57.9,Type 1,153.2,9.6,0.05,Positive,MDI,Preschool,2,No,No,No,No,No,161,Child/Pediatric Diabetes
+CHILD_0401,10,Female,28.5,41.5,Type 1,215.2,9.3,0.22,Positive,None,Primary,2,No,No,No,No,No,130,Child/Pediatric Diabetes
+CHILD_0402,10,Female,20.1,85.7,Type 1,242.8,8.7,0.16,Positive,MDI,Primary,1,No,Yes,No,No,Yes,149,Child/Pediatric Diabetes
+CHILD_0403,15,Male,20.8,19.2,Type 2,234.5,7.4,2.95,Negative,MDI,High School,1,No,No,No,No,Yes,138,Child/Pediatric Diabetes
+CHILD_0404,7,Male,20.9,27.7,Type 1,215.2,7.1,0.22,Positive,None,Primary,2,No,No,No,No,No,125,Child/Pediatric Diabetes
+CHILD_0405,17,Female,21.3,99.0,Type 1,219.1,10.4,0.14,Positive,MDI,High School,3,No,Yes,No,No,No,161,Child/Pediatric Diabetes
+CHILD_0406,15,Male,14.3,80.3,Type 1,138.2,5.7,0.14,Positive,MDI,High School,0,No,Yes,No,No,No,79,Child/Pediatric Diabetes
+CHILD_0407,4,Male,19.2,74.6,Type 1,175.8,7.1,0.14,Positive,Pump,Preschool,2,No,No,No,No,Yes,17,Child/Pediatric Diabetes
+CHILD_0408,16,Female,16.2,99.0,Type 2,124.4,8.8,1.89,Negative,None,High School,2,No,No,No,No,Yes,153,Child/Pediatric Diabetes
+CHILD_0409,5,Female,19.3,82.1,Type 1,194.1,5.7,0.07,Positive,MDI,Preschool,4,Yes,Yes,No,No,No,113,Child/Pediatric Diabetes
+CHILD_0410,10,Male,23.0,48.9,Type 1,188.4,10.3,0.17,Positive,Pump,Primary,0,No,Yes,Yes,No,No,33,Child/Pediatric Diabetes
+CHILD_0411,8,Female,23.0,53.8,Type 1,179.3,7.8,0.2,Positive,MDI,Primary,1,No,No,No,No,No,41,Child/Pediatric Diabetes
+CHILD_0412,10,Female,20.7,99.0,Type 1,227.2,8.1,0.19,Positive,Basal Only,Primary,0,No,Yes,Yes,No,Yes,163,Child/Pediatric Diabetes
+CHILD_0413,8,Female,21.4,64.7,Type 1,225.8,10.8,0.06,Positive,None,Primary,4,No,Yes,No,No,Yes,2,Child/Pediatric Diabetes
+CHILD_0414,7,Male,12.8,66.5,Type 1,283.8,10.3,0.03,Positive,MDI,Primary,4,No,Yes,No,No,No,162,Child/Pediatric Diabetes
+CHILD_0415,9,Female,18.2,37.1,Type 1,203.1,9.5,0.12,Positive,Basal Only,Primary,0,Yes,Yes,No,No,No,71,Child/Pediatric Diabetes
+CHILD_0416,7,Female,15.8,54.1,MODY,140.3,8.3,1.73,Negative,Pump,Primary,4,No,Yes,Yes,No,Yes,28,Child/Pediatric Diabetes
+CHILD_0417,4,Male,14.2,67.1,Type 2,107.4,7.2,2.32,Negative,Pump,Preschool,3,No,Yes,No,No,No,72,Child/Pediatric Diabetes
+CHILD_0418,13,Female,18.6,95.9,Type 1,242.5,11.6,0.12,Positive,Basal Only,Middle School,1,No,Yes,No,No,Yes,111,Child/Pediatric Diabetes
+CHILD_0419,14,Male,22.8,99.0,Type 1,149.8,5.4,0.13,Positive,Basal Only,Middle School,2,Yes,No,No,No,Yes,118,Child/Pediatric Diabetes
+CHILD_0420,12,Female,19.9,77.4,Type 1,289.5,9.6,0.09,Positive,Pump,Middle School,4,No,No,No,No,Yes,145,Child/Pediatric Diabetes
+CHILD_0421,13,Female,14.8,82.2,Type 2,207.1,8.9,1.12,Negative,Pump,Middle School,3,No,No,Yes,No,No,156,Child/Pediatric Diabetes
+CHILD_0422,1,Female,21.2,60.6,Type 1,192.2,6.8,0.21,Positive,MDI,Preschool,1,Yes,No,No,No,No,169,Child/Pediatric Diabetes
+CHILD_0423,10,Male,22.2,48.7,Type 1,190.2,7.6,0.21,Negative,MDI,Primary,2,No,No,Yes,No,Yes,37,Child/Pediatric Diabetes
+CHILD_0424,17,Female,26.1,62.8,Type 1,123.8,11.9,0.12,Positive,None,High School,3,Yes,No,No,No,No,147,Child/Pediatric Diabetes
+CHILD_0425,3,Female,12.0,82.0,Type 1,165.2,8.6,0.18,Positive,Basal Only,Preschool,0,No,Yes,No,No,No,139,Child/Pediatric Diabetes
+CHILD_0426,14,Male,17.4,42.2,Type 2,194.6,7.1,1.54,Negative,None,Middle School,2,No,Yes,No,No,Yes,102,Child/Pediatric Diabetes
+CHILD_0427,4,Female,17.2,44.1,Type 1,173.2,9.1,0.13,Positive,None,Preschool,3,Yes,No,No,No,Yes,148,Child/Pediatric Diabetes
+CHILD_0428,12,Female,22.9,85.6,Type 1,186.8,8.1,0.09,Positive,MDI,Middle School,1,No,Yes,No,No,Yes,38,Child/Pediatric Diabetes
+CHILD_0429,10,Male,14.9,25.6,Type 1,215.0,9.9,0.19,Positive,MDI,Primary,2,No,No,No,No,Yes,114,Child/Pediatric Diabetes
+CHILD_0430,7,Male,20.9,38.3,Type 1,109.1,12.2,0.12,Positive,None,Primary,4,Yes,No,No,No,Yes,145,Child/Pediatric Diabetes
+CHILD_0431,9,Female,19.5,63.5,Type 1,271.3,9.0,0.08,Positive,MDI,Primary,1,No,No,No,No,Yes,68,Child/Pediatric Diabetes
+CHILD_0432,11,Male,17.0,99.0,Type 1,222.5,9.0,0.18,Positive,Pump,Primary,2,No,Yes,Yes,No,Yes,13,Child/Pediatric Diabetes
+CHILD_0433,4,Female,18.0,54.2,Type 1,139.5,9.5,0.09,Positive,Pump,Preschool,3,No,Yes,No,No,No,74,Child/Pediatric Diabetes
+CHILD_0434,17,Male,15.9,74.0,Type 1,207.1,8.0,0.08,Positive,Basal Only,High School,0,No,No,No,Yes,No,32,Child/Pediatric Diabetes
+CHILD_0435,15,Male,18.8,63.9,Type 1,240.0,8.9,0.11,Positive,Basal Only,High School,3,No,Yes,No,No,No,105,Child/Pediatric Diabetes
+CHILD_0436,12,Male,19.5,66.1,Neonatal,137.8,5.0,3.05,Negative,MDI,Middle School,2,No,Yes,No,No,No,97,Child/Pediatric Diabetes
+CHILD_0437,4,Male,16.9,21.0,MODY,254.3,8.1,1.63,Negative,Pump,Preschool,4,No,Yes,No,No,No,0,Child/Pediatric Diabetes
+CHILD_0438,16,Male,12.5,99.0,Type 1,247.4,8.4,0.16,Positive,None,High School,2,No,No,No,No,No,153,Child/Pediatric Diabetes
+CHILD_0439,17,Female,23.8,48.9,Type 1,131.8,10.0,0.02,Negative,None,High School,2,No,Yes,No,No,Yes,168,Child/Pediatric Diabetes
+CHILD_0440,3,Male,20.1,38.8,Type 2,164.5,6.7,2.65,Negative,Pump,Preschool,2,Yes,No,Yes,No,No,105,Child/Pediatric Diabetes
+CHILD_0441,6,Female,21.5,99.0,Type 1,309.9,9.5,0.12,Positive,MDI,Primary,1,No,Yes,No,No,Yes,106,Child/Pediatric Diabetes
+CHILD_0442,17,Female,18.7,58.8,Type 1,183.9,5.0,0.13,Negative,Pump,High School,4,Yes,Yes,Yes,No,Yes,170,Child/Pediatric Diabetes
+CHILD_0443,3,Male,22.1,98.5,Type 1,241.3,7.7,0.09,Negative,MDI,Preschool,2,No,No,No,No,Yes,68,Child/Pediatric Diabetes
+CHILD_0444,12,Male,12.8,42.5,Type 1,274.2,11.7,0.14,Positive,Pump,Middle School,2,No,Yes,No,No,No,100,Child/Pediatric Diabetes
+CHILD_0445,6,Male,18.9,89.2,Type 1,219.2,10.4,0.21,Positive,Pump,Primary,1,No,Yes,No,Yes,No,117,Child/Pediatric Diabetes
+CHILD_0446,11,Female,16.9,87.3,Type 1,180.6,8.5,0.08,Positive,MDI,Primary,0,No,Yes,No,Yes,Yes,108,Child/Pediatric Diabetes
+CHILD_0447,4,Male,17.0,63.4,Type 1,242.7,7.0,0.2,Positive,MDI,Preschool,2,No,Yes,No,Yes,No,179,Child/Pediatric Diabetes
+CHILD_0448,14,Female,23.0,72.5,Type 1,233.8,10.0,0.1,Positive,None,Middle School,4,No,Yes,No,No,No,53,Child/Pediatric Diabetes
+CHILD_0449,2,Female,14.2,49.3,Type 1,188.5,6.4,0.21,Positive,Basal Only,Preschool,3,Yes,Yes,No,Yes,Yes,166,Child/Pediatric Diabetes
+CHILD_0450,15,Female,23.4,90.6,Type 1,207.1,8.8,0.16,Positive,MDI,High School,2,Yes,Yes,No,No,No,108,Child/Pediatric Diabetes
+CHILD_0451,2,Male,16.7,65.9,Type 1,191.2,9.4,0.08,Positive,None,Preschool,1,No,No,Yes,No,Yes,131,Child/Pediatric Diabetes
+CHILD_0452,5,Female,18.0,35.3,Type 1,156.7,8.0,0.15,Positive,Pump,Preschool,2,No,Yes,No,No,No,18,Child/Pediatric Diabetes
+CHILD_0453,13,Female,19.8,81.0,Type 2,106.1,8.8,2.36,Negative,Pump,Middle School,1,Yes,No,Yes,No,Yes,131,Child/Pediatric Diabetes
+CHILD_0454,2,Female,19.9,70.7,Type 1,309.3,8.6,0.06,Positive,Basal Only,Preschool,1,No,Yes,Yes,No,No,152,Child/Pediatric Diabetes
+CHILD_0455,6,Male,21.9,71.7,MODY,120.0,7.9,1.79,Negative,Basal Only,Primary,2,Yes,Yes,No,No,No,173,Child/Pediatric Diabetes
+CHILD_0456,17,Female,15.6,32.1,MODY,198.7,7.0,0.44,Negative,MDI,High School,1,Yes,No,Yes,No,Yes,148,Child/Pediatric Diabetes
+CHILD_0457,1,Male,15.8,99.0,Type 1,238.9,14.0,0.05,Positive,MDI,Preschool,0,No,No,No,Yes,Yes,93,Child/Pediatric Diabetes
+CHILD_0458,16,Female,20.5,66.3,Type 1,256.4,9.6,0.01,Negative,MDI,High School,2,Yes,No,No,No,No,161,Child/Pediatric Diabetes
+CHILD_0459,3,Female,17.6,69.4,Type 2,178.9,8.1,2.79,Negative,Pump,Preschool,2,No,Yes,Yes,No,No,48,Child/Pediatric Diabetes
+CHILD_0460,17,Female,18.2,67.1,Type 1,180.2,8.9,0.1,Positive,MDI,High School,0,Yes,No,No,No,Yes,56,Child/Pediatric Diabetes
+CHILD_0461,13,Female,14.7,90.4,Type 1,180.1,12.2,0.03,Positive,MDI,Middle School,2,No,No,No,No,Yes,48,Child/Pediatric Diabetes
+CHILD_0462,15,Female,20.1,94.5,Type 1,258.8,9.3,0.09,Positive,None,High School,0,Yes,No,No,No,Yes,38,Child/Pediatric Diabetes
+CHILD_0463,7,Male,16.3,76.3,Type 2,132.9,8.4,3.58,Negative,MDI,Primary,1,Yes,Yes,No,No,No,50,Child/Pediatric Diabetes
+CHILD_0464,2,Female,23.7,99.0,Type 1,223.5,12.2,0.06,Positive,None,Preschool,3,Yes,No,No,No,Yes,177,Child/Pediatric Diabetes
+CHILD_0465,9,Female,14.7,77.0,Type 1,222.9,8.6,0.12,Positive,None,Primary,1,No,No,No,No,No,107,Child/Pediatric Diabetes
+CHILD_0466,3,Male,15.9,61.9,Type 1,275.1,7.7,0.1,Positive,None,Preschool,3,No,Yes,No,No,No,22,Child/Pediatric Diabetes
+CHILD_0467,3,Female,17.0,54.5,MODY,172.9,8.0,2.84,Negative,Pump,Preschool,4,No,Yes,No,No,No,95,Child/Pediatric Diabetes
+CHILD_0468,2,Male,22.1,73.0,Type 1,213.9,9.5,0.01,Positive,None,Preschool,1,Yes,Yes,No,No,No,23,Child/Pediatric Diabetes
+CHILD_0469,3,Male,17.5,3.0,Type 2,193.0,8.3,2.31,Negative,MDI,Preschool,2,Yes,Yes,No,No,Yes,38,Child/Pediatric Diabetes
+CHILD_0470,11,Male,13.1,64.3,MODY,180.1,7.5,1.96,Negative,MDI,Primary,0,Yes,No,Yes,No,No,70,Child/Pediatric Diabetes
+CHILD_0471,5,Male,21.0,62.5,Type 1,140.4,7.2,0.06,Positive,MDI,Preschool,1,No,No,No,No,No,91,Child/Pediatric Diabetes
+CHILD_0472,17,Male,20.6,51.4,Type 1,239.0,8.5,0.21,Positive,MDI,High School,1,No,No,Yes,No,Yes,52,Child/Pediatric Diabetes
+CHILD_0473,9,Male,16.8,67.3,Type 1,215.7,10.4,0.16,Positive,Basal Only,Primary,6,Yes,Yes,No,No,No,15,Child/Pediatric Diabetes
+CHILD_0474,1,Male,22.0,77.5,Type 1,265.8,6.7,0.07,Positive,MDI,Preschool,3,Yes,Yes,No,No,No,178,Child/Pediatric Diabetes
+CHILD_0475,3,Male,24.4,80.7,Type 1,188.6,10.3,0.19,Positive,MDI,Preschool,3,No,No,No,No,No,94,Child/Pediatric Diabetes
+CHILD_0476,8,Female,17.0,70.5,Type 1,250.0,7.2,0.09,Positive,Pump,Primary,1,No,No,No,No,No,130,Child/Pediatric Diabetes
+CHILD_0477,15,Female,18.3,69.3,Type 2,224.0,7.0,3.15,Negative,Basal Only,High School,1,Yes,No,No,No,Yes,37,Child/Pediatric Diabetes
+CHILD_0478,13,Female,17.9,99.0,Type 1,334.1,9.1,0.12,Negative,MDI,Middle School,2,No,No,No,No,Yes,27,Child/Pediatric Diabetes
+CHILD_0479,3,Female,19.5,99.0,Type 1,303.3,9.9,0.12,Positive,Basal Only,Preschool,3,No,No,No,No,No,139,Child/Pediatric Diabetes
+CHILD_0480,6,Female,21.5,57.7,Type 1,216.7,9.4,0.13,Positive,Pump,Primary,5,No,No,Yes,No,Yes,111,Child/Pediatric Diabetes
+CHILD_0481,15,Male,24.2,93.1,Neonatal,104.2,8.2,1.97,Negative,Basal Only,High School,1,No,Yes,No,No,Yes,94,Child/Pediatric Diabetes
+CHILD_0482,4,Male,18.2,50.2,Type 1,266.9,6.0,0.16,Positive,Pump,Preschool,2,Yes,Yes,No,No,Yes,2,Child/Pediatric Diabetes
+CHILD_0483,4,Male,21.8,68.6,Type 1,260.3,11.1,0.04,Positive,None,Preschool,4,No,No,No,No,No,134,Child/Pediatric Diabetes
+CHILD_0484,17,Male,26.2,50.7,Type 2,234.6,7.5,3.11,Negative,Basal Only,High School,5,Yes,Yes,No,No,No,135,Child/Pediatric Diabetes
+CHILD_0485,16,Male,20.6,80.6,Type 1,197.1,9.9,0.13,Positive,None,High School,1,No,Yes,No,No,No,88,Child/Pediatric Diabetes
+CHILD_0486,11,Female,14.2,50.9,Type 1,211.0,9.2,0.09,Positive,Pump,Primary,1,No,Yes,No,No,Yes,3,Child/Pediatric Diabetes
+CHILD_0487,7,Female,16.2,69.4,Type 2,246.5,6.7,1.95,Negative,MDI,Primary,2,Yes,Yes,No,No,No,4,Child/Pediatric Diabetes
+CHILD_0488,11,Male,19.8,72.3,Neonatal,199.3,8.0,3.33,Negative,MDI,Primary,5,No,No,No,No,No,80,Child/Pediatric Diabetes
+CHILD_0489,11,Male,28.3,51.2,Type 1,143.9,6.8,0.14,Positive,Basal Only,Primary,1,No,No,No,No,No,169,Child/Pediatric Diabetes
+CHILD_0490,7,Female,19.6,79.2,Type 1,283.6,7.4,0.06,Positive,Pump,Primary,4,Yes,Yes,No,No,Yes,111,Child/Pediatric Diabetes
+CHILD_0491,2,Female,20.9,99.0,Type 2,242.5,7.0,2.36,Negative,MDI,Preschool,3,No,No,Yes,No,No,38,Child/Pediatric Diabetes
+CHILD_0492,9,Male,25.4,73.8,Type 1,184.5,8.9,0.11,Positive,MDI,Primary,0,No,Yes,No,No,Yes,137,Child/Pediatric Diabetes
+CHILD_0493,5,Female,26.3,78.2,Type 2,154.4,9.2,2.54,Negative,None,Preschool,1,Yes,Yes,Yes,No,Yes,35,Child/Pediatric Diabetes
+CHILD_0494,5,Male,25.6,99.0,Type 1,160.3,8.5,0.22,Positive,Pump,Preschool,1,Yes,No,No,No,No,166,Child/Pediatric Diabetes
+CHILD_0495,13,Male,21.6,55.1,Type 1,235.9,7.6,0.1,Positive,MDI,Middle School,4,No,Yes,No,No,Yes,34,Child/Pediatric Diabetes
+CHILD_0496,4,Male,18.2,84.8,Type 1,171.6,10.6,0.13,Positive,MDI,Preschool,1,No,No,Yes,No,No,116,Child/Pediatric Diabetes
+CHILD_0497,1,Female,24.9,74.9,Type 2,224.2,8.4,1.5,Negative,None,Preschool,1,No,Yes,No,Yes,Yes,109,Child/Pediatric Diabetes
+CHILD_0498,16,Female,23.0,77.2,Type 1,236.6,8.0,0.06,Positive,MDI,High School,3,Yes,Yes,Yes,No,No,55,Child/Pediatric Diabetes
+CHILD_0499,5,Female,15.4,73.7,Type 1,280.5,7.6,0.11,Positive,Pump,Preschool,2,Yes,No,No,No,No,104,Child/Pediatric Diabetes
+CHILD_0500,7,Female,19.5,62.6,Neonatal,159.3,7.4,2.1,Negative,MDI,Primary,2,No,No,No,No,No,40,Child/Pediatric Diabetes
+CHILD_0501,11,Female,19.0,61.6,Type 1,274.2,9.4,0.07,Positive,Basal Only,Primary,0,No,No,No,No,No,124,Child/Pediatric Diabetes
+CHILD_0502,12,Female,15.2,83.0,Type 1,207.8,7.8,0.15,Positive,None,Middle School,0,No,Yes,No,No,No,89,Child/Pediatric Diabetes
+CHILD_0503,16,Male,17.5,98.8,Type 1,225.6,9.4,0.19,Positive,Pump,High School,0,No,No,No,No,No,10,Child/Pediatric Diabetes
+CHILD_0504,16,Female,19.5,69.2,Type 1,212.4,10.6,0.09,Positive,None,High School,4,No,No,Yes,No,Yes,107,Child/Pediatric Diabetes
+CHILD_0505,2,Male,18.2,82.9,Type 1,295.0,8.6,0.11,Positive,MDI,Preschool,3,No,Yes,No,No,Yes,138,Child/Pediatric Diabetes
+CHILD_0506,16,Female,21.6,81.0,Type 1,222.7,6.1,0.11,Positive,Pump,High School,5,Yes,No,No,No,Yes,66,Child/Pediatric Diabetes
+CHILD_0507,6,Male,15.9,83.6,Type 1,176.7,9.3,0.26,Positive,MDI,Primary,2,No,Yes,No,No,Yes,75,Child/Pediatric Diabetes
+CHILD_0508,16,Male,17.9,53.8,Type 1,175.8,7.3,0.13,Positive,MDI,High School,2,No,No,No,No,Yes,70,Child/Pediatric Diabetes
+CHILD_0509,11,Female,16.3,67.1,Type 1,149.2,9.2,0.11,Positive,Basal Only,Primary,3,Yes,No,No,No,No,59,Child/Pediatric Diabetes
+CHILD_0510,11,Female,13.9,47.1,Type 2,126.6,7.3,2.35,Negative,None,Primary,1,No,Yes,No,No,No,26,Child/Pediatric Diabetes
+CHILD_0511,5,Male,17.8,66.4,Type 1,314.0,7.5,0.18,Positive,Basal Only,Preschool,1,No,No,No,No,Yes,23,Child/Pediatric Diabetes
+CHILD_0512,17,Female,16.8,53.3,MODY,199.6,6.4,1.59,Negative,MDI,High School,1,Yes,Yes,No,No,Yes,152,Child/Pediatric Diabetes
+CHILD_0513,10,Male,22.3,70.7,Type 2,234.1,6.9,2.27,Negative,MDI,Primary,4,Yes,Yes,No,No,No,72,Child/Pediatric Diabetes
+CHILD_0514,2,Female,20.9,32.0,Type 1,221.9,10.7,0.06,Positive,MDI,Preschool,1,Yes,No,No,No,No,87,Child/Pediatric Diabetes
+CHILD_0515,10,Female,20.6,53.1,MODY,165.1,9.1,1.46,Negative,MDI,Primary,1,No,Yes,No,No,No,35,Child/Pediatric Diabetes
+CHILD_0516,14,Female,19.9,57.9,Type 1,202.4,9.2,0.04,Positive,MDI,Middle School,2,No,No,No,No,No,162,Child/Pediatric Diabetes
+CHILD_0517,11,Female,17.0,75.2,Type 1,174.1,5.8,0.18,Positive,MDI,Primary,2,No,Yes,No,No,Yes,24,Child/Pediatric Diabetes
+CHILD_0518,2,Male,15.0,40.2,Type 1,248.7,8.6,0.1,Negative,None,Preschool,2,No,No,No,Yes,No,8,Child/Pediatric Diabetes
+CHILD_0519,15,Male,20.8,71.6,Type 1,311.9,10.4,0.09,Positive,Pump,High School,2,No,Yes,Yes,No,Yes,52,Child/Pediatric Diabetes
+CHILD_0520,9,Male,12.4,60.4,Type 1,222.1,11.3,0.15,Positive,MDI,Primary,0,Yes,No,No,No,Yes,133,Child/Pediatric Diabetes
+CHILD_0521,2,Female,16.3,70.5,Type 1,188.6,10.0,0.16,Negative,Pump,Preschool,2,No,No,No,No,No,56,Child/Pediatric Diabetes
+CHILD_0522,12,Female,21.9,72.8,Type 1,303.5,8.7,0.18,Positive,None,Middle School,1,Yes,Yes,No,No,No,118,Child/Pediatric Diabetes
+CHILD_0523,6,Female,17.7,83.2,Type 1,94.5,8.3,0.12,Positive,MDI,Primary,0,No,Yes,No,No,No,37,Child/Pediatric Diabetes
+CHILD_0524,2,Female,23.1,87.9,Type 2,172.4,7.5,2.33,Negative,Basal Only,Preschool,1,No,Yes,No,No,Yes,118,Child/Pediatric Diabetes
+CHILD_0525,4,Female,23.9,50.3,Type 1,148.2,7.7,0.08,Positive,None,Preschool,1,No,Yes,No,No,Yes,115,Child/Pediatric Diabetes
+CHILD_0526,12,Male,19.0,80.5,Type 1,333.5,8.9,0.19,Positive,MDI,Middle School,2,No,Yes,No,No,Yes,92,Child/Pediatric Diabetes
+CHILD_0527,9,Male,23.7,41.5,Type 1,276.7,8.8,0.17,Positive,MDI,Primary,3,No,Yes,No,No,Yes,53,Child/Pediatric Diabetes
+CHILD_0528,16,Male,15.3,73.8,Type 1,206.6,8.4,0.15,Negative,MDI,High School,1,Yes,Yes,No,No,No,135,Child/Pediatric Diabetes
+CHILD_0529,9,Female,13.4,72.3,Type 1,200.9,10.3,0.15,Positive,MDI,Primary,4,No,Yes,No,No,Yes,135,Child/Pediatric Diabetes
+CHILD_0530,1,Female,18.5,70.9,Type 1,138.3,6.9,0.23,Positive,Basal Only,Preschool,3,No,Yes,Yes,No,No,92,Child/Pediatric Diabetes
+CHILD_0531,6,Female,25.0,49.1,Type 1,234.1,9.9,0.22,Positive,MDI,Primary,0,No,No,No,No,Yes,146,Child/Pediatric Diabetes
+CHILD_0532,9,Male,18.4,66.7,Type 1,304.0,10.8,0.17,Negative,Pump,Primary,1,Yes,Yes,Yes,No,No,5,Child/Pediatric Diabetes
+CHILD_0533,12,Female,23.6,55.5,Type 2,137.7,7.1,3.29,Negative,Pump,Middle School,2,Yes,Yes,No,No,No,76,Child/Pediatric Diabetes
+CHILD_0534,11,Male,22.2,61.5,Type 1,195.1,9.4,0.09,Positive,Pump,Primary,3,No,Yes,No,No,No,169,Child/Pediatric Diabetes
+CHILD_0535,17,Female,23.2,99.0,Type 1,271.8,9.8,0.05,Positive,None,High School,3,No,Yes,No,No,No,159,Child/Pediatric Diabetes
+CHILD_0536,8,Male,16.9,72.7,Type 1,258.8,11.1,0.14,Positive,Pump,Primary,2,Yes,No,No,No,No,10,Child/Pediatric Diabetes
+CHILD_0537,5,Female,22.7,88.1,Type 1,216.5,7.2,0.11,Positive,None,Preschool,1,No,Yes,Yes,No,Yes,157,Child/Pediatric Diabetes
+CHILD_0538,6,Female,12.0,99.0,Type 1,197.4,8.5,0.1,Positive,Basal Only,Primary,3,No,No,No,No,Yes,38,Child/Pediatric Diabetes
+CHILD_0539,3,Female,20.8,50.0,Type 1,212.1,9.4,0.08,Positive,Pump,Preschool,1,No,No,No,No,No,49,Child/Pediatric Diabetes
+CHILD_0540,4,Female,21.7,43.5,Type 1,221.2,9.0,0.17,Negative,MDI,Preschool,3,No,Yes,No,No,Yes,105,Child/Pediatric Diabetes
+CHILD_0541,6,Male,19.5,98.3,Type 1,211.7,10.7,0.09,Positive,Pump,Primary,3,No,Yes,No,No,No,6,Child/Pediatric Diabetes
+CHILD_0542,7,Male,25.9,40.5,Type 2,142.6,5.9,0.98,Negative,Pump,Primary,2,Yes,No,No,No,Yes,53,Child/Pediatric Diabetes
+CHILD_0543,11,Female,24.8,47.0,Type 1,270.0,9.4,0.18,Negative,None,Primary,0,No,No,No,No,Yes,141,Child/Pediatric Diabetes
+CHILD_0544,6,Male,21.2,79.6,Type 1,265.5,9.3,0.14,Positive,MDI,Primary,1,No,No,No,No,No,81,Child/Pediatric Diabetes
+CHILD_0545,6,Female,15.8,54.3,Type 1,253.0,8.1,0.14,Positive,None,Primary,3,Yes,No,No,No,Yes,0,Child/Pediatric Diabetes
+CHILD_0546,2,Male,16.5,74.2,Type 2,217.6,8.5,0.93,Negative,MDI,Preschool,4,No,No,No,No,Yes,69,Child/Pediatric Diabetes
+CHILD_0547,15,Female,19.2,79.2,Type 1,284.9,8.8,0.15,Positive,MDI,High School,1,No,No,No,No,No,70,Child/Pediatric Diabetes
+CHILD_0548,15,Male,24.0,26.7,Type 1,227.9,8.7,0.18,Positive,None,High School,0,No,Yes,No,No,Yes,53,Child/Pediatric Diabetes
+CHILD_0549,2,Female,18.8,99.0,Type 1,215.5,5.4,0.09,Positive,MDI,Preschool,2,No,Yes,No,No,No,63,Child/Pediatric Diabetes
+CHILD_0550,17,Male,15.6,99.0,Type 1,126.3,11.1,0.14,Positive,None,High School,3,Yes,No,No,No,Yes,73,Child/Pediatric Diabetes
+CHILD_0551,2,Male,22.9,65.6,Type 1,196.0,8.1,0.08,Positive,None,Preschool,1,No,Yes,No,No,No,40,Child/Pediatric Diabetes
+CHILD_0552,11,Male,26.5,85.8,Type 1,147.4,9.0,0.05,Positive,MDI,Primary,3,No,Yes,No,No,Yes,91,Child/Pediatric Diabetes
+CHILD_0553,6,Male,13.2,99.0,Type 1,193.4,8.4,0.02,Positive,Pump,Primary,0,Yes,No,No,No,Yes,153,Child/Pediatric Diabetes
+CHILD_0554,14,Female,17.4,75.1,Type 1,206.1,9.7,0.01,Positive,MDI,Middle School,2,No,Yes,No,No,No,151,Child/Pediatric Diabetes
+CHILD_0555,16,Female,23.4,39.3,Type 1,258.8,8.4,0.08,Positive,Basal Only,High School,0,No,No,No,No,No,31,Child/Pediatric Diabetes
+CHILD_0556,3,Male,20.3,75.2,Type 1,157.5,8.4,0.01,Positive,MDI,Preschool,5,No,Yes,No,Yes,No,119,Child/Pediatric Diabetes
+CHILD_0557,11,Male,24.0,47.2,Type 1,249.8,11.0,0.16,Negative,MDI,Primary,1,No,Yes,No,No,Yes,149,Child/Pediatric Diabetes
+CHILD_0558,10,Male,16.9,65.1,Type 1,205.6,9.6,0.07,Positive,Basal Only,Primary,0,No,Yes,No,No,Yes,68,Child/Pediatric Diabetes
+CHILD_0559,7,Male,16.6,95.4,Type 1,160.4,9.6,0.14,Positive,Basal Only,Primary,1,Yes,No,No,No,No,58,Child/Pediatric Diabetes
+CHILD_0560,8,Male,19.6,96.7,Type 1,94.6,7.4,0.16,Positive,Basal Only,Primary,1,Yes,No,No,No,No,150,Child/Pediatric Diabetes
+CHILD_0561,17,Male,17.9,38.1,Type 2,231.5,6.6,2.29,Negative,MDI,High School,2,No,No,Yes,No,No,40,Child/Pediatric Diabetes
+CHILD_0562,5,Female,18.9,80.6,Type 1,213.5,7.6,0.07,Negative,Basal Only,Preschool,0,No,No,No,No,Yes,18,Child/Pediatric Diabetes
+CHILD_0563,3,Female,18.4,62.0,Type 1,209.5,10.1,0.12,Positive,MDI,Preschool,1,No,Yes,No,No,Yes,76,Child/Pediatric Diabetes
+CHILD_0564,10,Male,12.0,48.1,Type 1,250.5,9.5,0.22,Positive,Pump,Primary,4,No,Yes,No,No,No,13,Child/Pediatric Diabetes
+CHILD_0565,2,Male,18.4,73.9,Type 1,254.6,8.0,0.12,Positive,MDI,Preschool,2,No,Yes,No,No,Yes,40,Child/Pediatric Diabetes
+CHILD_0566,4,Female,18.9,80.1,Type 1,261.1,9.1,0.09,Positive,None,Preschool,3,Yes,Yes,No,No,Yes,45,Child/Pediatric Diabetes
+CHILD_0567,17,Male,21.0,96.1,MODY,183.2,5.0,1.29,Negative,Pump,High School,1,No,Yes,No,No,Yes,158,Child/Pediatric Diabetes
+CHILD_0568,17,Male,19.3,80.0,Type 1,179.2,10.4,0.13,Positive,Basal Only,High School,5,Yes,No,No,No,No,171,Child/Pediatric Diabetes
+CHILD_0569,14,Female,15.4,63.3,Type 1,202.6,8.5,0.17,Positive,MDI,Middle School,2,No,No,No,Yes,No,167,Child/Pediatric Diabetes
+CHILD_0570,8,Female,15.6,64.4,Type 1,220.4,10.4,0.1,Positive,None,Primary,2,No,Yes,No,No,Yes,162,Child/Pediatric Diabetes
+CHILD_0571,15,Female,20.1,99.0,Type 1,216.4,11.5,0.12,Negative,MDI,High School,1,No,Yes,No,No,No,167,Child/Pediatric Diabetes
+CHILD_0572,16,Male,15.5,59.1,Type 2,113.8,6.4,2.3,Negative,MDI,High School,2,No,No,No,No,Yes,47,Child/Pediatric Diabetes
+CHILD_0573,6,Male,12.0,60.0,MODY,216.1,6.5,3.71,Negative,None,Primary,1,No,Yes,No,No,Yes,41,Child/Pediatric Diabetes
+CHILD_0574,9,Male,22.0,68.2,Type 1,131.6,10.4,0.05,Positive,Pump,Primary,2,Yes,Yes,No,No,No,34,Child/Pediatric Diabetes
+CHILD_0575,17,Female,18.9,67.6,Type 1,305.8,10.7,0.13,Positive,MDI,High School,2,No,Yes,No,No,Yes,99,Child/Pediatric Diabetes
+CHILD_0576,4,Female,22.2,60.5,Type 1,182.0,10.4,0.07,Positive,Pump,Preschool,1,No,Yes,No,No,No,119,Child/Pediatric Diabetes
+CHILD_0577,3,Male,20.2,95.0,Type 1,166.8,7.1,0.15,Positive,Basal Only,Preschool,2,No,Yes,No,No,Yes,9,Child/Pediatric Diabetes
+CHILD_0578,6,Male,15.7,75.2,Type 1,270.8,5.8,0.2,Negative,Pump,Primary,2,No,Yes,No,No,Yes,143,Child/Pediatric Diabetes
+CHILD_0579,10,Male,15.4,99.0,Type 1,204.1,5.8,0.01,Positive,Pump,Primary,3,No,No,No,No,No,9,Child/Pediatric Diabetes
+CHILD_0580,4,Female,22.8,99.0,Type 1,218.4,6.4,0.09,Positive,Pump,Preschool,2,Yes,No,No,No,No,104,Child/Pediatric Diabetes
+CHILD_0581,9,Male,22.4,80.7,Type 2,185.5,9.2,2.52,Negative,Pump,Primary,4,No,Yes,No,No,No,100,Child/Pediatric Diabetes
+CHILD_0582,10,Female,18.3,63.5,Type 1,256.6,8.9,0.1,Positive,Pump,Primary,2,Yes,Yes,No,No,Yes,22,Child/Pediatric Diabetes
+CHILD_0583,4,Male,15.7,37.9,Type 1,234.0,5.9,0.19,Positive,Basal Only,Preschool,2,No,No,No,No,No,177,Child/Pediatric Diabetes
+CHILD_0584,9,Female,22.0,54.4,Type 1,211.2,9.3,0.13,Positive,Pump,Primary,2,Yes,Yes,No,No,Yes,179,Child/Pediatric Diabetes
+CHILD_0585,14,Female,13.6,99.0,Type 1,267.0,8.7,0.07,Positive,MDI,Middle School,1,Yes,Yes,No,No,No,79,Child/Pediatric Diabetes
+CHILD_0586,13,Male,18.3,60.4,Type 1,204.9,9.4,0.02,Positive,Basal Only,Middle School,1,No,No,No,No,Yes,72,Child/Pediatric Diabetes
+CHILD_0587,6,Male,23.9,51.8,Type 1,202.6,10.7,0.11,Positive,MDI,Primary,1,Yes,Yes,No,No,No,123,Child/Pediatric Diabetes
+CHILD_0588,10,Female,19.2,93.6,Type 1,178.0,9.4,0.23,Positive,MDI,Primary,0,No,Yes,No,No,Yes,97,Child/Pediatric Diabetes
+CHILD_0589,16,Female,17.8,71.2,Type 2,169.9,7.6,2.47,Negative,Basal Only,High School,1,Yes,Yes,No,Yes,Yes,101,Child/Pediatric Diabetes
+CHILD_0590,3,Female,16.8,67.4,Type 1,191.3,7.1,0.12,Negative,Basal Only,Preschool,0,No,No,No,No,Yes,139,Child/Pediatric Diabetes
+CHILD_0591,4,Male,19.6,85.3,Type 1,258.9,8.6,0.15,Positive,None,Preschool,3,No,Yes,No,No,Yes,155,Child/Pediatric Diabetes
+CHILD_0592,3,Male,23.6,42.2,Type 1,82.2,5.7,0.12,Negative,MDI,Preschool,1,Yes,Yes,No,No,No,61,Child/Pediatric Diabetes
+CHILD_0593,3,Male,19.9,60.1,Type 2,162.8,6.5,1.68,Negative,Pump,Preschool,1,Yes,Yes,No,No,Yes,157,Child/Pediatric Diabetes
+CHILD_0594,6,Female,21.6,94.8,Type 1,295.3,10.7,0.09,Positive,Basal Only,Primary,1,No,Yes,No,No,Yes,157,Child/Pediatric Diabetes
+CHILD_0595,13,Male,22.2,76.9,Type 2,175.6,8.1,2.59,Negative,Pump,Middle School,6,Yes,Yes,Yes,No,No,122,Child/Pediatric Diabetes
+CHILD_0596,6,Male,24.6,84.0,Type 1,150.4,8.4,0.01,Negative,MDI,Primary,2,No,No,Yes,No,Yes,166,Child/Pediatric Diabetes
+CHILD_0597,7,Female,16.4,97.1,Type 1,269.4,8.3,0.01,Positive,MDI,Primary,6,No,No,No,No,Yes,49,Child/Pediatric Diabetes
+CHILD_0598,13,Male,22.7,90.6,Type 1,150.4,8.1,0.16,Positive,MDI,Middle School,1,No,No,No,No,Yes,82,Child/Pediatric Diabetes
+CHILD_0599,7,Male,23.0,60.3,Type 1,146.6,9.1,0.15,Positive,MDI,Primary,2,No,Yes,No,No,Yes,119,Child/Pediatric Diabetes
+CHILD_0600,1,Female,13.7,70.2,Type 2,194.1,7.3,3.77,Negative,MDI,Preschool,3,Yes,No,No,No,No,130,Child/Pediatric Diabetes
+CHILD_0601,17,Male,18.1,27.9,Type 2,135.5,9.4,2.99,Negative,MDI,High School,4,No,Yes,No,No,Yes,130,Child/Pediatric Diabetes
+CHILD_0602,11,Female,21.3,99.0,Type 1,238.9,10.9,0.16,Negative,MDI,Primary,1,No,Yes,No,No,No,138,Child/Pediatric Diabetes
+CHILD_0603,13,Male,19.3,78.1,Neonatal,164.7,5.0,3.84,Negative,MDI,Middle School,2,Yes,Yes,No,No,No,94,Child/Pediatric Diabetes
+CHILD_0604,4,Female,21.5,47.3,Type 1,199.6,10.6,0.16,Negative,Pump,Preschool,1,Yes,Yes,No,No,No,121,Child/Pediatric Diabetes
+CHILD_0605,4,Female,21.8,33.2,Type 1,259.8,8.6,0.12,Positive,Pump,Preschool,1,Yes,Yes,No,No,No,20,Child/Pediatric Diabetes
+CHILD_0606,6,Male,19.2,57.7,Type 1,179.0,8.1,0.14,Positive,Basal Only,Primary,5,No,Yes,Yes,No,Yes,172,Child/Pediatric Diabetes
+CHILD_0607,3,Female,17.3,65.1,Type 1,113.7,10.4,0.24,Positive,MDI,Preschool,1,No,Yes,No,No,No,111,Child/Pediatric Diabetes
+CHILD_0608,8,Male,18.6,69.5,Type 1,186.2,10.5,0.07,Negative,MDI,Primary,3,No,No,No,No,No,121,Child/Pediatric Diabetes
+CHILD_0609,2,Female,15.2,37.5,Type 2,80.0,7.6,0.58,Negative,MDI,Preschool,2,No,Yes,No,Yes,No,26,Child/Pediatric Diabetes
+CHILD_0610,15,Male,14.5,49.6,Type 1,168.0,8.4,0.13,Positive,Pump,High School,2,No,No,No,No,Yes,102,Child/Pediatric Diabetes
+CHILD_0611,15,Female,21.7,74.5,Type 1,224.5,7.4,0.22,Positive,MDI,High School,1,Yes,Yes,No,No,Yes,155,Child/Pediatric Diabetes
+CHILD_0612,6,Female,22.6,99.0,Type 1,123.2,7.5,0.12,Positive,MDI,Primary,0,No,No,No,No,Yes,123,Child/Pediatric Diabetes
+CHILD_0613,15,Male,15.3,75.7,Type 1,248.1,8.1,0.08,Positive,MDI,High School,3,No,Yes,No,No,Yes,99,Child/Pediatric Diabetes
+CHILD_0614,15,Female,21.2,77.3,Type 1,148.0,8.9,0.12,Positive,Pump,High School,4,No,No,No,No,No,136,Child/Pediatric Diabetes
+CHILD_0615,13,Male,20.4,39.8,MODY,144.6,5.5,3.03,Negative,Pump,Middle School,2,Yes,No,No,No,No,123,Child/Pediatric Diabetes
+CHILD_0616,7,Female,14.3,68.1,Type 1,149.5,7.6,0.11,Positive,Pump,Primary,3,No,Yes,No,No,No,0,Child/Pediatric Diabetes
+CHILD_0617,5,Male,26.3,38.5,Type 1,222.1,8.0,0.21,Positive,None,Preschool,2,Yes,No,No,No,No,21,Child/Pediatric Diabetes
+CHILD_0618,8,Male,18.6,65.2,Type 1,134.8,8.6,0.13,Negative,Pump,Primary,3,No,Yes,Yes,No,Yes,54,Child/Pediatric Diabetes
+CHILD_0619,6,Male,20.9,99.0,Type 2,221.0,8.3,0.69,Negative,Basal Only,Primary,0,Yes,Yes,No,Yes,Yes,86,Child/Pediatric Diabetes
+CHILD_0620,4,Female,20.6,53.3,Type 1,166.6,7.9,0.14,Positive,MDI,Preschool,3,No,No,No,No,Yes,145,Child/Pediatric Diabetes
+CHILD_0621,1,Male,19.7,72.1,Type 2,167.5,9.5,2.67,Negative,Basal Only,Preschool,2,No,Yes,No,No,No,37,Child/Pediatric Diabetes
+CHILD_0622,17,Male,21.3,47.1,Type 1,294.5,8.0,0.09,Negative,Basal Only,High School,2,No,Yes,No,No,No,12,Child/Pediatric Diabetes
+CHILD_0623,16,Male,24.8,80.0,Type 1,165.4,8.8,0.13,Negative,MDI,High School,5,No,No,No,No,Yes,161,Child/Pediatric Diabetes
+CHILD_0624,11,Male,26.6,62.2,Type 1,189.0,9.0,0.17,Positive,MDI,Primary,3,No,No,Yes,No,No,0,Child/Pediatric Diabetes
+CHILD_0625,6,Male,20.3,31.8,MODY,136.1,6.1,1.9,Negative,None,Primary,1,Yes,No,No,No,No,141,Child/Pediatric Diabetes
+CHILD_0626,12,Female,20.6,66.2,Type 1,192.9,8.4,0.16,Positive,Pump,Middle School,1,No,Yes,Yes,No,Yes,128,Child/Pediatric Diabetes
+CHILD_0627,5,Female,26.5,99.0,Type 1,233.1,8.0,0.01,Positive,Basal Only,Preschool,2,No,No,No,No,Yes,90,Child/Pediatric Diabetes
+CHILD_0628,4,Female,19.4,79.1,Type 1,204.3,10.1,0.2,Positive,Pump,Preschool,2,No,No,No,No,Yes,134,Child/Pediatric Diabetes
+CHILD_0629,8,Male,16.4,73.3,Type 1,183.2,5.5,0.21,Negative,Pump,Primary,2,Yes,No,No,No,No,135,Child/Pediatric Diabetes
+CHILD_0630,4,Female,17.7,56.5,Neonatal,117.1,9.3,2.57,Negative,MDI,Preschool,3,No,Yes,No,No,No,79,Child/Pediatric Diabetes
+CHILD_0631,8,Female,19.1,58.9,Type 1,109.6,10.2,0.15,Positive,MDI,Primary,1,No,Yes,No,No,No,86,Child/Pediatric Diabetes
+CHILD_0632,10,Male,17.5,99.0,Type 1,324.0,6.9,0.05,Positive,Pump,Primary,3,Yes,Yes,No,Yes,Yes,122,Child/Pediatric Diabetes
+CHILD_0633,1,Male,24.2,63.4,Type 1,212.3,8.3,0.07,Positive,None,Preschool,0,Yes,No,No,No,Yes,8,Child/Pediatric Diabetes
+CHILD_0634,16,Male,17.2,74.5,Neonatal,88.0,7.7,2.38,Negative,Pump,High School,2,No,No,No,No,Yes,117,Child/Pediatric Diabetes
+CHILD_0635,7,Male,15.0,78.6,Type 2,141.1,7.6,3.58,Negative,Basal Only,Primary,2,Yes,Yes,No,No,Yes,170,Child/Pediatric Diabetes
+CHILD_0636,9,Male,19.5,42.2,MODY,101.5,7.3,1.77,Negative,MDI,Primary,1,Yes,No,No,No,No,83,Child/Pediatric Diabetes
+CHILD_0637,9,Female,22.3,16.5,Type 1,208.8,8.7,0.01,Positive,None,Primary,2,Yes,Yes,Yes,No,Yes,96,Child/Pediatric Diabetes
+CHILD_0638,5,Male,22.1,42.8,Type 1,147.8,9.9,0.12,Negative,Pump,Preschool,5,No,Yes,Yes,No,No,155,Child/Pediatric Diabetes
+CHILD_0639,5,Female,18.5,36.0,Type 2,125.6,5.6,2.84,Negative,Basal Only,Preschool,0,No,Yes,No,No,Yes,160,Child/Pediatric Diabetes
+CHILD_0640,5,Male,19.2,98.1,Type 1,288.4,10.1,0.15,Positive,None,Preschool,2,No,Yes,No,No,Yes,25,Child/Pediatric Diabetes
+CHILD_0641,2,Female,19.6,46.7,Type 1,212.7,10.9,0.16,Positive,Pump,Preschool,2,No,No,Yes,No,Yes,160,Child/Pediatric Diabetes
+CHILD_0642,9,Female,15.7,54.8,MODY,247.0,5.1,2.54,Negative,MDI,Primary,2,No,Yes,No,No,Yes,12,Child/Pediatric Diabetes
+CHILD_0643,5,Male,18.4,79.5,Type 1,234.2,8.2,0.1,Positive,Pump,Preschool,3,No,Yes,Yes,No,No,37,Child/Pediatric Diabetes
+CHILD_0644,8,Female,15.6,54.7,Type 1,162.1,6.9,0.16,Positive,MDI,Primary,2,Yes,No,Yes,No,Yes,154,Child/Pediatric Diabetes
+CHILD_0645,12,Female,14.4,87.6,Type 1,246.8,9.5,0.03,Positive,Basal Only,Middle School,3,Yes,Yes,Yes,No,No,94,Child/Pediatric Diabetes
+CHILD_0646,3,Female,25.0,99.0,Type 1,170.8,9.6,0.14,Negative,MDI,Preschool,3,No,No,No,No,No,83,Child/Pediatric Diabetes
+CHILD_0647,13,Female,17.4,95.6,Type 1,250.4,8.0,0.11,Positive,MDI,Middle School,1,Yes,No,Yes,No,Yes,68,Child/Pediatric Diabetes
+CHILD_0648,14,Female,20.1,86.1,Type 1,122.2,8.7,0.04,Positive,Pump,Middle School,1,No,No,No,No,Yes,124,Child/Pediatric Diabetes
+CHILD_0649,3,Male,20.4,54.0,Type 1,355.5,6.4,0.18,Positive,Pump,Preschool,2,No,Yes,No,No,Yes,25,Child/Pediatric Diabetes
+CHILD_0650,10,Female,20.6,63.2,Type 1,257.7,6.9,0.07,Positive,None,Primary,4,No,Yes,No,No,No,62,Child/Pediatric Diabetes
+CHILD_0651,16,Male,22.6,70.6,Type 1,258.5,8.2,0.08,Negative,MDI,High School,2,No,Yes,Yes,No,No,6,Child/Pediatric Diabetes
+CHILD_0652,15,Male,16.6,95.6,Type 1,240.1,8.3,0.13,Positive,MDI,High School,1,Yes,No,Yes,No,Yes,118,Child/Pediatric Diabetes
+CHILD_0653,17,Female,20.8,69.1,Type 1,257.9,7.5,0.18,Positive,Basal Only,High School,4,No,No,No,Yes,No,110,Child/Pediatric Diabetes
+CHILD_0654,5,Male,20.7,63.3,Type 1,167.9,6.1,0.03,Positive,MDI,Preschool,1,No,No,No,No,Yes,115,Child/Pediatric Diabetes
+CHILD_0655,8,Male,21.1,99.0,Type 1,220.8,9.6,0.16,Positive,None,Primary,1,No,No,No,No,No,63,Child/Pediatric Diabetes
+CHILD_0656,17,Female,19.3,91.0,Type 2,122.5,6.6,1.65,Negative,MDI,High School,3,No,Yes,Yes,No,No,111,Child/Pediatric Diabetes
+CHILD_0657,12,Male,20.6,34.3,Type 2,236.1,8.8,3.04,Negative,Basal Only,Middle School,3,Yes,Yes,No,Yes,No,30,Child/Pediatric Diabetes
+CHILD_0658,11,Male,21.6,81.8,Type 1,263.3,9.1,0.09,Positive,Pump,Primary,1,No,No,No,No,Yes,57,Child/Pediatric Diabetes
+CHILD_0659,8,Female,21.3,57.4,Type 2,108.7,6.9,2.61,Negative,MDI,Primary,1,No,Yes,No,No,Yes,21,Child/Pediatric Diabetes
+CHILD_0660,11,Female,20.0,99.0,Type 1,234.8,10.1,0.15,Positive,Pump,Primary,2,Yes,Yes,No,No,Yes,57,Child/Pediatric Diabetes
+CHILD_0661,13,Female,27.4,64.8,Type 1,245.7,9.3,0.18,Positive,MDI,Middle School,4,No,Yes,No,No,No,46,Child/Pediatric Diabetes
+CHILD_0662,15,Male,15.4,75.8,Type 1,228.7,9.4,0.12,Negative,None,High School,2,No,Yes,No,No,Yes,106,Child/Pediatric Diabetes
+CHILD_0663,2,Female,18.1,91.3,Type 1,219.1,6.1,0.06,Negative,None,Preschool,3,Yes,Yes,Yes,No,Yes,141,Child/Pediatric Diabetes
+CHILD_0664,16,Male,19.7,99.0,Type 1,212.2,10.5,0.09,Positive,None,High School,3,No,No,No,No,No,48,Child/Pediatric Diabetes
+CHILD_0665,15,Female,17.4,81.6,Type 1,237.5,8.1,0.02,Positive,None,High School,2,No,No,No,No,Yes,65,Child/Pediatric Diabetes
+CHILD_0666,1,Male,17.6,81.4,Type 2,190.6,7.6,0.97,Negative,None,Preschool,4,Yes,Yes,No,Yes,No,57,Child/Pediatric Diabetes
+CHILD_0667,7,Female,14.8,92.0,Type 2,157.5,7.7,3.85,Negative,Pump,Primary,2,No,No,No,Yes,Yes,6,Child/Pediatric Diabetes
+CHILD_0668,12,Male,16.5,69.5,Type 1,195.1,9.9,0.14,Positive,Pump,Middle School,2,No,Yes,No,No,Yes,52,Child/Pediatric Diabetes
+CHILD_0669,3,Male,17.7,66.0,Type 1,267.1,8.0,0.16,Negative,Pump,Preschool,0,Yes,Yes,Yes,No,Yes,47,Child/Pediatric Diabetes
+CHILD_0670,3,Male,18.7,86.2,Type 2,121.9,6.7,3.19,Negative,Basal Only,Preschool,1,No,Yes,Yes,No,Yes,51,Child/Pediatric Diabetes
+CHILD_0671,16,Male,19.6,84.3,Type 2,190.6,9.2,1.55,Negative,Basal Only,High School,1,Yes,Yes,No,No,Yes,94,Child/Pediatric Diabetes
+CHILD_0672,9,Female,15.3,71.5,Type 1,170.8,7.8,0.28,Positive,MDI,Primary,3,No,Yes,No,No,No,174,Child/Pediatric Diabetes
+CHILD_0673,3,Male,16.3,80.8,Type 1,169.8,10.2,0.1,Positive,Pump,Preschool,3,No,No,No,No,No,14,Child/Pediatric Diabetes
+CHILD_0674,8,Female,19.6,96.7,Type 1,254.0,9.7,0.04,Positive,MDI,Primary,2,No,No,No,No,No,72,Child/Pediatric Diabetes
+CHILD_0675,16,Male,20.5,63.9,Type 1,154.8,11.7,0.17,Positive,MDI,High School,4,No,Yes,No,No,Yes,46,Child/Pediatric Diabetes
+CHILD_0676,6,Female,19.7,32.3,Type 1,227.7,9.1,0.15,Positive,MDI,Primary,2,No,Yes,No,No,No,176,Child/Pediatric Diabetes
+CHILD_0677,14,Male,15.6,58.6,Type 1,263.4,12.1,0.13,Positive,MDI,Middle School,0,No,Yes,No,No,No,6,Child/Pediatric Diabetes
+CHILD_0678,6,Female,18.2,85.8,MODY,173.7,8.3,1.73,Negative,MDI,Primary,2,No,Yes,No,No,No,145,Child/Pediatric Diabetes
+CHILD_0679,12,Male,19.5,65.0,Type 1,245.9,9.1,0.16,Positive,Pump,Middle School,1,Yes,Yes,Yes,No,No,90,Child/Pediatric Diabetes
+CHILD_0680,16,Female,20.1,64.9,Type 1,312.7,7.8,0.14,Negative,None,High School,1,No,Yes,No,No,Yes,145,Child/Pediatric Diabetes
+CHILD_0681,2,Female,21.2,54.9,Type 2,133.3,8.7,1.53,Negative,MDI,Preschool,4,No,No,No,No,No,8,Child/Pediatric Diabetes
+CHILD_0682,9,Male,18.3,78.6,Type 1,257.3,5.7,0.15,Positive,MDI,Primary,3,No,No,No,No,No,68,Child/Pediatric Diabetes
+CHILD_0683,9,Female,18.8,84.1,Type 1,236.7,9.0,0.15,Positive,Pump,Primary,0,No,Yes,Yes,No,Yes,122,Child/Pediatric Diabetes
+CHILD_0684,4,Male,18.7,62.7,Type 1,193.3,7.0,0.19,Positive,MDI,Preschool,3,No,No,No,No,No,76,Child/Pediatric Diabetes
+CHILD_0685,3,Female,20.5,81.5,Type 1,188.6,7.1,0.1,Positive,Basal Only,Preschool,2,No,Yes,No,No,No,162,Child/Pediatric Diabetes
+CHILD_0686,12,Male,20.2,99.0,Neonatal,162.8,7.9,1.9,Negative,Pump,Middle School,0,No,Yes,No,No,No,131,Child/Pediatric Diabetes
+CHILD_0687,13,Female,16.9,51.9,Type 2,212.9,8.0,1.75,Negative,None,Middle School,2,Yes,No,Yes,No,No,37,Child/Pediatric Diabetes
+CHILD_0688,16,Female,19.1,64.2,Type 1,182.5,7.5,0.15,Negative,MDI,High School,1,No,Yes,Yes,No,No,147,Child/Pediatric Diabetes
+CHILD_0689,12,Female,24.1,70.5,Type 2,132.6,7.8,1.37,Negative,None,Middle School,2,Yes,No,No,No,No,109,Child/Pediatric Diabetes
+CHILD_0690,14,Female,21.7,63.8,Type 2,219.5,7.4,1.23,Negative,Basal Only,Middle School,3,No,Yes,No,No,No,121,Child/Pediatric Diabetes
+CHILD_0691,3,Male,12.0,60.0,Type 2,215.7,7.8,2.68,Negative,MDI,Preschool,2,No,No,No,No,Yes,91,Child/Pediatric Diabetes
+CHILD_0692,12,Male,21.5,80.6,Type 1,184.2,6.7,0.24,Positive,MDI,Middle School,1,Yes,Yes,No,No,No,165,Child/Pediatric Diabetes
+CHILD_0693,1,Male,18.4,66.0,Type 1,183.4,8.5,0.13,Positive,MDI,Preschool,4,No,No,Yes,No,No,102,Child/Pediatric Diabetes
+CHILD_0694,3,Male,26.5,92.9,Type 1,211.7,10.1,0.04,Positive,MDI,Preschool,0,No,No,No,No,Yes,156,Child/Pediatric Diabetes
+CHILD_0695,16,Female,23.3,69.4,Type 1,234.2,9.3,0.17,Positive,MDI,High School,4,Yes,No,No,Yes,Yes,29,Child/Pediatric Diabetes
+CHILD_0696,5,Male,20.7,53.0,Type 1,200.5,8.3,0.24,Positive,Pump,Preschool,2,Yes,No,No,Yes,Yes,134,Child/Pediatric Diabetes
+CHILD_0697,15,Female,21.9,74.2,Type 1,281.6,11.8,0.19,Positive,MDI,High School,2,Yes,No,No,No,Yes,37,Child/Pediatric Diabetes
+CHILD_0698,4,Male,25.9,99.0,Type 1,159.3,7.0,0.06,Positive,MDI,Preschool,3,No,Yes,No,No,Yes,140,Child/Pediatric Diabetes
+CHILD_0699,11,Male,20.5,73.5,MODY,175.0,7.6,1.92,Negative,Basal Only,Primary,2,No,No,No,No,Yes,38,Child/Pediatric Diabetes
+CHILD_0700,10,Male,14.3,76.6,Type 2,92.0,6.9,2.9,Negative,MDI,Primary,4,Yes,No,No,No,No,62,Child/Pediatric Diabetes
+CHILD_0701,15,Male,20.6,98.6,MODY,189.9,8.5,2.49,Negative,Pump,High School,3,No,Yes,No,No,Yes,87,Child/Pediatric Diabetes
+CHILD_0702,13,Female,20.5,47.2,Type 1,239.6,10.4,0.01,Positive,Pump,Middle School,0,No,Yes,No,No,No,29,Child/Pediatric Diabetes
+CHILD_0703,11,Male,20.7,77.9,Type 1,125.6,8.5,0.07,Positive,MDI,Primary,3,No,No,No,No,Yes,161,Child/Pediatric Diabetes
+CHILD_0704,13,Female,16.9,63.0,MODY,205.9,6.8,3.43,Negative,MDI,Middle School,2,No,Yes,No,Yes,No,143,Child/Pediatric Diabetes
+CHILD_0705,6,Male,21.7,41.6,Type 1,196.9,8.9,0.07,Positive,MDI,Primary,1,Yes,No,Yes,No,No,168,Child/Pediatric Diabetes
+CHILD_0706,1,Female,21.4,67.7,MODY,192.9,9.4,2.95,Negative,Pump,Preschool,1,Yes,No,No,No,Yes,22,Child/Pediatric Diabetes
+CHILD_0707,1,Female,15.3,72.9,Type 1,300.7,7.2,0.17,Positive,None,Preschool,1,No,No,No,No,No,72,Child/Pediatric Diabetes
+CHILD_0708,10,Male,17.4,29.3,Type 1,229.3,9.7,0.09,Positive,MDI,Primary,7,Yes,No,No,No,No,176,Child/Pediatric Diabetes
+CHILD_0709,9,Male,19.7,22.9,Type 1,256.7,7.3,0.09,Positive,MDI,Primary,3,No,No,No,No,Yes,42,Child/Pediatric Diabetes
+CHILD_0710,16,Male,19.3,53.4,Type 2,126.5,11.6,1.4,Negative,Basal Only,High School,4,No,Yes,No,No,Yes,24,Child/Pediatric Diabetes
+CHILD_0711,16,Male,14.7,78.3,Type 1,172.8,9.6,0.05,Positive,None,High School,0,Yes,Yes,No,Yes,No,47,Child/Pediatric Diabetes
+CHILD_0712,8,Male,19.8,66.7,Type 2,96.9,8.6,1.87,Negative,MDI,Primary,3,No,Yes,No,No,No,53,Child/Pediatric Diabetes
+CHILD_0713,8,Male,19.0,99.0,Type 1,216.6,11.0,0.17,Positive,MDI,Primary,2,Yes,No,No,No,Yes,9,Child/Pediatric Diabetes
+CHILD_0714,4,Female,16.8,66.9,Type 1,229.2,9.1,0.11,Positive,Basal Only,Preschool,3,No,Yes,No,No,Yes,141,Child/Pediatric Diabetes
+CHILD_0715,5,Female,18.2,65.8,Type 1,198.3,9.7,0.07,Positive,MDI,Preschool,5,No,No,No,No,No,124,Child/Pediatric Diabetes
+CHILD_0716,12,Female,16.3,71.4,Type 1,147.3,10.5,0.07,Positive,Basal Only,Middle School,1,Yes,No,No,No,Yes,157,Child/Pediatric Diabetes
+CHILD_0717,10,Female,19.9,86.7,Type 1,318.3,7.8,0.22,Negative,MDI,Primary,0,No,Yes,Yes,No,Yes,5,Child/Pediatric Diabetes
+CHILD_0718,7,Female,15.6,54.5,Type 1,175.7,6.9,0.18,Positive,Basal Only,Primary,1,No,No,No,No,Yes,62,Child/Pediatric Diabetes
+CHILD_0719,10,Female,19.8,82.2,Type 2,230.7,8.2,2.74,Positive,Basal Only,Primary,0,No,No,No,No,No,169,Child/Pediatric Diabetes
+CHILD_0720,17,Male,21.0,81.8,Type 1,235.3,7.2,0.13,Positive,Basal Only,High School,2,Yes,No,No,No,No,140,Child/Pediatric Diabetes
+CHILD_0721,16,Female,15.9,56.0,Type 1,120.7,10.6,0.14,Positive,Basal Only,High School,2,Yes,Yes,Yes,No,Yes,93,Child/Pediatric Diabetes
+CHILD_0722,3,Male,16.2,92.0,Type 2,248.7,7.6,0.96,Negative,MDI,Preschool,2,No,Yes,Yes,No,No,158,Child/Pediatric Diabetes
+CHILD_0723,11,Female,22.5,86.1,Type 1,166.0,8.5,0.03,Negative,Pump,Primary,1,No,Yes,No,No,No,50,Child/Pediatric Diabetes
+CHILD_0724,9,Female,20.9,94.9,MODY,122.5,8.6,1.41,Negative,MDI,Primary,3,No,Yes,No,No,No,13,Child/Pediatric Diabetes
+CHILD_0725,10,Female,25.0,84.8,Type 1,140.1,10.5,0.16,Positive,Basal Only,Primary,3,No,No,No,No,Yes,124,Child/Pediatric Diabetes
+CHILD_0726,12,Male,19.9,99.0,Type 1,243.5,8.8,0.04,Positive,None,Middle School,2,No,No,No,No,Yes,125,Child/Pediatric Diabetes
+CHILD_0727,17,Female,20.0,83.5,Type 1,114.6,10.0,0.14,Positive,MDI,High School,4,No,Yes,Yes,No,Yes,28,Child/Pediatric Diabetes
+CHILD_0728,8,Male,21.7,32.9,Type 2,178.5,6.3,2.24,Negative,MDI,Primary,3,No,No,No,No,No,46,Child/Pediatric Diabetes
+CHILD_0729,14,Male,16.2,26.0,Type 1,228.3,8.5,0.1,Negative,Pump,Middle School,1,No,No,No,No,Yes,144,Child/Pediatric Diabetes
+CHILD_0730,6,Female,18.8,74.9,Type 1,222.2,10.8,0.22,Positive,MDI,Primary,3,Yes,No,No,No,Yes,24,Child/Pediatric Diabetes
+CHILD_0731,16,Male,22.4,96.4,Type 1,254.0,9.6,0.06,Positive,MDI,High School,6,No,No,Yes,No,No,98,Child/Pediatric Diabetes
+CHILD_0732,6,Female,21.1,38.7,Type 1,162.5,9.2,0.04,Negative,None,Primary,2,No,No,No,No,No,41,Child/Pediatric Diabetes
+CHILD_0733,12,Female,15.1,75.1,Type 1,176.8,8.4,0.11,Positive,MDI,Middle School,3,No,Yes,No,No,Yes,162,Child/Pediatric Diabetes
+CHILD_0734,15,Male,18.3,93.4,Type 1,151.1,7.3,0.14,Positive,Pump,High School,1,Yes,Yes,Yes,No,Yes,57,Child/Pediatric Diabetes
+CHILD_0735,4,Male,22.4,45.5,Type 1,155.8,8.7,0.12,Positive,Basal Only,Preschool,2,No,No,No,No,Yes,138,Child/Pediatric Diabetes
+CHILD_0736,15,Male,20.7,64.3,Type 1,228.1,10.5,0.27,Positive,Pump,High School,1,Yes,No,Yes,No,No,115,Child/Pediatric Diabetes
+CHILD_0737,7,Male,21.6,77.9,Type 1,203.7,10.1,0.16,Positive,Basal Only,Primary,3,No,No,No,No,Yes,4,Child/Pediatric Diabetes
+CHILD_0738,5,Male,12.0,41.1,Type 2,143.1,8.3,2.33,Negative,Pump,Preschool,3,No,No,No,No,No,87,Child/Pediatric Diabetes
+CHILD_0739,7,Female,22.4,95.3,Type 1,209.9,9.8,0.13,Positive,None,Primary,1,No,Yes,No,No,No,55,Child/Pediatric Diabetes
+CHILD_0740,5,Male,16.9,71.2,Type 1,226.3,7.3,0.2,Positive,MDI,Preschool,1,No,Yes,No,No,No,153,Child/Pediatric Diabetes
+CHILD_0741,10,Female,18.3,65.9,Type 1,241.8,8.9,0.22,Positive,MDI,Primary,4,No,No,No,No,Yes,46,Child/Pediatric Diabetes
+CHILD_0742,10,Female,15.8,33.6,Type 1,277.3,10.7,0.07,Positive,Pump,Primary,2,No,Yes,Yes,Yes,Yes,91,Child/Pediatric Diabetes
+CHILD_0743,1,Male,17.4,72.5,Type 1,176.2,10.0,0.12,Positive,Pump,Preschool,4,Yes,Yes,No,Yes,No,71,Child/Pediatric Diabetes
+CHILD_0744,5,Male,16.4,47.8,Type 1,245.6,12.4,0.18,Positive,MDI,Preschool,2,Yes,No,No,No,No,20,Child/Pediatric Diabetes
+CHILD_0745,16,Female,21.3,91.9,Type 2,228.3,6.3,1.35,Negative,Pump,High School,2,Yes,No,No,No,No,162,Child/Pediatric Diabetes
+CHILD_0746,13,Female,25.6,75.0,Type 2,82.7,7.0,1.17,Negative,MDI,Middle School,1,No,Yes,No,No,Yes,169,Child/Pediatric Diabetes
+CHILD_0747,7,Female,25.4,41.1,Type 1,290.4,7.5,0.16,Positive,Pump,Primary,3,Yes,No,No,No,No,132,Child/Pediatric Diabetes
+CHILD_0748,16,Male,15.4,45.4,Type 1,157.5,10.7,0.05,Positive,Pump,High School,1,No,No,No,No,No,173,Child/Pediatric Diabetes
+CHILD_0749,3,Female,18.6,66.5,Type 2,227.2,8.0,2.11,Positive,MDI,Preschool,3,No,No,No,No,Yes,32,Child/Pediatric Diabetes
+CHILD_0750,15,Female,12.0,81.4,Type 1,268.2,9.2,0.18,Positive,Pump,High School,1,No,No,No,No,No,59,Child/Pediatric Diabetes
+CHILD_0751,9,Male,20.6,85.1,Type 1,185.4,10.3,0.11,Positive,Basal Only,Primary,3,No,No,Yes,No,No,90,Child/Pediatric Diabetes
+CHILD_0752,3,Male,17.8,33.9,Type 2,172.2,7.8,2.35,Negative,Basal Only,Preschool,1,No,No,Yes,No,No,76,Child/Pediatric Diabetes
+CHILD_0753,14,Female,23.1,60.8,Type 1,203.2,7.7,0.17,Positive,MDI,Middle School,2,No,No,Yes,Yes,No,84,Child/Pediatric Diabetes
+CHILD_0754,12,Female,20.3,45.5,Neonatal,240.2,7.0,1.35,Negative,Pump,Middle School,1,No,No,No,No,No,113,Child/Pediatric Diabetes
+CHILD_0755,13,Female,13.8,90.3,Type 2,159.2,7.9,2.12,Negative,None,Middle School,2,Yes,No,No,No,No,148,Child/Pediatric Diabetes
+CHILD_0756,9,Female,17.5,65.6,Type 2,163.2,6.7,2.2,Negative,MDI,Primary,1,Yes,Yes,No,No,No,51,Child/Pediatric Diabetes
+CHILD_0757,16,Male,21.0,52.2,Type 1,240.2,6.8,0.1,Positive,Pump,High School,5,No,Yes,No,No,Yes,33,Child/Pediatric Diabetes
+CHILD_0758,5,Female,17.7,99.0,Type 2,196.7,5.7,1.43,Negative,MDI,Preschool,3,No,Yes,No,No,No,107,Child/Pediatric Diabetes
+CHILD_0759,16,Female,21.4,83.2,Type 1,185.1,5.7,0.01,Positive,MDI,High School,6,Yes,Yes,No,No,Yes,173,Child/Pediatric Diabetes
+CHILD_0760,4,Female,13.7,66.8,Type 1,169.6,11.6,0.09,Positive,None,Preschool,1,No,Yes,No,No,No,131,Child/Pediatric Diabetes
+CHILD_0761,3,Female,17.8,55.6,Type 1,204.4,7.1,0.17,Positive,Pump,Preschool,3,Yes,Yes,No,Yes,Yes,104,Child/Pediatric Diabetes
+CHILD_0762,1,Male,23.2,20.8,MODY,205.5,7.3,1.73,Negative,Pump,Preschool,3,No,Yes,No,No,Yes,29,Child/Pediatric Diabetes
+CHILD_0763,1,Male,15.6,60.4,Type 1,93.2,7.7,0.15,Positive,Basal Only,Preschool,1,Yes,Yes,No,No,No,166,Child/Pediatric Diabetes
+CHILD_0764,17,Male,18.8,61.9,Type 1,208.3,8.8,0.27,Positive,MDI,High School,0,No,No,No,No,No,87,Child/Pediatric Diabetes
+CHILD_0765,7,Male,23.8,92.7,Type 2,188.6,8.2,2.62,Negative,None,Primary,1,Yes,Yes,No,No,Yes,96,Child/Pediatric Diabetes
+CHILD_0766,8,Female,18.5,40.1,Type 1,214.9,5.8,0.13,Positive,Pump,Primary,2,Yes,Yes,No,No,No,58,Child/Pediatric Diabetes
+CHILD_0767,7,Male,20.6,76.3,Type 1,290.1,8.5,0.05,Positive,Basal Only,Primary,1,Yes,No,No,No,Yes,11,Child/Pediatric Diabetes
+CHILD_0768,7,Male,22.6,82.8,Type 2,179.7,8.0,1.44,Negative,Pump,Primary,1,No,No,No,No,Yes,151,Child/Pediatric Diabetes
+CHILD_0769,15,Male,14.4,59.8,Type 2,176.6,7.8,2.53,Negative,Basal Only,High School,0,No,No,No,No,Yes,148,Child/Pediatric Diabetes
+CHILD_0770,15,Male,18.9,67.4,Type 1,153.9,6.7,0.13,Positive,Basal Only,High School,2,Yes,Yes,No,No,No,35,Child/Pediatric Diabetes
+CHILD_0771,15,Female,24.3,77.6,Type 1,267.1,6.5,0.07,Positive,Pump,High School,0,No,Yes,Yes,No,Yes,132,Child/Pediatric Diabetes
+CHILD_0772,7,Female,18.8,64.9,Type 2,150.5,6.8,1.98,Negative,Basal Only,Primary,0,No,Yes,No,No,Yes,176,Child/Pediatric Diabetes
+CHILD_0773,14,Male,22.9,99.0,Type 1,225.0,9.7,0.08,Positive,Basal Only,Middle School,0,No,Yes,Yes,No,Yes,100,Child/Pediatric Diabetes
+CHILD_0774,3,Female,17.3,94.1,Type 1,147.1,8.5,0.11,Positive,Pump,Preschool,0,No,No,No,No,Yes,109,Child/Pediatric Diabetes
+CHILD_0775,6,Male,19.1,76.5,Type 1,298.1,12.1,0.1,Positive,MDI,Primary,2,No,No,No,No,Yes,110,Child/Pediatric Diabetes
+CHILD_0776,16,Female,27.2,67.8,Type 1,215.3,11.5,0.17,Positive,None,High School,0,Yes,Yes,No,No,Yes,84,Child/Pediatric Diabetes
+CHILD_0777,11,Male,22.7,85.5,Type 1,269.7,10.7,0.14,Positive,MDI,Primary,3,No,No,Yes,No,No,132,Child/Pediatric Diabetes
+CHILD_0778,13,Male,22.4,66.6,Type 1,251.5,8.9,0.12,Positive,Basal Only,Middle School,5,No,Yes,No,No,Yes,4,Child/Pediatric Diabetes
+CHILD_0779,3,Male,21.6,42.3,Type 1,216.6,8.6,0.13,Positive,Basal Only,Preschool,2,No,No,No,No,Yes,143,Child/Pediatric Diabetes
+CHILD_0780,11,Female,19.0,80.2,Type 1,248.4,11.9,0.12,Negative,MDI,Primary,1,No,No,No,No,No,19,Child/Pediatric Diabetes
+CHILD_0781,2,Female,20.9,59.7,Type 2,175.8,7.7,2.09,Negative,MDI,Preschool,3,No,No,Yes,Yes,Yes,122,Child/Pediatric Diabetes
+CHILD_0782,14,Female,18.0,74.7,Type 1,83.4,9.3,0.1,Positive,Basal Only,Middle School,4,No,Yes,No,No,Yes,149,Child/Pediatric Diabetes
+CHILD_0783,6,Female,13.3,59.7,Type 1,157.2,8.5,0.15,Positive,Pump,Primary,3,No,Yes,Yes,No,Yes,18,Child/Pediatric Diabetes
+CHILD_0784,5,Female,21.0,47.0,Type 1,248.8,8.0,0.09,Positive,MDI,Preschool,3,No,No,No,No,No,2,Child/Pediatric Diabetes
+CHILD_0785,13,Male,28.9,99.0,Neonatal,111.5,8.9,2.19,Negative,MDI,Middle School,3,Yes,Yes,No,No,Yes,41,Child/Pediatric Diabetes
+CHILD_0786,16,Female,13.5,48.6,Type 1,201.4,8.6,0.07,Positive,MDI,High School,2,No,No,No,No,Yes,140,Child/Pediatric Diabetes
+CHILD_0787,14,Male,14.6,77.9,Type 1,236.8,10.4,0.12,Positive,Pump,Middle School,3,No,Yes,No,No,Yes,27,Child/Pediatric Diabetes
+CHILD_0788,2,Female,16.0,91.3,Type 2,249.5,9.2,2.78,Negative,MDI,Preschool,4,No,Yes,No,No,Yes,101,Child/Pediatric Diabetes
+CHILD_0789,11,Female,23.8,77.3,Type 2,193.7,8.0,2.36,Negative,Pump,Primary,3,No,Yes,No,No,No,132,Child/Pediatric Diabetes
+CHILD_0790,6,Male,18.8,95.7,Type 1,142.2,8.0,0.11,Positive,Basal Only,Primary,2,No,Yes,No,No,Yes,39,Child/Pediatric Diabetes
+CHILD_0791,5,Male,17.9,81.4,Type 1,222.0,9.8,0.16,Positive,MDI,Preschool,1,Yes,No,No,No,No,10,Child/Pediatric Diabetes
+CHILD_0792,15,Male,20.3,16.3,Type 1,265.0,8.8,0.09,Positive,MDI,High School,0,No,No,No,No,Yes,157,Child/Pediatric Diabetes
+CHILD_0793,1,Male,19.1,39.1,Type 1,298.4,7.1,0.24,Positive,MDI,Preschool,1,No,Yes,No,No,No,28,Child/Pediatric Diabetes
+CHILD_0794,3,Female,21.3,71.1,Type 1,307.7,6.9,0.11,Positive,MDI,Preschool,1,No,No,Yes,No,Yes,118,Child/Pediatric Diabetes
+CHILD_0795,8,Female,20.1,44.2,Type 1,238.3,11.2,0.07,Positive,MDI,Primary,2,No,Yes,No,No,Yes,103,Child/Pediatric Diabetes
+CHILD_0796,4,Female,12.0,78.2,Type 1,260.7,10.1,0.12,Positive,MDI,Preschool,2,No,Yes,No,No,No,36,Child/Pediatric Diabetes
+CHILD_0797,11,Male,21.5,99.0,Type 1,239.8,6.4,0.23,Positive,MDI,Primary,3,No,No,No,No,No,150,Child/Pediatric Diabetes
+CHILD_0798,11,Male,16.2,78.5,Type 1,164.3,9.2,0.09,Positive,MDI,Primary,2,No,Yes,No,No,No,40,Child/Pediatric Diabetes
+CHILD_0799,14,Male,16.0,72.1,Type 1,159.0,8.9,0.15,Positive,MDI,Middle School,2,Yes,Yes,No,No,No,52,Child/Pediatric Diabetes
+CHILD_0800,7,Female,18.7,97.7,MODY,245.3,8.5,2.39,Negative,MDI,Primary,3,No,No,No,No,Yes,22,Child/Pediatric Diabetes
+CHILD_0801,13,Female,13.1,99.0,Type 1,264.8,8.7,0.05,Positive,Pump,Middle School,1,Yes,Yes,No,No,Yes,77,Child/Pediatric Diabetes
+CHILD_0802,16,Male,20.3,84.3,Type 2,183.2,8.8,2.06,Negative,MDI,High School,3,No,Yes,No,No,No,64,Child/Pediatric Diabetes
+CHILD_0803,13,Female,21.2,58.2,Type 1,207.6,8.2,0.14,Positive,None,Middle School,2,No,No,Yes,No,No,18,Child/Pediatric Diabetes
+CHILD_0804,12,Male,23.3,65.0,Type 1,248.8,7.3,0.09,Negative,MDI,Middle School,0,No,No,No,No,Yes,175,Child/Pediatric Diabetes
+CHILD_0805,5,Male,19.1,53.3,Type 1,206.1,6.6,0.22,Positive,None,Preschool,0,No,No,No,No,No,76,Child/Pediatric Diabetes
+CHILD_0806,13,Female,16.3,60.1,Type 2,166.2,7.8,2.32,Negative,MDI,Middle School,1,No,No,Yes,No,Yes,9,Child/Pediatric Diabetes
+CHILD_0807,7,Female,15.5,83.3,MODY,109.6,5.7,3.88,Negative,MDI,Primary,3,No,Yes,No,No,No,90,Child/Pediatric Diabetes
+CHILD_0808,9,Male,21.4,80.7,Type 1,386.2,8.5,0.12,Positive,MDI,Primary,3,No,Yes,No,No,No,163,Child/Pediatric Diabetes
+CHILD_0809,9,Male,17.9,69.9,Type 1,148.0,10.3,0.17,Positive,MDI,Primary,0,Yes,Yes,No,No,Yes,104,Child/Pediatric Diabetes
+CHILD_0810,7,Male,12.0,76.8,Type 2,164.4,8.3,1.45,Negative,Basal Only,Primary,3,No,No,No,No,Yes,43,Child/Pediatric Diabetes
+CHILD_0811,6,Male,18.1,83.5,Type 1,311.3,7.0,0.16,Positive,Basal Only,Primary,1,Yes,Yes,Yes,No,Yes,83,Child/Pediatric Diabetes
+CHILD_0812,4,Female,23.4,67.2,Type 1,215.4,7.6,0.09,Positive,MDI,Preschool,2,No,No,No,No,No,150,Child/Pediatric Diabetes
+CHILD_0813,16,Female,24.1,72.9,Type 1,171.7,10.0,0.11,Positive,None,High School,2,No,No,Yes,No,No,141,Child/Pediatric Diabetes
+CHILD_0814,8,Male,16.5,82.5,Type 1,239.0,7.7,0.11,Negative,MDI,Primary,1,No,Yes,No,No,No,133,Child/Pediatric Diabetes
+CHILD_0815,4,Female,17.0,53.2,Type 1,205.6,9.2,0.06,Positive,None,Preschool,3,No,Yes,No,No,No,177,Child/Pediatric Diabetes
+CHILD_0816,8,Female,18.5,81.4,Type 1,145.4,10.9,0.19,Positive,None,Primary,1,No,Yes,Yes,No,No,83,Child/Pediatric Diabetes
+CHILD_0817,1,Female,17.5,21.2,Type 1,189.4,7.3,0.1,Positive,MDI,Preschool,4,No,Yes,No,No,Yes,90,Child/Pediatric Diabetes
+CHILD_0818,11,Male,23.8,72.4,Type 1,248.4,10.4,0.1,Positive,Pump,Primary,3,No,Yes,No,No,Yes,76,Child/Pediatric Diabetes
+CHILD_0819,8,Male,19.5,56.3,Type 1,173.0,10.5,0.11,Positive,Basal Only,Primary,1,No,No,No,No,No,85,Child/Pediatric Diabetes
+CHILD_0820,7,Female,20.6,13.6,Type 1,233.1,10.1,0.01,Positive,MDI,Primary,2,No,Yes,No,No,No,126,Child/Pediatric Diabetes
+CHILD_0821,6,Male,16.3,77.8,Type 1,324.5,8.4,0.24,Negative,MDI,Primary,2,Yes,Yes,No,No,No,46,Child/Pediatric Diabetes
+CHILD_0822,4,Male,18.5,61.0,Type 1,153.4,9.2,0.11,Positive,MDI,Preschool,2,No,No,No,Yes,Yes,32,Child/Pediatric Diabetes
+CHILD_0823,4,Female,13.9,37.6,Type 1,198.4,8.6,0.2,Positive,Pump,Preschool,4,No,Yes,No,No,No,12,Child/Pediatric Diabetes
+CHILD_0824,10,Female,20.8,82.0,Type 1,233.2,8.8,0.12,Positive,MDI,Primary,2,Yes,Yes,No,No,No,67,Child/Pediatric Diabetes
+CHILD_0825,16,Female,20.0,48.2,Type 1,226.9,7.4,0.13,Positive,MDI,High School,1,No,Yes,Yes,No,No,164,Child/Pediatric Diabetes
+CHILD_0826,10,Male,20.7,64.3,MODY,165.6,5.9,2.09,Negative,Pump,Primary,1,No,Yes,No,No,Yes,35,Child/Pediatric Diabetes
+CHILD_0827,15,Female,24.5,96.0,Type 1,202.9,6.8,0.06,Positive,MDI,High School,1,No,No,No,No,No,154,Child/Pediatric Diabetes
+CHILD_0828,12,Male,17.9,76.6,Type 2,115.2,8.0,1.36,Negative,Pump,Middle School,2,Yes,Yes,No,No,Yes,1,Child/Pediatric Diabetes
+CHILD_0829,16,Female,22.4,45.8,Type 1,189.8,12.3,0.08,Positive,Pump,High School,0,Yes,No,No,No,No,179,Child/Pediatric Diabetes
+CHILD_0830,11,Female,19.3,78.1,Type 1,183.1,13.1,0.12,Positive,Pump,Primary,0,No,Yes,No,No,No,11,Child/Pediatric Diabetes
+CHILD_0831,9,Female,23.0,95.8,Type 1,200.7,8.5,0.17,Positive,Basal Only,Primary,1,Yes,No,No,No,No,16,Child/Pediatric Diabetes
+CHILD_0832,17,Male,17.8,72.4,MODY,241.6,5.5,2.71,Negative,Basal Only,High School,1,No,Yes,No,No,No,89,Child/Pediatric Diabetes
+CHILD_0833,6,Male,16.3,77.1,Type 1,197.2,9.5,0.03,Positive,Basal Only,Primary,2,No,No,No,No,No,124,Child/Pediatric Diabetes
+CHILD_0834,8,Male,15.1,81.5,Type 1,288.8,7.8,0.06,Positive,Basal Only,Primary,5,No,Yes,No,No,Yes,56,Child/Pediatric Diabetes
+CHILD_0835,1,Female,21.7,70.6,Type 2,183.6,7.6,2.41,Negative,MDI,Preschool,2,No,No,No,No,Yes,29,Child/Pediatric Diabetes
+CHILD_0836,12,Female,17.8,67.3,Type 1,267.7,9.0,0.16,Negative,Basal Only,Middle School,3,No,Yes,No,Yes,Yes,146,Child/Pediatric Diabetes
+CHILD_0837,4,Male,13.9,76.6,Type 2,135.4,6.4,3.5,Negative,MDI,Preschool,4,No,Yes,No,No,No,17,Child/Pediatric Diabetes
+CHILD_0838,16,Female,20.2,76.0,Type 1,205.4,6.4,0.14,Positive,MDI,High School,7,Yes,No,Yes,No,Yes,101,Child/Pediatric Diabetes
+CHILD_0839,12,Male,17.6,78.1,Type 1,308.9,10.2,0.09,Positive,None,Middle School,2,Yes,No,No,No,Yes,120,Child/Pediatric Diabetes
+CHILD_0840,2,Female,13.2,83.3,Type 1,209.4,6.9,0.13,Positive,Pump,Preschool,0,No,No,No,No,Yes,158,Child/Pediatric Diabetes
+CHILD_0841,8,Female,12.7,3.0,Type 1,242.3,10.4,0.12,Positive,MDI,Primary,0,No,Yes,Yes,No,Yes,73,Child/Pediatric Diabetes
+CHILD_0842,16,Male,21.6,73.2,Type 1,159.6,7.3,0.15,Positive,Pump,High School,3,No,Yes,No,No,Yes,16,Child/Pediatric Diabetes
+CHILD_0843,9,Male,20.0,66.1,Type 1,222.0,7.1,0.06,Positive,MDI,Primary,1,No,No,No,Yes,No,134,Child/Pediatric Diabetes
+CHILD_0844,12,Female,18.5,99.0,Type 1,167.4,9.5,0.12,Positive,MDI,Middle School,0,No,No,No,No,No,115,Child/Pediatric Diabetes
+CHILD_0845,14,Female,20.1,63.5,Type 1,95.3,8.6,0.1,Positive,MDI,Middle School,1,Yes,No,No,Yes,No,168,Child/Pediatric Diabetes
+CHILD_0846,8,Male,24.9,74.6,Type 1,271.6,6.3,0.12,Positive,Pump,Primary,0,Yes,Yes,No,No,Yes,127,Child/Pediatric Diabetes
+CHILD_0847,9,Male,25.3,52.4,Type 1,225.0,7.5,0.13,Positive,None,Primary,1,No,No,No,No,Yes,33,Child/Pediatric Diabetes
+CHILD_0848,7,Male,17.7,84.7,Type 1,271.1,9.6,0.21,Positive,None,Primary,2,No,No,Yes,No,No,86,Child/Pediatric Diabetes
+CHILD_0849,7,Male,24.0,49.2,MODY,177.7,6.3,2.25,Negative,Basal Only,Primary,2,No,No,No,No,Yes,7,Child/Pediatric Diabetes
+CHILD_0850,1,Female,20.4,66.6,MODY,185.4,6.7,1.36,Negative,MDI,Preschool,4,No,Yes,No,No,No,20,Child/Pediatric Diabetes
+CHILD_0851,2,Male,17.5,99.0,Type 1,230.4,8.6,0.14,Positive,Basal Only,Preschool,7,No,No,No,No,Yes,52,Child/Pediatric Diabetes
+CHILD_0852,5,Male,15.1,57.7,Type 1,226.9,7.4,0.22,Positive,MDI,Preschool,0,No,Yes,No,No,No,169,Child/Pediatric Diabetes
+CHILD_0853,9,Female,19.7,56.1,Type 1,184.4,7.6,0.01,Positive,None,Primary,2,No,No,No,No,No,141,Child/Pediatric Diabetes
+CHILD_0854,10,Female,21.4,46.3,Type 1,198.4,7.3,0.15,Positive,Basal Only,Primary,1,Yes,Yes,No,No,No,113,Child/Pediatric Diabetes
+CHILD_0855,11,Male,13.9,60.5,Type 1,234.0,11.2,0.18,Positive,MDI,Primary,1,No,Yes,Yes,No,No,168,Child/Pediatric Diabetes
+CHILD_0856,7,Female,20.3,37.1,Type 1,194.9,10.5,0.07,Positive,Pump,Primary,1,No,Yes,No,No,Yes,25,Child/Pediatric Diabetes
+CHILD_0857,1,Female,15.0,46.9,Type 1,223.0,8.7,0.15,Negative,Pump,Preschool,1,No,Yes,Yes,No,Yes,83,Child/Pediatric Diabetes
+CHILD_0858,10,Male,19.4,76.1,Type 1,214.6,8.4,0.14,Positive,MDI,Primary,2,No,Yes,No,No,Yes,84,Child/Pediatric Diabetes
+CHILD_0859,10,Male,21.6,89.5,Type 1,204.1,10.2,0.2,Positive,None,Primary,0,No,Yes,No,No,Yes,165,Child/Pediatric Diabetes
+CHILD_0860,6,Male,20.8,19.3,Type 2,120.7,7.7,1.69,Positive,Pump,Primary,1,No,Yes,No,No,Yes,128,Child/Pediatric Diabetes
+CHILD_0861,2,Female,18.0,79.1,Type 1,123.9,5.6,0.09,Positive,Pump,Preschool,2,No,Yes,No,No,No,133,Child/Pediatric Diabetes
+CHILD_0862,14,Male,20.6,95.0,MODY,169.8,5.3,1.59,Negative,None,Middle School,1,No,Yes,No,Yes,Yes,116,Child/Pediatric Diabetes
+CHILD_0863,14,Male,12.5,47.0,Type 1,196.0,9.4,0.13,Positive,Pump,Middle School,5,No,Yes,Yes,No,Yes,121,Child/Pediatric Diabetes
+CHILD_0864,9,Male,22.7,99.0,Type 1,127.9,8.3,0.14,Positive,Pump,Primary,2,No,Yes,No,No,Yes,59,Child/Pediatric Diabetes
+CHILD_0865,11,Male,23.2,97.0,Type 1,160.9,9.2,0.12,Positive,MDI,Primary,3,No,Yes,No,No,No,178,Child/Pediatric Diabetes
+CHILD_0866,17,Male,17.3,51.9,MODY,185.4,5.8,3.5,Negative,Pump,High School,1,No,No,No,No,Yes,139,Child/Pediatric Diabetes
+CHILD_0867,5,Male,23.7,69.9,Type 1,178.3,11.7,0.08,Positive,None,Preschool,2,Yes,Yes,No,No,No,24,Child/Pediatric Diabetes
+CHILD_0868,4,Female,19.3,90.0,Type 1,242.3,8.7,0.07,Positive,Pump,Preschool,0,No,No,No,No,Yes,14,Child/Pediatric Diabetes
+CHILD_0869,2,Female,23.2,87.8,Type 1,252.3,11.1,0.11,Positive,MDI,Preschool,0,Yes,Yes,Yes,No,No,78,Child/Pediatric Diabetes
+CHILD_0870,9,Male,12.0,63.1,Type 2,148.5,7.7,2.51,Negative,Basal Only,Primary,5,No,No,No,No,No,31,Child/Pediatric Diabetes
+CHILD_0871,1,Male,16.3,52.0,Type 2,120.2,6.7,1.31,Negative,MDI,Preschool,3,Yes,Yes,No,No,No,121,Child/Pediatric Diabetes
+CHILD_0872,16,Male,13.8,92.6,Type 1,197.5,11.7,0.09,Positive,MDI,High School,2,No,Yes,Yes,No,No,34,Child/Pediatric Diabetes
+CHILD_0873,13,Female,15.5,68.5,Type 1,139.7,12.2,0.06,Positive,Pump,Middle School,3,No,Yes,No,No,No,64,Child/Pediatric Diabetes
+CHILD_0874,7,Female,22.9,45.9,Type 1,258.5,8.2,0.11,Positive,Basal Only,Primary,0,Yes,Yes,No,No,Yes,116,Child/Pediatric Diabetes
+CHILD_0875,12,Male,18.4,3.0,Type 1,213.1,8.6,0.15,Positive,None,Middle School,3,No,No,Yes,No,Yes,106,Child/Pediatric Diabetes
+CHILD_0876,1,Female,18.0,54.4,Type 1,89.0,10.6,0.12,Positive,Pump,Preschool,1,No,Yes,Yes,No,No,77,Child/Pediatric Diabetes
+CHILD_0877,8,Male,16.1,71.6,Type 1,172.3,10.4,0.16,Positive,Basal Only,Primary,2,No,Yes,No,No,Yes,5,Child/Pediatric Diabetes
+CHILD_0878,12,Male,21.3,94.5,Type 1,178.5,8.2,0.09,Positive,Basal Only,Middle School,3,No,Yes,No,No,No,143,Child/Pediatric Diabetes
+CHILD_0879,10,Female,17.2,38.2,Type 1,262.2,9.6,0.16,Positive,MDI,Primary,2,No,Yes,No,No,Yes,160,Child/Pediatric Diabetes
+CHILD_0880,3,Male,17.6,60.2,Type 1,184.6,8.4,0.17,Positive,None,Preschool,3,Yes,No,No,No,Yes,55,Child/Pediatric Diabetes
+CHILD_0881,3,Male,16.4,68.0,Type 1,184.0,5.4,0.16,Positive,MDI,Preschool,1,Yes,Yes,No,No,Yes,172,Child/Pediatric Diabetes
+CHILD_0882,14,Female,25.5,99.0,Type 2,147.9,8.7,3.84,Negative,MDI,Middle School,2,Yes,Yes,No,No,Yes,84,Child/Pediatric Diabetes
+CHILD_0883,5,Male,19.4,30.9,Type 1,193.7,10.4,0.12,Positive,Basal Only,Preschool,1,No,Yes,No,No,No,149,Child/Pediatric Diabetes
+CHILD_0884,6,Female,19.6,68.9,Type 1,193.3,5.2,0.07,Positive,MDI,Primary,2,No,No,Yes,No,No,11,Child/Pediatric Diabetes
+CHILD_0885,8,Female,20.9,58.5,Type 1,273.2,10.5,0.12,Negative,Pump,Primary,2,Yes,No,No,No,Yes,1,Child/Pediatric Diabetes
+CHILD_0886,8,Male,14.0,49.6,Type 1,223.2,7.7,0.17,Positive,Pump,Primary,1,No,Yes,No,No,No,72,Child/Pediatric Diabetes
+CHILD_0887,6,Male,16.3,78.9,Type 1,175.2,8.2,0.1,Positive,Pump,Primary,2,No,Yes,Yes,No,No,101,Child/Pediatric Diabetes
+CHILD_0888,17,Male,19.4,94.1,Type 1,282.4,7.5,0.14,Positive,MDI,High School,3,No,Yes,No,No,No,138,Child/Pediatric Diabetes
+CHILD_0889,10,Male,24.6,38.5,Type 2,219.2,6.4,0.78,Negative,MDI,Primary,2,No,Yes,No,No,Yes,97,Child/Pediatric Diabetes
+CHILD_0890,12,Male,21.8,46.6,Type 1,243.8,8.9,0.13,Negative,MDI,Middle School,2,No,Yes,No,No,No,88,Child/Pediatric Diabetes
+CHILD_0891,8,Female,17.3,30.9,Type 1,245.2,5.7,0.01,Positive,MDI,Primary,3,No,Yes,Yes,No,Yes,80,Child/Pediatric Diabetes
+CHILD_0892,6,Male,16.8,65.0,Type 1,251.8,8.2,0.11,Positive,Basal Only,Primary,1,Yes,No,No,No,No,55,Child/Pediatric Diabetes
+CHILD_0893,15,Female,25.0,70.0,Type 1,203.7,10.0,0.17,Positive,MDI,High School,1,No,Yes,Yes,No,Yes,171,Child/Pediatric Diabetes
+CHILD_0894,5,Female,15.8,83.5,MODY,133.9,7.2,2.01,Negative,MDI,Preschool,1,No,Yes,No,No,No,154,Child/Pediatric Diabetes
+CHILD_0895,5,Female,14.7,67.5,Neonatal,85.7,7.5,2.84,Negative,MDI,Preschool,4,No,Yes,Yes,No,No,71,Child/Pediatric Diabetes
+CHILD_0896,5,Female,19.6,68.7,Type 1,195.8,8.5,0.16,Positive,Basal Only,Preschool,4,Yes,Yes,No,Yes,Yes,133,Child/Pediatric Diabetes
+CHILD_0897,6,Male,19.5,99.0,Type 1,145.9,10.6,0.2,Positive,None,Primary,1,No,Yes,No,No,No,5,Child/Pediatric Diabetes
+CHILD_0898,5,Female,15.9,85.7,Type 2,137.5,8.8,2.2,Negative,MDI,Preschool,3,No,Yes,Yes,No,No,97,Child/Pediatric Diabetes
+CHILD_0899,1,Male,19.2,22.9,Type 1,184.4,10.2,0.18,Positive,MDI,Preschool,0,Yes,Yes,No,No,No,21,Child/Pediatric Diabetes
+CHILD_0900,17,Male,20.3,84.5,Type 2,118.7,6.3,1.43,Negative,Pump,High School,1,Yes,Yes,No,No,Yes,11,Child/Pediatric Diabetes
+CHILD_0901,12,Male,20.6,56.3,Type 1,196.1,8.2,0.12,Positive,MDI,Middle School,0,Yes,Yes,No,No,No,134,Child/Pediatric Diabetes
+CHILD_0902,16,Male,18.3,61.9,MODY,186.6,7.2,2.32,Negative,Pump,High School,2,No,No,No,No,Yes,70,Child/Pediatric Diabetes
+CHILD_0903,3,Male,17.4,65.9,Type 1,195.0,12.3,0.18,Positive,Pump,Preschool,1,No,Yes,No,No,Yes,155,Child/Pediatric Diabetes
+CHILD_0904,17,Female,18.4,50.2,Type 1,219.1,8.0,0.08,Positive,MDI,High School,0,No,Yes,No,No,Yes,175,Child/Pediatric Diabetes
+CHILD_0905,6,Female,15.6,82.1,Type 2,188.9,7.4,1.55,Negative,Basal Only,Primary,2,No,Yes,No,No,Yes,22,Child/Pediatric Diabetes
+CHILD_0906,1,Male,17.6,31.0,Type 1,171.4,9.9,0.18,Positive,Pump,Preschool,2,No,Yes,No,No,Yes,13,Child/Pediatric Diabetes
+CHILD_0907,10,Female,19.9,89.2,Type 2,234.0,9.0,0.3,Negative,Basal Only,Primary,3,No,No,Yes,No,Yes,116,Child/Pediatric Diabetes
+CHILD_0908,10,Male,20.6,96.6,Type 1,266.8,9.0,0.09,Positive,Basal Only,Primary,2,No,No,No,No,No,1,Child/Pediatric Diabetes
+CHILD_0909,8,Female,17.9,75.5,Type 1,226.6,10.1,0.23,Positive,Pump,Primary,1,No,Yes,No,No,No,59,Child/Pediatric Diabetes
+CHILD_0910,12,Male,20.5,80.3,Type 1,177.3,9.1,0.06,Positive,MDI,Middle School,5,No,Yes,No,No,No,24,Child/Pediatric Diabetes
+CHILD_0911,2,Female,20.4,32.1,Type 1,267.1,11.5,0.12,Positive,MDI,Preschool,4,No,No,No,No,Yes,55,Child/Pediatric Diabetes
+CHILD_0912,1,Male,26.7,40.7,Type 1,240.9,11.1,0.19,Positive,MDI,Preschool,2,Yes,No,No,No,No,64,Child/Pediatric Diabetes
+CHILD_0913,4,Female,23.6,69.8,Type 2,245.0,7.1,2.27,Negative,Basal Only,Preschool,0,No,No,No,No,No,64,Child/Pediatric Diabetes
+CHILD_0914,13,Female,12.0,52.7,Type 1,224.0,10.1,0.17,Positive,None,Middle School,5,No,No,No,No,No,147,Child/Pediatric Diabetes
+CHILD_0915,12,Male,17.0,42.2,Type 1,307.5,12.3,0.13,Positive,None,Middle School,2,No,Yes,No,No,Yes,141,Child/Pediatric Diabetes
+CHILD_0916,11,Male,20.3,93.3,Type 1,125.8,9.0,0.18,Positive,MDI,Primary,4,No,Yes,No,No,Yes,105,Child/Pediatric Diabetes
+CHILD_0917,4,Female,18.0,59.2,Type 1,222.5,7.5,0.1,Positive,MDI,Preschool,1,No,Yes,No,No,Yes,128,Child/Pediatric Diabetes
+CHILD_0918,9,Male,28.6,90.1,Type 1,227.6,9.6,0.03,Positive,None,Primary,2,No,Yes,Yes,No,No,49,Child/Pediatric Diabetes
+CHILD_0919,5,Male,22.4,37.6,Type 1,162.7,9.8,0.14,Positive,Pump,Preschool,1,No,Yes,No,No,Yes,111,Child/Pediatric Diabetes
+CHILD_0920,3,Female,12.2,44.3,Type 1,230.2,8.3,0.11,Negative,Pump,Preschool,2,No,No,No,No,Yes,52,Child/Pediatric Diabetes
+CHILD_0921,15,Female,16.2,83.7,Type 1,171.5,9.9,0.12,Positive,Basal Only,High School,4,Yes,Yes,No,No,No,41,Child/Pediatric Diabetes
+CHILD_0922,16,Female,18.2,67.4,Type 1,147.2,6.7,0.06,Negative,MDI,High School,1,No,Yes,Yes,No,Yes,74,Child/Pediatric Diabetes
+CHILD_0923,6,Female,23.8,91.0,Type 1,291.1,9.0,0.12,Positive,MDI,Primary,1,No,No,No,No,No,62,Child/Pediatric Diabetes
+CHILD_0924,5,Male,22.2,72.7,Type 1,210.2,13.0,0.14,Negative,Basal Only,Preschool,2,No,Yes,No,No,Yes,174,Child/Pediatric Diabetes
+CHILD_0925,17,Male,18.4,99.0,Type 2,149.7,8.2,2.26,Negative,MDI,High School,2,Yes,No,No,No,Yes,123,Child/Pediatric Diabetes
+CHILD_0926,5,Female,19.6,93.3,Type 1,187.1,10.1,0.08,Positive,MDI,Preschool,7,Yes,Yes,No,No,No,76,Child/Pediatric Diabetes
+CHILD_0927,14,Female,19.9,79.2,Type 1,130.7,7.1,0.15,Positive,Basal Only,Middle School,2,Yes,Yes,Yes,No,Yes,90,Child/Pediatric Diabetes
+CHILD_0928,1,Female,18.6,45.2,Type 2,152.5,9.0,1.46,Negative,Basal Only,Preschool,1,Yes,No,No,No,No,86,Child/Pediatric Diabetes
+CHILD_0929,6,Male,21.6,46.0,Type 1,146.6,7.8,0.01,Positive,MDI,Primary,2,Yes,No,No,No,Yes,56,Child/Pediatric Diabetes
+CHILD_0930,10,Female,19.5,30.2,Type 1,202.1,10.6,0.08,Positive,MDI,Primary,3,Yes,No,No,No,Yes,29,Child/Pediatric Diabetes
+CHILD_0931,7,Male,21.1,83.7,Type 1,220.5,10.7,0.23,Positive,MDI,Primary,1,Yes,Yes,No,No,No,69,Child/Pediatric Diabetes
+CHILD_0932,6,Male,19.7,62.4,Type 1,207.0,10.9,0.08,Positive,MDI,Primary,3,Yes,Yes,No,No,Yes,152,Child/Pediatric Diabetes
+CHILD_0933,17,Male,17.4,28.0,Type 1,138.3,12.0,0.13,Positive,MDI,High School,2,No,No,No,No,Yes,152,Child/Pediatric Diabetes
+CHILD_0934,15,Male,13.4,63.1,Type 2,185.1,8.0,1.36,Negative,MDI,High School,1,Yes,Yes,Yes,No,Yes,157,Child/Pediatric Diabetes
+CHILD_0935,7,Male,24.1,66.2,Type 2,157.8,5.0,2.88,Negative,Pump,Primary,1,No,Yes,No,No,Yes,75,Child/Pediatric Diabetes
+CHILD_0936,4,Female,24.8,63.6,Type 1,195.0,8.1,0.14,Positive,Pump,Preschool,2,Yes,Yes,Yes,No,No,63,Child/Pediatric Diabetes
+CHILD_0937,1,Female,19.5,65.5,Type 1,192.7,8.6,0.13,Positive,Pump,Preschool,3,No,No,No,No,Yes,74,Child/Pediatric Diabetes
+CHILD_0938,13,Male,19.0,99.0,Type 1,259.8,5.4,0.2,Positive,MDI,Middle School,2,Yes,Yes,Yes,No,Yes,108,Child/Pediatric Diabetes
+CHILD_0939,2,Female,14.5,65.3,Type 1,188.5,6.7,0.12,Positive,MDI,Preschool,3,Yes,No,No,No,Yes,118,Child/Pediatric Diabetes
+CHILD_0940,3,Male,18.5,35.2,Type 2,154.2,7.6,3.29,Negative,Basal Only,Preschool,2,No,Yes,No,No,Yes,83,Child/Pediatric Diabetes
+CHILD_0941,16,Female,22.5,62.1,Type 1,296.5,7.9,0.07,Positive,None,High School,1,No,No,No,No,No,68,Child/Pediatric Diabetes
+CHILD_0942,5,Male,22.0,79.6,Type 1,197.8,9.3,0.09,Positive,MDI,Preschool,3,No,Yes,No,No,No,5,Child/Pediatric Diabetes
+CHILD_0943,16,Female,14.6,50.8,Type 1,175.5,8.7,0.16,Positive,MDI,High School,2,Yes,Yes,Yes,No,No,34,Child/Pediatric Diabetes
+CHILD_0944,12,Female,25.6,76.8,Type 2,219.7,6.1,2.76,Negative,Basal Only,Middle School,2,No,No,Yes,No,No,107,Child/Pediatric Diabetes
+CHILD_0945,17,Male,16.3,68.6,Type 1,199.0,10.8,0.06,Negative,Pump,High School,1,Yes,Yes,Yes,No,Yes,148,Child/Pediatric Diabetes
+CHILD_0946,3,Female,18.1,91.8,Type 1,316.5,8.7,0.13,Positive,Pump,Preschool,7,No,Yes,Yes,Yes,No,45,Child/Pediatric Diabetes
+CHILD_0947,6,Female,23.9,84.4,Type 1,152.7,7.1,0.05,Positive,MDI,Primary,4,No,No,No,No,Yes,79,Child/Pediatric Diabetes
+CHILD_0948,15,Female,21.8,58.0,Type 2,109.7,8.1,2.53,Negative,MDI,High School,3,Yes,Yes,No,No,Yes,129,Child/Pediatric Diabetes
+CHILD_0949,17,Male,18.4,59.5,Type 1,195.7,11.3,0.03,Positive,None,High School,1,No,No,No,No,Yes,60,Child/Pediatric Diabetes
+CHILD_0950,6,Male,16.2,47.4,Type 1,245.7,7.7,0.09,Positive,Basal Only,Primary,3,No,No,Yes,No,No,163,Child/Pediatric Diabetes
+CHILD_0951,12,Male,25.3,70.3,Type 1,213.7,8.1,0.19,Positive,MDI,Middle School,2,No,No,No,Yes,No,179,Child/Pediatric Diabetes
+CHILD_0952,8,Male,17.4,65.9,Type 1,211.2,7.4,0.12,Positive,Basal Only,Primary,6,Yes,Yes,Yes,No,No,48,Child/Pediatric Diabetes
+CHILD_0953,7,Male,18.7,29.3,Type 1,271.6,7.4,0.04,Positive,MDI,Primary,3,No,Yes,No,No,No,155,Child/Pediatric Diabetes
+CHILD_0954,17,Male,18.2,56.4,Type 1,157.5,6.0,0.12,Positive,MDI,High School,2,Yes,No,Yes,No,No,11,Child/Pediatric Diabetes
+CHILD_0955,8,Female,20.6,72.6,Type 2,190.4,6.4,2.81,Negative,Pump,Primary,2,No,Yes,Yes,No,No,31,Child/Pediatric Diabetes
+CHILD_0956,6,Female,19.8,49.7,Type 2,145.9,9.1,0.3,Negative,MDI,Primary,0,No,No,No,No,No,132,Child/Pediatric Diabetes
+CHILD_0957,2,Male,22.4,95.1,Type 2,236.6,8.2,0.73,Negative,MDI,Preschool,1,No,No,No,No,No,17,Child/Pediatric Diabetes
+CHILD_0958,9,Female,22.7,72.5,Type 1,258.0,7.9,0.12,Positive,MDI,Primary,2,No,Yes,Yes,No,No,77,Child/Pediatric Diabetes
+CHILD_0959,3,Female,17.0,48.1,Type 2,125.8,7.4,2.52,Negative,MDI,Preschool,1,No,Yes,Yes,No,Yes,113,Child/Pediatric Diabetes
+CHILD_0960,5,Female,15.6,68.2,Type 2,241.0,6.3,1.19,Negative,MDI,Preschool,5,Yes,No,No,No,No,23,Child/Pediatric Diabetes
+CHILD_0961,16,Female,22.9,69.0,Type 1,205.0,9.3,0.16,Positive,Pump,High School,1,Yes,Yes,No,No,Yes,92,Child/Pediatric Diabetes
+CHILD_0962,11,Female,16.5,77.9,Type 1,263.7,5.0,0.11,Positive,MDI,Primary,4,Yes,Yes,No,No,No,165,Child/Pediatric Diabetes
+CHILD_0963,3,Male,19.3,57.2,MODY,242.8,9.0,3.26,Negative,Basal Only,Preschool,0,Yes,Yes,No,No,Yes,64,Child/Pediatric Diabetes
+CHILD_0964,13,Male,18.1,71.3,Type 2,101.2,8.3,2.55,Negative,Pump,Middle School,1,Yes,Yes,No,No,Yes,96,Child/Pediatric Diabetes
+CHILD_0965,14,Female,17.7,45.6,Type 1,202.5,7.5,0.06,Positive,Pump,Middle School,2,No,No,No,No,Yes,155,Child/Pediatric Diabetes
+CHILD_0966,2,Female,20.9,45.8,Type 1,194.7,11.5,0.11,Positive,Basal Only,Preschool,2,Yes,No,No,No,No,59,Child/Pediatric Diabetes
+CHILD_0967,15,Male,19.7,72.8,Type 1,259.5,7.9,0.13,Positive,None,High School,2,Yes,No,No,No,No,163,Child/Pediatric Diabetes
+CHILD_0968,17,Male,21.1,36.9,Type 2,123.7,8.2,1.44,Negative,MDI,High School,2,No,No,No,No,Yes,170,Child/Pediatric Diabetes
+CHILD_0969,15,Female,21.0,60.9,Type 1,192.1,6.6,0.07,Positive,Basal Only,High School,0,No,Yes,No,No,Yes,115,Child/Pediatric Diabetes
+CHILD_0970,17,Male,17.5,99.0,Type 1,200.3,8.0,0.1,Positive,MDI,High School,1,No,No,No,Yes,Yes,25,Child/Pediatric Diabetes
+CHILD_0971,12,Male,26.9,86.9,Type 1,246.6,8.0,0.06,Positive,Pump,Middle School,2,No,Yes,No,No,Yes,154,Child/Pediatric Diabetes
+CHILD_0972,9,Male,15.5,87.1,Type 1,204.3,10.1,0.13,Positive,Basal Only,Primary,4,No,No,No,No,No,83,Child/Pediatric Diabetes
+CHILD_0973,3,Male,19.1,99.0,Type 1,117.8,11.7,0.17,Positive,Pump,Preschool,5,No,Yes,No,No,Yes,63,Child/Pediatric Diabetes
+CHILD_0974,1,Male,26.8,52.7,Type 1,176.2,10.4,0.14,Negative,MDI,Preschool,1,No,No,No,No,No,148,Child/Pediatric Diabetes
+CHILD_0975,16,Female,19.9,74.2,Type 1,173.3,11.3,0.03,Negative,None,High School,2,Yes,No,Yes,No,No,66,Child/Pediatric Diabetes
+CHILD_0976,10,Female,17.5,91.0,Type 1,295.5,11.1,0.13,Positive,Basal Only,Primary,1,Yes,Yes,No,No,No,73,Child/Pediatric Diabetes
+CHILD_0977,8,Male,22.8,30.4,Type 1,175.3,8.3,0.06,Negative,MDI,Primary,3,Yes,No,No,No,No,38,Child/Pediatric Diabetes
+CHILD_0978,9,Female,24.8,70.1,Type 1,228.2,11.1,0.03,Positive,MDI,Primary,2,Yes,No,No,No,No,58,Child/Pediatric Diabetes
+CHILD_0979,12,Male,16.4,55.7,Type 1,168.8,8.8,0.23,Positive,MDI,Middle School,1,Yes,Yes,No,No,Yes,144,Child/Pediatric Diabetes
+CHILD_0980,11,Female,22.3,78.9,Type 1,205.8,6.8,0.15,Negative,Pump,Primary,2,Yes,No,Yes,No,No,58,Child/Pediatric Diabetes
+CHILD_0981,4,Male,21.7,61.2,Type 1,262.0,8.4,0.06,Positive,MDI,Preschool,1,Yes,No,No,No,Yes,8,Child/Pediatric Diabetes
+CHILD_0982,16,Male,18.5,99.0,Type 1,249.5,8.0,0.13,Positive,MDI,High School,0,Yes,No,No,No,No,159,Child/Pediatric Diabetes
+CHILD_0983,14,Female,23.0,52.2,Type 1,268.4,10.3,0.14,Negative,MDI,Middle School,0,Yes,Yes,No,No,No,135,Child/Pediatric Diabetes
+CHILD_0984,14,Female,21.2,89.8,Type 1,193.9,8.2,0.09,Positive,MDI,Middle School,2,Yes,Yes,No,No,Yes,96,Child/Pediatric Diabetes
+CHILD_0985,7,Male,19.2,95.2,Type 1,230.3,9.6,0.14,Positive,MDI,Primary,0,No,No,No,No,No,3,Child/Pediatric Diabetes
+CHILD_0986,5,Female,21.8,64.3,Type 1,137.1,9.4,0.14,Positive,MDI,Preschool,3,No,No,No,No,No,105,Child/Pediatric Diabetes
+CHILD_0987,17,Male,13.5,46.0,Type 1,236.3,8.8,0.03,Positive,Basal Only,High School,1,No,Yes,No,No,Yes,127,Child/Pediatric Diabetes
+CHILD_0988,12,Female,22.0,30.1,Type 1,156.1,9.0,0.01,Positive,Basal Only,Middle School,2,Yes,No,No,No,No,15,Child/Pediatric Diabetes
+CHILD_0989,13,Female,18.9,99.0,Type 1,184.1,8.8,0.06,Positive,MDI,Middle School,0,No,Yes,No,No,No,86,Child/Pediatric Diabetes
+CHILD_0990,9,Male,23.8,90.0,MODY,167.2,7.7,2.05,Negative,MDI,Primary,0,No,No,Yes,No,Yes,153,Child/Pediatric Diabetes
+CHILD_0991,10,Male,21.3,77.6,Type 2,113.2,6.8,1.24,Negative,MDI,Primary,1,Yes,No,Yes,No,No,49,Child/Pediatric Diabetes
+CHILD_0992,4,Female,25.4,41.4,Type 1,276.7,10.1,0.19,Positive,MDI,Preschool,2,No,Yes,No,No,No,14,Child/Pediatric Diabetes
+CHILD_0993,2,Female,15.2,99.0,Type 2,196.9,7.5,2.22,Positive,MDI,Preschool,0,No,Yes,No,Yes,Yes,139,Child/Pediatric Diabetes
+CHILD_0994,17,Female,19.9,66.0,Type 1,167.6,9.2,0.07,Positive,Basal Only,High School,0,Yes,No,No,No,No,60,Child/Pediatric Diabetes
+CHILD_0995,2,Female,17.5,67.8,Type 1,187.3,9.3,0.1,Negative,MDI,Preschool,2,No,Yes,No,No,No,14,Child/Pediatric Diabetes
+CHILD_0996,4,Female,21.4,99.0,Type 1,80.0,7.0,0.04,Positive,Basal Only,Preschool,3,No,No,No,Yes,No,170,Child/Pediatric Diabetes
+CHILD_0997,8,Male,16.0,74.4,Type 1,253.2,10.5,0.11,Positive,Pump,Primary,2,No,Yes,No,No,No,126,Child/Pediatric Diabetes
+CHILD_0998,15,Female,17.2,90.9,Type 1,190.2,9.9,0.12,Positive,MDI,High School,3,No,Yes,No,No,No,10,Child/Pediatric Diabetes
+CHILD_0999,1,Male,21.8,37.4,MODY,170.0,10.2,1.91,Negative,Pump,Preschool,2,No,No,No,No,No,142,Child/Pediatric Diabetes
+CHILD_1000,17,Male,17.5,64.9,Type 2,135.7,7.6,3.55,Negative,MDI,High School,0,No,Yes,No,No,No,139,Child/Pediatric Diabetes

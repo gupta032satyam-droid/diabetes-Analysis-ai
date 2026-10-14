@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Private / local data
+userinfo.txt
+db/users.db
+
+# Large model files (upload via GitHub Releases or Git LFS instead)
+*.pkl
+outputs/
+
+# Large raw dataset
+datasets/diabetes_012_health_indicators_BRFSS2015.csv
