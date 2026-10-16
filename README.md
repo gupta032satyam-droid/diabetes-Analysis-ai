@@ -16,7 +16,7 @@
 
 ##  Overview
 
-**Diabetes Diagnose AI System** is a Python desktop app with a modern blue-and-white GUI. A user signs in, enters clinical values (age, BMI, glucose, HbA1c, etc.) and the trained machine-learning model classifies the case into one of **7 categories**. The app then shows a rule-based medicine / diet / precaution recommendation and lets the user download a report.
+**Diabetes Analysis AI System**  It is a Python desktop app with a modern blue-and-white GUI. A user signs in, enters clinical values (age, BMI, glucose, HbA1c, etc.) and the trained machine-learning model classifies the case into one of **7 categories**. The app then shows a rule-based medicine / diet / precaution recommendation and lets the user download a report.
 
 >  **Disclaimer:** This project is for educational and research purposes only. It is **not** a medical device and must not replace advice from a qualified doctor.
 
@@ -30,7 +30,7 @@
 
 | Diagnostic Dashboard | Prediction Result |
 |:---:|:---:|
-| ![Dashboard](screenshots/dashboard.png) | ![Result1](screenshots/result.png) |![Result2](screenshots/result.png)|
+| ![Dashboard](screenshots/dashboard.png) | ![Result1](screenshots/result1.png) |![Result2](screenshots/result2.png)|
 
 | Health Tracker | Diagnosis History |
 |:---:|:---:|
@@ -38,7 +38,7 @@
 
 | AI Chatbot | Knowledge Base |
 |:---:|:---:|
-| ![Chatbot](screenshots/chatbot.png) | ![Knowledge_Base](screenshots/knowledgebase.png) |
+| ![Chatbot](screenshots/chatbot.png) | ![Knowledge_Base](screenshots/knowledge.png) |
 
 ## Features
 
