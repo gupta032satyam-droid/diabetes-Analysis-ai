@@ -23,22 +23,25 @@
 ## Screenshots
 
 <!-- Replace the image files in /screenshots with your own. Keep the same file names, or edit the paths below. -->
-
 | Login | Main Menu |
 |:---:|:---:|
-| ![Login](screenshots/login.png) | ![Main_Menu](screenshots/main_menu.png) |
+| ![Login](screenshots/login.png) | ![Main Menu](screenshots/main_menu.png) |
 
 | Diagnostic Dashboard | Prediction Result |
 |:---:|:---:|
-| ![Dashboard](screenshots/dashboard.png) | ![Result1](screenshots/result1.png) |![Result2](screenshots/result2.png)|
+| ![Dashboard](screenshots/dashboard.png) | ![Result](screenshots/result1.png) |
 
-| Health Tracker | Diagnosis History |
+| Detailed Result | Health Tracker |
 |:---:|:---:|
-| ![Tracker](screenshots/tracker.png) | ![History](screenshots/history.png) |
+| ![Result 2](screenshots/result2.png) | ![Tracker](screenshots/tracker.png) |
 
-| AI Chatbot | Knowledge Base |
+| Diagnosis History | AI Chatbot |
 |:---:|:---:|
-| ![Chatbot](screenshots/chatbot.png) | ![Knowledge_Base](screenshots/knowledge.png) |
+| ![History](screenshots/history.png) | ![Chatbot](screenshots/chatbot.png) |
+
+| Knowledge Base |
+|:---:|
+| ![Knowledge Base](screenshots/knowledge.png) |
 
 ## Features
 
